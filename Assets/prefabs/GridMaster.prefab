@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1881996957708566089
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1881996957708566086}
+  - component: {fileID: 1881996957708566087}
+  m_Layer: 0
+  m_Name: GridMaster
+  m_TagString: GridMaster
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1881996957708566086
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1881996957708566089}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1881996957708566087
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1881996957708566089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d89992238bd1754a888e842ed4279fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tower_prefab: {fileID: 1250027306999822, guid: ae6f8e3e5796a7444ba72a760b6d562f,
+    type: 3}
+  grid_field: {fileID: 1348064789803252, guid: 8a02ef29c13ec6345b9c1a8c6deae198, type: 3}
+  grid_line: {fileID: 7211345906539420235, guid: 5d3820fd83d5ad74ead2f3f0909e0472,
+    type: 3}
+  total_towers_placed: 0
+  waywisers: []
+  shromps: []
+  spawnpoints: []
+  blockboxplacements: []

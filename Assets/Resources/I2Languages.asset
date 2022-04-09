@@ -1,0 +1,4372 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Continue
+      TermType: 0
+      Description: 
+      Languages:
+      - Continue
+      - Weiter
+      - Basst
+      - "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C"
+      - Jatka
+      - "\u3064\u3065\u3051\u308B"
+      - Continuar
+      - Continuar
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Controls
+      TermType: 0
+      Description: 
+      Languages:
+      - Controls
+      - Steuerung
+      - Steuerung
+      - "\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435"
+      - Ohjaimet
+      - "\u305D\u3046\u3055"
+      - Controles
+      - Controles
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: FontChange
+      TermType: 9
+      Description: 
+      Languages:
+      - MuddasheepFont SDF
+      - MuddasheepFont SDF
+      - MuddasheepFont SDF
+      - MuddasheepFont SDF
+      - MuddasheepFont SDF
+      - NotoSerifJP-Light SDF
+      - MuddasheepFont SDF
+      - MuddasheepFont SDF
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Hold To Skip
+      TermType: 0
+      Description: 
+      Languages:
+      - Hold To Skip
+      - "\xDCberspringen"
+      - "\xDCbaspringa"
+      - "\u0417\u0430\u0436\u043C\u0438\u0442\u0435 \u0434\u043B\u044F \u043F\u0440\u043E\u043F\u0443\u0441\u043A\u0430"
+      - "Pid\xE4 painettuna ohittaaksesi"
+      - "\u9577\u62BC\u3057\u3067\u30B9\u30AD\u30C3\u30D7"
+      - "Segure para avan\xE7ar"
+      - Presiona para omitir
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Return to Title
+      TermType: 0
+      Description: 
+      Languages:
+      - Return to Title
+      - Zum Startscreen
+      - Zruck zum Start
+      - "\u041D\u0430 \u0433\u043B\u0430\u0432\u043D\u044B\u0439 \u044D\u043A\u0440\u0430\u043D"
+      - "Palaa otsikkon\xE4ytt\xF6\xF6n"
+      - "\u30BF\u30A4\u30C8\u30EB\u3078\u3082\u3069\u308B"
+      - 'Voltar ao menu '
+      - "Volver al t\xEDtulo"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achievements
+      TermType: 0
+      Description: 
+      Languages:
+      - Achievements
+      - Errungenschaften
+      - Errungenschoftn
+      - "\u0414\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u044F"
+      - Saavutukset
+      - "\u3058\u3063\u305B\u304D"
+      - Conquistas
+      - Logros
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Language
+      TermType: 0
+      Description: 
+      Languages:
+      - Language
+      - Sprache
+      - Sprochn
+      - "\u042F\u0437\u044B\u043A"
+      - Kieli
+      - "\u8A00\u8A9E"
+      - Idioma
+      - Idioma
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Options
+      TermType: 0
+      Description: 
+      Languages:
+      - Options
+      - Optionen
+      - Optionen
+      - "\u041E\u043F\u0446\u0438\u0438"
+      - Asetukset
+      - "\u30AA\u30D7\u30B7\u30E7\u30F3"
+      - "Op\xE7\xF5es "
+      - Opciones
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Press any key
+      TermType: 0
+      Description: 
+      Languages:
+      - Press any key
+      - "Dr\xFCcke eine Taste"
+      - Druck a Tastn
+      - "\u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u043B\u044E\u0431\u0443\u044E
+        \u043A\u043B\u0430\u0432\u0438\u0448\u0443"
+      - "Paina tahansa n\xE4pp\xE4int\xE4"
+      - "\u30AD\u30FC\u3092\u62BC\u3059"
+      - Pressione qualquer tecla
+      - Presiona cualquier tecla
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: This is nice
+      TermType: 0
+      Description: 
+      Languages:
+      - This is nice
+      - Das ist nett
+      - Des is voi guat
+      - "\u042D\u0442\u043E \u043C\u0438\u043B\u043E"
+      - "T\xE4m\xE4 on hieno"
+      - "\u3059\u3054\u3044"
+      - Muito bem!
+      - "Esto est\xE1 bien"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: boxesplaced
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Boxes placed:'
+      - 'Kisten platziert:'
+      - "Schochtln higst\xF6t:"
+      - "\u0412\u0441\u0435\u0433\u043E \u043A\u043E\u0440\u043E\u0431\u043E\u043A:"
+      - 'Laatikot sijoitettu:'
+      - "\u304A\u3044\u305F\u7BB1:"
+      - 'Caixas colocadas:'
+      - 'Cajas colocadas:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: burgundytip1
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Hint: Spirits will stand still until you press SPACE (<sprite="PS4_Square"
+        index=0> / <sprite="XboxSeriesX_X" index=0>)!'
+      - "Tipp: Geister bleiben stehen bis du LEERTASTE (<sprite=\"PS4_Square\" index=0>
+        / <sprite=\"XboxSeriesX_X\" index=0>) dr\xFCckst!"
+      - 'Tipp: Gspensta bleibn steh bis du LEERTASTE (<sprite="PS4_Square" index=0>
+        / <sprite="XboxSeriesX_X" index=0>) druckst!'
+      - "\u041F\u043E\u0434\u0441\u043A\u0430\u0437\u043A\u0430: \u0414\u0443\u0445\u0438
+        \u043D\u0435 \u043D\u0430\u0447\u043D\u0443\u0442 \u0434\u0432\u0438\u0436\u0435\u043D\u0438\u0435,
+        \u043F\u043E\u043A\u0430 \u0432\u044B \u043D\u0435 \u043D\u0430\u0436\u043C\u0451\u0442\u0435
+        \u041F\u0420\u041E\u0411\u0415\u041B (<sprite=\"PS4_Square\" index=0> / <sprite=\"XboxSeriesX_X\"
+        index=0>)!"
+      - "Vihje: Henget pysyv\xE4t paikallaan kunnes olet paina V\xC4LI N\xC4PP\xC4INT\xC4
+        (<sprite=\"PS4_Square\" index=0> / <sprite=\"XboxSeriesX_X\" index=0>)!"
+      - "\u30D2\u30F3\u30C8: SPACE(<sprite=\"PS4_Square\" index=0> / <sprite=\"XboxSeriesX_X\"
+        index=0>)\u3092\u62BC\u3059\u307E\u3067\u3001 \u30B9\u30D4\u30EA\u30C3\u30C8\u306F\u3046\u3054\u304B\u306A\u3044\uFF01"
+      - "Dica: Os esp\xEDritos ficar\xE3o parados at\xE9  que voc\xEA pressione ESPA\xC7O
+        (<sprite=\"PS4_Square\" index=0> /  <sprite=\"XboxSeriesX_X\" index=0>)!"
+      - "Pista: Los esp\xEDritus se quedar\xE1n quietos hasta que presiones ESPACIO(<sprite=\"PS4_Square\"
+        index=0> / <sprite=\"XboxSeriesX_X\" index=0>)!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: burgundytip5
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Hint: You can press N (<sprite="PS4_r1" index=0> / <sprite="XboxSeriesX_RB"
+        index=0>) to switch characters!'
+      - "Tipp: Du kannst N (<sprite=\"PS4_r1\" index=0> / <sprite=\"XboxSeriesX_RB\"
+        index=0>) dr\xFCcken, um Charaktere zu wechseln!"
+      - 'Tipp: Druck N (<sprite="PS4_r1" index=0> / <sprite="XboxSeriesX_RB" index=0>)
+        um Charaktere zu wechsln!'
+      - "\u041F\u043E\u0434\u0441\u043A\u0430\u0437\u043A\u0430: \u041D\u0430\u0436\u043C\u0438\u0442\u0435
+        N (<sprite=\"PS4_r1\" index=0> / <sprite=\"XboxSeriesX_RB\" index=0>) \u0447\u0442\u043E\u0431\u044B
+        \u0441\u043C\u0435\u043D\u0438\u0442\u044C \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u0436\u0435\u0439!"
+      - "Vihje: Voit painaa N - n\xE4pp\xE4int\xE4 (<sprite=\"PS4_r1\" index=0> /
+        <sprite=\"XboxSeriesX_RB\" index=0>) vaihda hahmoja!"
+      - "\u30D2\u30F3\u30C8: N(<sprite=\"PS4_r1\" index=0> / <sprite=\"XboxSeriesX_RB\"
+        index=0>)\u3067\u3046\u3054\u304B\u3059\u30AD\u30E3\u30E9\u30AF\u30BF\u30FC\u3092\u4EA4\u4EE3\uFF01"
+      - "Dica: Voc\xEA pode pressionar N  (<sprite=\"PS4_r1\" index=0> /  <sprite=\"XboxSeriesX_RB\"
+        index=0>) para trocar de personagem!"
+      - "Pista: \xA1Puedes presionar la tecla N(<sprite=\"PS4_r1\" index=0> / <sprite=\"XboxSeriesX_RB\"
+        index=0>) para cambiar de personajes!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: burgundytip6
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Hint: Try waking the spirits when they fall asleep!'
+      - 'Tipp: Wenn Geister einschlafen, versuch sie zu wecken!'
+      - 'Tipp: Wenn de Gspensta einschlofn, vasuachs aufzuweckn!'
+      - "\u041F\u043E\u0434\u0441\u043A\u0430\u0437\u043A\u0430: \u041F\u043E\u043F\u0440\u043E\u0431\u0443\u0439\u0442\u0435
+        \u0440\u0430\u0437\u0431\u0443\u0434\u0438\u0442\u044C \u0434\u0443\u0445\u043E\u0432
+        \u0435\u0441\u043B\u0438 \u043E\u043D\u0438 \u0443\u0441\u043D\u0443\u0442!"
+      - "Vihje: Yrit\xE4 her\xE4tt\xE4\xE4 henki\xE4, kun he nukahtavat!"
+      - "\u30D2\u30F3\u30C8: \u30B9\u30D4\u30EA\u30C3\u30C8\u304C\u306D\u3080\u3063\u305F\u3089\u8D77\u3053\u305D\u3046\uFF01"
+      - "Dica: Tente acordar os esp\xEDritos quando  eles adormecerem!"
+      - "Pista: \xA1Trata de despertar a los esp\xEDritus cuandos se queden dormidos!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: credits_additionalthanks
+      TermType: 0
+      Description: 
+      Languages:
+      - Additional Thanks
+      - Danke auch an
+      - Dongsche
+      - "\u041E\u0441\u043E\u0431\u043E\u0435 \u0441\u043F\u0430\u0441\u0438\u0431\u043E"
+      - "Lis\xE4\xE4 Kiitoksi\xE4"
+      - "\u8FFD\u52A0\u30B5\u30F3\u30AF\u30B9"
+      - Agradecimentos adicionais
+      - Agradecimientos Adicionales
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: credits_betatesters
+      TermType: 0
+      Description: 
+      Languages:
+      - Betatesters
+      - Beta Tester
+      - Beta Tester
+      - "\u0411\u0435\u0442\u0430 \u0422\u0435\u0441\u0442\u0435\u0440\u044B"
+      - "Beta Testereit\xE4"
+      - "\u30D9\u30FC\u30BF\u30C6\u30B9\u30BF\u30FC"
+      - Betatesters
+      - Betatesters
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: credits_executeive
+      TermType: 0
+      Description: 
+      Languages:
+      - Exe-cute-ive Producers
+      - Lieblingsproduzenten
+      - Lieblingsproduzenten
+      - "\u0418\u0441\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0435
+        \u041F\u0440\u043E\u0434\u044E\u0441\u0435\u0440\u044B"
+      - "Johtavat S\xF6p\xF6-Tuottajat"
+      - "\u30AD\u30E5\u30FC\u30C8\u30FB\u30A8\u30B0\u30BC\u30AF\u30C6\u30A3\u30D6\u30FB\u30D7\u30ED\u30C7\u30E5\u30FC\u30B5\u30FC"
+      - Produtores exe-cute-ivos
+      - Productores Ejecu-lindos
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: credits_musicartcode
+      TermType: 0
+      Description: 
+      Languages:
+      - Music, Art, Code
+      - Musik, Zeichnungen, Code
+      - Musik, Zeichnungen, Code
+      - "\u041C\u0443\u0437\u044B\u043A\u0430, \u0410\u0440\u0442, \u041A\u043E\u0434"
+      - Musiikki, Taide, Koodi
+      - "\u30DF\u30E5\u30FC\u30B8\u30C3\u30AF\u3001 \u30A2\u30FC\u30C8\u3001 \u30D7\u30ED\u30B0\u30E9\u30E0"
+      - "M\xFAsica, arte, c\xF3digo"
+      - "M\xFAsica, Arte, C\xF3digo"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: credits_mypatrons
+      TermType: 0
+      Description: 
+      Languages:
+      - My patrons and everyone who helped make this game a reality.
+      - Meine Patrons und alle, die an das Spiel geglaubt haben.
+      - "Meine Patrons und olle, de an des Sp\xFC geglaubt hom."
+      - "\u041C\u043E\u0438\u043C \u041F\u0430\u0442\u0440\u043E\u043D\u0430\u043C
+        \u0438 \u0432\u0441\u0435\u043C, \u043A\u0442\u043E \u043F\u043E\u043C\u043E\u0433\u0430\u043B
+        \u0432\u043E\u043F\u043B\u043E\u0442\u0438\u0442\u044C \u044D\u0442\u0443
+        \u0438\u0433\u0440\u0443 \u0432 \u0436\u0438\u0437\u043D\u044C."
+      - "Tukijoilleni ja kaikki, jotka auttoivat tekem\xE4\xE4n t\xE4st\xE4 pelist\xE4
+        totta."
+      - "\u3053\u306E\u30B2\u30FC\u30E0\u306E\u3058\u3064\u3052\u3093\u3092\u624B\u4F1D\u3063\u3066\u304F\u308C\u305F\u30D1\u30C8\u30ED\u30F3\u3068\u307F\u3093\u306A"
+      - Meus patrons e todos que ajudaram  a tornar este jogo realidade.
+      - Mis patrocinadores y todos los que ayudaron a hacer realidad este juego.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: credits_thanksforplaying
+      TermType: 0
+      Description: 
+      Languages:
+      - Thank you for playing!
+      - "Danke f\xFCr's Spielen!"
+      - "Dongsche fias Sp\xFCn!"
+      - "\u0421\u043F\u0430\u0441\u0438\u0431\u043E \u0437\u0430 \u0438\u0433\u0440\u0443!"
+      - Kiitos pelaamisesta!
+      - "\u3042\u305D\u3093\u3067\u304F\u308C\u3066\u3042\u308A\u304C\u3068\u3046\uFF01"
+      - Obrigado por jogar!
+      - "\xA1Gracias por jugar!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: credits_theend
+      TermType: 0
+      Description: 
+      Languages:
+      - The End ... ?
+      - Ende ... ?
+      - Ende ... ?
+      - "\u041A\u043E\u043D\u0435\u0446 ... ?"
+      - Loppu ... ?
+      - "\u304A\u308F\u308A ... \uFF1F"
+      - Fim...?
+      - "\xBFFin...?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs1_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Catty, let's go!
+      - Catty, auf geht's!
+      - Catty, kimm gemma!
+      - "\u041A\u044D\u0442\u0442\u0438, \u0432\u043F\u0435\u0440\u0451\u0434!"
+      - "Katti, menn\xE4\xE4n!"
+      - "\u30AD\u30E3\u30C6\u30A3\u3001\u3044\u304F\u308F\u3088\uFF01"
+      - "Catty, vamos l\xE1!"
+      - "Catty, \xA1v\xE1monos!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs1_2
+      TermType: 0
+      Description: 
+      Languages:
+      - It's adventure ti-
+      - "Es ist Zeit f\xFCr Abent-"
+      - Es is Zeit fia Obent-
+      - "\u042D\u0442\u043E \u0432\u0440\u0435\u043C\u044F \u043F\u0440\u0438\u043A\u043B\u044E\u0447\u0435-"
+      - On seikkailuai-
+      - "\u30A2\u30C9\u30D9\u30F3\u30C1\u30E3\u30FC\u30FB\u30BF-"
+      - "\xC9 hora de aventu-"
+      - Es hora de aventu-
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs1_3
+      TermType: 0
+      Description: 
+      Languages:
+      - CATTY?!
+      - CATTY?!
+      - CATTY?!
+      - "\u041A\u042D\u0422\u0422\u0418?!"
+      - Katti?!
+      - "\u30AD\u30E3\u30C6\u30A3\uFF01\uFF1F"
+      - CATTY?!
+      - "\xA1\xBFCATTY?!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs1_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Oh my! We need to guide these spirits home!
+      - "Meine G\xFCte! Wir m\xFCssen diese Geister heimf\xFChren!"
+      - Oida! Mia miassn de Geister hambringa!
+      - "\u0411\u043E\u0436\u0435 \u043C\u043E\u0439! \u041D\u0430\u043C \u043D\u0443\u0436\u043D\u043E
+        \u043E\u0442\u0432\u0435\u0441\u0442\u0438 \u044D\u0442\u0438\u0445 \u0434\u0443\u0445\u043E\u0432
+        \u0434\u043E\u043C\u043E\u0439!"
+      - "Voi minun! Meid\xE4n t\xE4ytyy ohjata n\xE4m\xE4 henget kotiin!"
+      - "\u3042\u3063\uFF01 \u3053\u306E\u30B9\u30D4\u30EA\u30C3\u30C8\u3092\u304A\u3046\u3061\u307E\u3067\u307F\u3061\u3073\u304B\u306A\u3044\u3068\uFF01"
+      - "Ah! Precisamos guiar estes esp\xEDritos  para casa."
+      - "\xA1Oh cielos! \xA1Necesitamos guiar a estos esp\xEDritus a casa!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs1_5
+      TermType: 0
+      Description: 
+      Languages:
+      - We can use the cardboard boxes in your backyard!
+      - "Wir k\xF6nnen die Schachteln aus deinem Garten verwenden!"
+      - Mia kennan de Schochtln aus deim Goatn nehma!
+      - "\u041C\u044B \u043C\u043E\u0436\u0435\u043C \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C
+        \u043A\u043E\u0440\u043E\u0431\u043A\u0438 \u0441 \u0442\u0432\u043E\u0435\u0433\u043E
+        \u0437\u0430\u0434\u043D\u0435\u0433\u043E \u0434\u0432\u043E\u0440\u0430!"
+      - "Voimme k\xE4ytt\xE4\xE4 pahvilaatikoita takapihallasi!"
+      - "\u3046\u3089\u306B\u308F\u306B\u3042\u3063\u305F\u30C0\u30F3\u30DC\u30FC\u30EB\u304C\u5F79\u306B\u7ACB\u3061\u305D\u3046\uFF01"
+      - "N\xF3s podemos utilizar as caixas de papel\xE3o  do seu quintal!"
+      - "\xA1Podemos usar las cajas de cart\xF3n de tu patio!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs1_6
+      TermType: 0
+      Description: 
+      Languages:
+      - MAOW! Meowow, moarf!
+      - MAO!! Miaoawo, moarf!
+      - MAO!! Miaoawo, moarf!
+      - "\u041C\u042F\u0423!! \u041C\u0438\u044F\u0443, \u043C\u044F\u0443\u0444!"
+      - MIAU! Miauau, moarf!
+      - "\u30CB\u30E3\u30AA\u30A6\uFF01 \u30CB\u30E3\u30F3\u30CB\u30E3\u30F3\u3001\u30DF\u30E3\u30FC\uFF01"
+      - MIAU! Miauau, miaaufh!
+      - "\xA1MIAO! \xA1Miaumiau, moarf!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs2_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Done! Let's go on an adventure now!
+      - "Fertig! Zeit f\xFCr unser Abenteuer!"
+      - Des woas! Gemma auf a Abenteuer!
+      - "\u0413\u043E\u0442\u043E\u0432\u043E! \u041F\u043E\u0448\u043B\u0438 \u043D\u0430\u043A\u043E\u043D\u0435\u0446
+        \u0432 \u043F\u0440\u0438\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0435!"
+      - "Tehty! L\xE4hdet\xE4\xE4n nyt seikkailulle!"
+      - "\u3088\u3057\uFF01 \u3055\u3042\u307C\u3046\u3051\u3093\u3078\u51FA\u3088\u3046\u3088\uFF01"
+      - Pronto! Agora, vamos a uma aventura!
+      - "\xA1Listo! \xA1V\xE1monos de aventura ahora!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs2_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Maow! Meowmeow! Mewmaow!
+      - Miau! Miaomiaa! Miiiomoa!
+      - Miau! Miaomiaa! Miiiomoa!
+      - "\u041C\u042F\u0423! \u041C\u0438\u044F\u043C\u044F\u0443! \u041C\u044F\u0443\u0432\u0430\u0443!"
+      - Miau ! Miaumiau! Miaumuauuau!
+      - "\u30CB\u30E3\u30AA\u30A6\uFF01 \u30CB\u30E3\u30AA\u30CB\u30E3\uFF01 \u30CB\u30E3\u30CB\u30E3\u30AA\u30FC\uFF01"
+      - Miau! Miaumiau! Miaumiau!
+      - "\xA1Miau! \xA1Miaumiau! \xA1Miaumiau!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs2_3
+      TermType: 0
+      Description: 
+      Languages:
+      - The spirits still need our guidance?
+      - Die Geister brauchen weiterhin unsere Hilfe?
+      - Wos, de Gspensta brauchn uns nu?
+      - "\u0414\u0443\u0445\u0430\u043C \u0432\u0441\u0451 \u0435\u0449\u0451 \u043D\u0443\u0436\u043D\u043E
+        \u043D\u0430\u0448\u0435 \u0441\u043E\u043F\u0440\u043E\u0432\u043E\u0436\u0434\u0435\u043D\u0438\u0435?"
+      - Tarvitsevatko henget edelleen ohjaustamme?
+      - "\u3042\u306E\u30B9\u30D4\u30EA\u30C3\u30C8\u305F\u3061\u3001 \u307E\u3060\u79C1\u305F\u3061\u306E\u30AC\u30A4\u30C9\u304C\u3044\u308B\u3063\u3066\uFF1F"
+      - "Os esp\xEDritos ainda precisam da nossa  orienta\xE7\xE3o?"
+      - "\xBFLos esp\xEDritus todav\xEDa necesitan nuestra ayuda?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs2_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Moawf!
+      - Moaf!!
+      - Moaf!!
+      - "\u041C\u044F\u0443\u0444!"
+      - Moauf!
+      - "\u30CB\u30E3\u30FC\uFF01"
+      - Moawf!
+      - "\xA1Moawf!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs2_5
+      TermType: 0
+      Description: 
+      Languages:
+      - They have a long way to go?!
+      - Sie haben noch einen langen Weg vor sich?!
+      - De miassn nu weit geh?!
+      - "\u0418\u043C \u043F\u0440\u0435\u0434\u0441\u0442\u043E\u0438\u0442 \u0435\u0449\u0451
+        \u0434\u043E\u043B\u0433\u0438\u0439 \u043F\u0443\u0442\u044C?!"
+      - "Heill\xE4 on pitk\xE4 tie kuljettavana?!"
+      - "\u307E\u3060\u307E\u3060\u5148\u306F\u306A\u304C\u3044\u304B\u3082\uFF01\uFF1F"
+      - "Eles t\xEAm um longo caminho pela frente?!"
+      - "\xA1\xBFQue tienen un largo camino por recorrer?!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs2_6
+      TermType: 0
+      Description: 
+      Languages:
+      - Meows!
+      - Miaus!
+      - Miaus!
+      - "\u041C\u044F!"
+      - Miau!
+      - "\u30CB\u30E3\u30F3\uFF01"
+      - Meows!
+      - "\xA1Miaus!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs2_7
+      TermType: 0
+      Description: 
+      Languages:
+      - Alright, let's do this!
+      - Na gut, gehn wir's an!
+      - Passt, gemmas on!
+      - "\u041B\u0430\u0434\u043D\u043E, \u0432\u043F\u0435\u0440\u0451\u0434!"
+      - "Selv\xE4, teemme t\xE4m\xE4n!"
+      - "\u3046\u3093\u3001 \u3084\u308A\u307E\u3057\u3087\uFF01"
+      - "Certo, vamos l\xE1!"
+      - "Muy bien, \xA1hag\xE1moslo!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs3_1
+      TermType: 0
+      Description: 
+      Languages:
+      - The land of the spirits is still far away!
+      - Das Land der Geister ist noch weit weg!
+      - Zum Lond dea Geista is nu weit!
+      - "\u0417\u0435\u043C\u043B\u044F \u0434\u0443\u0445\u043E\u0432 \u0432\u0441\u0451
+        \u0435\u0449\u0451 \u0434\u0430\u043B\u0435\u043A\u043E!"
+      - "Henkien maa on viel\xE4 kaukana!"
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u306E\u5730\u307E\u3067\u307E\u3060\u307E\u3060\u3068\u304A\u3044\u306D\uFF01"
+      - "A Terra dos esp\xEDritos ainda est\xE1 muito  distante!"
+      - "\xA1La tierra de los esp\xEDritus a\xFAn est\xE1 lejos!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs3_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Let's continue using our cardboard bo-
+      - Platzieren wir weiterhin unsere Kartons un-
+      - Damma weida mit unsere Schochtln un-
+      - "\u0414\u0430\u0432\u0430\u0439 \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u043C
+        \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044F \u043A\u0430\u0440\u0442\u043E\u043D\u043D\u044B\u0435
+        \u043A\u0430-"
+      - "Meid\xE4n pit\xE4isi jatkaa pahvilaatikkojemme k\xE4y-"
+      - "\u3069\u3093\u3069\u3093\u30C0\u30F3\u30DC\u30FC\u30EB\u3092\u4F7F\u3063\u3066-"
+      - Vamos continuar usando nossas caixas  de pape-
+      - Sigamos usando nuestras cajas de car-
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs3_3
+      TermType: 0
+      Description: 
+      Languages:
+      - CATTY?!
+      - CATTY?!
+      - CATTY?!
+      - "\u041A\u042D\u0422\u0422\u0418?!"
+      - KATTI?!
+      - "\u30AD\u30E3\u30C6\u30A3\uFF01\uFF1F"
+      - CATTY?!
+      - "\xA1\xBFCATTY?!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs4_1
+      TermType: 0
+      Description: 
+      Languages:
+      - WE DID IT! Let's move on!
+      - Geschafft! Lass uns weitergehn.
+      - Gschofft! Auf geht's.
+      - "\u041C\u042B \u0421\u0414\u0415\u041B\u0410\u041B\u0418 \u042D\u0422\u041E!
+        \u0414\u0430\u0432\u0430\u0439 \u0434\u0432\u0438\u0433\u0430\u0442\u044C\u0441\u044F
+        \u0434\u0430\u043B\u044C\u0448\u0435!"
+      - "ME TEIMME SEN! Siirryt\xE4\xE4n eteenp\xE4in!"
+      - "\u3084\u3063\u305F\uFF01 \u6B21\u3078\u884C\u304F\u3088\uFF01"
+      - CONSEGUIMOS! Vamos em frente!
+      - "\xA1LO LOGRAMOS! \xA1Sigamos!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs4_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Meowowow! Oowmeow!
+      - Miaoaoao! Aumiau!
+      - Miaoaoao! Aumiau!
+      - "\u041C\u044F\u0443\u0432\u043E\u0443\u043E\u0443! \u041E\u0443\u043D\u044F\u0443!"
+      - Miauouou! Ooumiau!
+      - "\u30CB\u30E3\u30AA\u30CB\u30E3\u30AA\uFF01 \u30A6\u30FC\u30CB\u30E3\u30F3\uFF01"
+      - Miauauau! Aaumiauu!
+      - "\xA1Miauwowow! \xA1Oowmiau!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs4_3
+      TermType: 0
+      Description: 
+      Languages:
+      - OH NO!! We only have five boxes left?!
+      - "Was? Wir haben nur mehr f\xFCnf Kisten?!"
+      - "Wos? Mia hom nur mehr f\xFCnf Schochtln?!"
+      - "\u041E \u041D\u0415\u0422! \u0423 \u043D\u0430\u0441 \u043E\u0441\u0442\u0430\u043B\u043E\u0441\u044C
+        \u0432\u0441\u0435\u0433\u043E \u043F\u044F\u0442\u044C \u043A\u043E\u0440\u043E\u0431\u043E\u043A?!"
+      - "VOI EI!! Meill\xE4 on j\xE4ljell\xE4 vain viisi laatikkoa ?!"
+      - "\u3048\u3063\uFF01\uFF1F \u306E\u3053\u308A5\u7BB1\u3057\u304B\u306A\u3044\uFF01\uFF1F"
+      - "AH, N\xC3O! N\xF3s temos apenas cinco caixas restantes?!"
+      - "\xA1OH NO! \xBFSolo nos quedan cinco cajas?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs4_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Maooooow uooooooow eooouuuw!
+      - Maoooooooo iauuuu oauuuu!
+      - Maoooooooo iauuuu oauuuu!
+      - "\u041C\u0430\u0443\u0443\u0443\u0443 \u0443\u043E\u043E\u043E\u043E\u0443
+        \u0435\u0443\u043E\u043E\u043E\u0443!"
+      - Maaaaaaauuuu uooooooo eooouuu!
+      - "\u30CB\u30E3\u30FC\u30AA\u3002 \u30AA\u30FC\u30A6\u3002 \u30A8\u30AA\u30FC\u30A6\uFF01"
+      - Maaaaao iaaaaaaau auaaaaauu
+      - Maooooowuoooooooweooouuuw
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs5_1
+      TermType: 0
+      Description: 
+      Languages:
+      - YAY, WE FOUND MORE BOXES!
+      - Juhu, wir haben mehr Kisten gefunden!
+      - JAWOI!! DO SAN MEHR SCHOCHTLN!
+      - "\u0423\u0420\u0410, \u041C\u042B \u041D\u0410\u0428\u041B\u0418 \u0415\u0429\u0401
+        \u041A\u041E\u0420\u041E\u0411\u041A\u0418!"
+      - "HURRAA, L\xD6YSIMME LIS\xC4\xC4 LAAATIKOITA!"
+      - "\u3084\u3063\u305F\u3001 \u3082\u3063\u3068\u7BB1\u304C\u898B\u3064\u304B\u3063\u305F\uFF01"
+      - OBA! ENCONTRAMOS MAIS CAIXAS!
+      - "\xA1HURRA!, \xA1HEMOS ENCONTRADO M\xC1S CAJAS!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs5_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Oewoemeow! Maow.
+      - Auuumiauu! Mao.
+      - Auuumiauu! Mao.
+      - "\u041E\u0443\u0443\u0443\u043C\u044F\u0443! \u041C\u0430\u0443."
+      - Oeuoemiau! Miau.
+      - "\u30AA\u30A6\u30CB\u30E3\u3002 \u30CA\u30AA\u3002"
+      - Iaiauumiau! Meau
+      - "\xA1Oewoemiauw! Miauw."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs5_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Exactly! Now we can-
+      - "Genau! Jetzt k\xF6nnen wir-"
+      - Genau! Jetzt kennan ma-
+      - "\u0422\u043E\u0447\u043D\u043E! \u0422\u0435\u043F\u0435\u0440\u044C \u043C\u044B
+        \u043C\u043E\u0436\u0435\u043C-"
+      - Tarkalleen! Nyt voimme-
+      - "\u3046\u3093\u3046\u3093\uFF01 \u3055\u3066-"
+      - Exato! Agora podem-
+      - "\xA1Exactamente! Ahora podemos-"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs5_4
+      TermType: 0
+      Description: 
+      Languages:
+      - OH NO!!
+      - Oh nein!
+      - OIDA!!
+      - "\u041E \u041D\u0415\u0422!!"
+      - VOI EI!!
+      - "\u3042\u3042\u3063\uFF01"
+      - "AH, N\xC3O!!"
+      - "\xA1\xA1OH NO!!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs5_5
+      TermType: 0
+      Description: 
+      Languages:
+      - A TOTALLY BLOCKING HEART-VINE!
+      - EINE TOTAL BLOCKIERENDE HERZRANKE!
+      - A TOTAL BLOCKIERENDE HERZRANKN!
+      - "\u041F\u041E\u041B\u041D\u041E\u0421\u0422\u042C\u042E \u041D\u0415\u041F\u0420\u041E\u0425\u041E\u0414\u0418\u041C\u0410\u042F
+        \u0421\u0415\u0420\u0414\u0426\u0415-\u041B\u041E\u0417\u0410!"
+      - "T\xC4YSIN EST\xC4V\xC4 SYD\xC4N-K\xD6YNNOS!"
+      - "\u30CF\u30FC\u30C8\u306E\u30C4\u30BF\u3067\u3055\u3048\u304E\u3089\u308C\u3066\u308B\uFF01"
+      - "UMA VINHA-DE-CORA\xC7\xC3O ABSOLUTAMENTE BLOQUEADORA!"
+      - "\xA1UNA LIANA CORAZ\xD3N NOS CORTA EL PASO!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs5_6
+      TermType: 0
+      Description: 
+      Languages:
+      - MUAOOOOOOOOOOOWWW!
+      - MIAUWEIA!
+      - MIAOOOUUUUUUUUUUUUUU!!
+      - "\u041C\u0423\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0410\u0423\u0423\u0423!"
+      - MUAOOOOOOOOOOOUUU!
+      - "\u30CB\u30E3\u30A2\u30A2\u30A2\u30A2\u30A2\u30AA\uFF01"
+      - MIEAAAAAAAAAAAAAUUU!
+      - MIAUUUUUUUUUUU!
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs5_7
+      TermType: 0
+      Description: 
+      Languages:
+      - Seems like spirits can go through them, though.
+      - "Es scheint so, als k\xF6nnten die Geister durch schweben."
+      - Schaut so aus ois ob Gspensta durchgeh kinnan.
+      - "\u041A\u0430\u0436\u0435\u0442\u0441\u044F, \u0434\u0443\u0445\u0438 \u0432\u0441\u0451
+        \u0436\u0435 \u043C\u043E\u0433\u0443\u0442 \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u0442\u044C
+        \u0441\u043A\u0432\u043E\u0437\u044C \u043D\u0435\u0451."
+      - "Vaikuttaa silt\xE4, ett\xE4 henget voivat k\xE4yd\xE4 niiden l\xE4pi."
+      - "\u3067\u3082\u30B9\u30D4\u30EA\u30C3\u30C8\u306F\u30C4\u30BF\u3092\u3068\u304A\u308C\u308B\u307F\u305F\u3044\u3002"
+      - "Mas parece que os esp\xEDritos podem atravess\xE1-la."
+      - "Parece que los esp\xEDritus pueden atravesarla."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs5_8
+      TermType: 0
+      Description: 
+      Languages:
+      - Alright, let's work together then!
+      - Gut, lasst uns zusammenarbeiten!
+      - Na guat, donn helf ma zaum!
+      - "\u0425\u043E\u0440\u043E\u0448\u043E, \u0442\u043E\u0433\u0434\u0430 \u0434\u0430\u0432\u0430\u0439
+        \u0440\u0430\u0431\u043E\u0442\u0430\u0442\u044C \u0432\u043C\u0435\u0441\u0442\u0435!"
+      - "Selv\xE4, ty\xF6skentelemme sitten yhdess\xE4!"
+      - "\u3088\u3057\u3001 \u529B\u3092\u3042\u308F\u305B\u307E\u3057\u3087\uFF01"
+      - "Certo, ent\xE3o vamos trabalhar juntos!"
+      - "De acuerdo, \xA1trabajemos juntos entonces!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs5_9
+      TermType: 0
+      Description: 
+      Languages:
+      - Mo!!
+      - Miau!
+      - Miau! Miaomiaa! Miiiomoa!
+      - "\u041C\u044F!"
+      - Mou!!
+      - "\u30CB\u30E3\uFF01"
+      - Miau!!
+      - "\xA1Mo!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs6_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Phew! That vine sure was troublesome!
+      - "Puh! Diese Ranke war wirklich m\xFChsam!"
+      - "Oida, de Rankn woa gscheit m\xFChsom."
+      - "\u0424\u0443\u0445! \u042D\u0442\u0430 \u043B\u043E\u0437\u0430 \u0431\u044B\u043B\u0430
+        \u043E\u0447\u0435\u043D\u044C \u043D\u0435\u043F\u0440\u0438\u044F\u0442\u043D\u043E\u0439!"
+      - "Huh huh! Se k\xF6ynn\xF6s oli varmasti hankala!"
+      - "\u3075\u3045\uFF01 \u30C4\u30BF\u306E\u305B\u3044\u3067\u3051\u3063\u3053\u3046\u3081\u3093\u3069\u3046\u3060\u3063\u305F\u308F\u306D\uFF01"
+      - Ufa! Aquela vinha certamente deu trabalho!
+      - "\xA1Uf! \xA1Esa liana s\xED que fue complicada!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs6_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Meouuw!
+      - Miauuuuuii!
+      - Miauuuuuii!
+      - "\u041C\u044F\u0443\u0443\u0443!"
+      - Miauuu~!
+      - "\u30CB\u30E3\u30A6\u30A6\uFF01"
+      - Miaaaaauii!
+      - "\xA1Miauuw!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs6_3
+      TermType: 0
+      Description: 
+      Languages:
+      - At least there are no eyeflowers!
+      - Wenigstens gibt es hier keine Augenblumen!
+      - Zmindest gibt's kane Augnblumen.
+      - "\u041D\u043E \u0445\u043E\u0442\u044F \u0431\u044B \u043D\u0435\u0442 \u0433\u043B\u0430\u0437\u043E\u0446\u0432\u0435\u0442\u043E\u0432! "
+      - "Ainakin ei ole silm\xE4kukkia!"
+      - "\u3067\u3082\u76EE\u7389\u306E\u82B1\u304C\u306A\u304F\u3066\u3088\u304B\u3063\u305F\uFF01"
+      - "Pelo menos n\xE3o h\xE1 flores-observadoras!"
+      - "\xA1Al menos no hay ninguna flor-ojo!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs6_4
+      TermType: 0
+      Description: 
+      Languages:
+      - They make spirits fall asleep.
+      - Sie bringen Geister zum Einschlafen.
+      - "De bringan Gspensta n\xE4mli zum Einschlofn."
+      - "\u041E\u043D\u0438 \u0437\u0430\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0442
+        \u0434\u0443\u0445\u043E\u0432 \u0437\u0430\u0441\u043D\u0443\u0442\u044C."
+      - He saavat henket nukahtamaan.
+      - "\u30A2\u30EC\u3067\u30B9\u30D4\u30EA\u30C3\u30C8\u304C\u306D\u3080\u3063\u3061\u3083\u3046\u304B\u3089\u3002"
+      - "Elas fazem esp\xEDritos adormecerem."
+      - "Hacen que los esp\xEDritus se duerman."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs6_5
+      TermType: 0
+      Description: 
+      Languages:
+      - Maow.
+      - Mao.
+      - Mao.
+      - "\u041C\u0430\u0443."
+      - Maou.
+      - "\u30CA\u30AA\u3002"
+      - Mao.
+      - Miau.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs7_1
+      TermType: 0
+      Description: 
+      Languages:
+      - I feel sleepy too now.
+      - "Jetzt bin ich auch etwas m\xFCde."
+      - Jetzt bin i a miad.
+      - "\u041C\u043D\u0435 \u0442\u0435\u043F\u0435\u0440\u044C \u0442\u043E\u0436\u0435
+        \u0445\u043E\u0447\u0435\u0442\u0441\u044F \u0441\u043F\u0430\u0442\u044C."
+      - "Min\xE4kin tunnen uneliaisuutta nyt."
+      - "\u306A\u3093\u304B\u79C1\u3082\u306D\u3080\u304F\u306A\u3063\u3066\u304D\u305F\u3002"
+      - "Acho que at\xE9 eu fiquei sonolento."
+      - "Ahora yo tambi\xE9n tengo sue\xF1o."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs7_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Meowzzzzz.
+      - MiaozzZzzZz.
+      - MiaozzZzzZz.
+      - "\u041C\u044F\u0443\u0440\u0440\u0440\u0440\u0440."
+      - Miauzzzzz
+      - "\u30CB\u30E3\u30AA\u2026zzzzz"
+      - MiauzzZzzZz.
+      - Miauzzzzz.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs7_3
+      TermType: 0
+      Description: 
+      Languages:
+      - OH! THERE IS A LOCKED GATE NOW?!
+      - Oh, wir stehen vor einem versperrten Tor?!
+      - Oida, do is a gschlossenes Tor?!
+      - "\u041E\u0419! \u0412\u041E\u0420\u041E\u0422\u0410 \u0422\u0415\u041F\u0415\u0420\u042C
+        \u0417\u0410\u041F\u0415\u0420\u0422\u042B?"
+      - VAI NIIN! NYT ON LUKITTU PORTTI ?!
+      - "\u3048\u3063\uFF01 \u30ED\u30C3\u30AF\u30B2\u30FC\u30C8\u3060\u3063\u3066\uFF01\uFF1F"
+      - "AH, N\xC3O! UM PORT\xC3O TRANCADO AGORA?!"
+      - "\xA1OH! \xA1\xBFAHORA HAY UNA PUERTA CERRADA?!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs7_4
+      TermType: 0
+      Description: 
+      Languages:
+      - I HOPE SPIRITS CAN OPEN THEM!!
+      - "Ich hoffe, die Geister k\xF6nnen es \xF6ffnen!"
+      - Hoffntlich kennans de Gspensta aufmochn!
+      - "\u041D\u0410\u0414\u0415\u042E\u0421\u042C \u0414\u0423\u0425\u0418 \u0421\u041C\u041E\u0413\u0423\u0422
+        \u041E\u0422\u041F\u0415\u0420\u0415\u0422\u042C \u0418\u0425!!"
+      - "Toivon, ett\xE4 henget voivat avata heid\xE4t!"
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u304C\u958B\u3051\u3089\u308C\u305F\u3089\u3044\u3044\u3051\u3069\uFF01"
+      - "Espero que os esp\xEDritos possam abri-lo."
+      - "\xA1\xA1ESPERO QUE LOS ESP\xCDRITUS PUEDAN ABRIRLAS!!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs7_5
+      TermType: 0
+      Description: 
+      Languages:
+      - Maow maow.
+      - Mao mao.
+      - Mao mao.
+      - "\u041C\u0430\u0443 \u043C\u0430\u0443."
+      - Maou maou.
+      - "\u30CA\u30AA\u30CA\u30AA\u3002"
+      - Mao mao.
+      - Miau Miau.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs8_1
+      TermType: 0
+      Description: 
+      Languages:
+      - WE DID IT! (Again.)
+      - GESCHAFFT! (Schon wieder.)
+      - GSCHOFFT! (Scho wieda.)
+      - "\u041C\u042B \u0421\u041F\u0420\u0410\u0412\u0418\u041B\u0418\u0421\u042C!
+        (\u0421\u043D\u043E\u0432\u0430.)"
+      - ME TEIMME SEN! (Uudelleen.)
+      - "(\u307E\u305F) \u3046\u307E\u304F\u3044\u3063\u305F\u308F\uFF01"
+      - CONSEGUIMOS! (De novo.)
+      - "\xA1LO LOGRAMOS! (De nuevo)."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs8_2
+      TermType: 0
+      Description: 
+      Languages:
+      - MEAOW!!
+      - MIAU!
+      - MIAU!
+      - "\u041C\u0418\u042F\u0423!!"
+      - MIEAU!!
+      - "\u30CB\u30E3\u30AA\u30A6\uFF01"
+      - MIAU!
+      - "\xA1\xA1MIAU!!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs8_3
+      TermType: 0
+      Description: 
+      Languages:
+      - SHHhhhh, Catty! There is a cute boxfox!
+      - "Pssst, Catty! Dort dr\xFCben ist ein s\xFC\xDFer Kistenfuchs!"
+      - "Pscht, Catty! Do dr\xFCbn is a sia\xDFa Schochtlfuchs!"
+      - "\u0422\u0441\u0441\u0441\u0441, \u041A\u044D\u0442\u0442\u0438! \u0421\u043C\u043E\u0442\u0440\u0438
+        \u043A\u0430\u043A\u0430\u044F \u043C\u0438\u043B\u0430\u044F \u043A\u043E\u0440\u043E\u0431\u043E\u0447\u043D\u0430\u044F
+        \u043B\u0438\u0441\u0430!"
+      - "SHHhhhh, Katti! Tossa on s\xF6p\xF6 laatikkokettu!"
+      - "\u30AD\u30E3\u30C6\u30A3\u3001\u3057\u305A\u304B\u306B\uFF01 \u304B\u308F\u3044\u3044\u30CF\u30B3\u30AD\u30C4\u30CD\u304C\u3044\u308B\u3088\uFF01"
+      - "SHHhhhh, Catty! H\xE1 uma raposa-das-caixas dormindo ali!"
+      - "\xA1SHHhhhh, Catty! \xA1Hay un zorro-caja muy lindo!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs8_4
+      TermType: 0
+      Description: 
+      Languages:
+      - It's asleep, but it probably really likes our boxes!!
+      - "Er schl\xE4ft, aber ich glaube, er hat Kisten zum Fressen gern!!"
+      - Er schloft, oba i glaub der wiad unsere Schochtln voi gean hom!
+      - "\u041E\u043D\u0430 \u0441\u043F\u0438\u0442, \u043D\u043E \u0435\u0439 \u0442\u043E\u0447\u043D\u043E
+        \u043F\u0440\u0438\u0434\u0443\u0442\u0441\u044F \u043F\u043E \u0432\u043A\u0443\u0441\u0443
+        \u043D\u0430\u0448\u0438 \u043A\u043E\u0440\u043E\u0431\u043A\u0438!"
+      - "Se on unessa, mutta se todenn\xE4k\xF6isesti pit\xE4\xE4 todella laatikoistamme!"
+      - "\u306D\u3066\u308B\u3088\u3046\u3060\u3051\u3069\u3001\u30C0\u30F3\u30DC\u30FC\u30EB\u3092\u6C17\u306B\u3044\u3063\u3066\u304F\u308C\u305D\u3046\uFF01"
+      - Aposto que ela adoraria as nossas caixas!
+      - "Est\xE1 dormido, \xA1pero probablemente le encanten nuestras cajas!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs8_5
+      TermType: 0
+      Description: 
+      Languages:
+      - Purrrrrrrrr.
+      - Schnurrrrrr.
+      - Schnurrrrrrrrrrrr.
+      - "\u041C\u0443\u0440\u0440\u0440\u0440\u0440\u0440."
+      - Krr-krr.
+      - "\u30B4\u30ED\u30B4\u30ED\u3002"
+      - Rrrrrrrr.
+      - Prrrrrrrrr.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs9_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Ooooh.
+      - Oooooh.
+      - Oooooh.
+      - "\u041E\u043E\u043E\u043E\u043E\u0443."
+      - Vai niiiiiin.
+      - "\u304A\u304A\u304A\u3063\u3002"
+      - Aaah.
+      - Ooooh.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs9_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Oooooh!!
+      - Oooooh!!
+      - Oooooh!!
+      - "\u041E\u043E\u043E\u043E\u043E\u0443!"
+      - Voooi!!
+      - "\u304A\u304A\u304A\u3063\uFF01"
+      - Aaaaah!!
+      - "\xA1\xA1Oooooh!!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs9_3
+      TermType: 0
+      Description: 
+      Languages:
+      - I know what this is!!
+      - "Oh, ich wei\xDF genau, was das ist!"
+      - "I wa\xDF genau, wos des is!"
+      - "\u042F \u0437\u043D\u0430\u044E \u0447\u0442\u043E \u044D\u0442\u043E!!"
+      - "Tied\xE4n mik\xE4 t\xE4m\xE4 on!"
+      - "\u3053\u308C\u77E5\u3063\u3066\u308B\uFF01"
+      - "Eu sei o que \xE9 isto!"
+      - "\xA1\xA1Yo s\xE9 lo que es esto!!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs9_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Maooowww?!
+      - Miaoooouuu?!
+      - Miaooooou?
+      - "\u041C\u044F\u0430\u0443\u0443\u0443\u0443?!"
+      - Maooou?!
+      - "\u30CB\u30E3\u30AA\u30AA\u30AA\u30A6\uFF01\uFF1F"
+      - Miaaaaaau?!
+      - "\xBFMiauuuuu?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cs9_5
+      TermType: 0
+      Description: 
+      Languages:
+      - You'll see, Catty!
+      - "Bald wei\xDFt du's auch, Catty!"
+      - Wirstas glei sehng, Catty!
+      - "\u0421\u0435\u0439\u0447\u0430\u0441 \u0443\u0432\u0438\u0434\u0438\u0448\u044C,
+        \u041A\u044D\u0442\u0442\u0438!"
+      - "N\xE4et, Katti!"
+      - "\u3059\u3050\u306B\u308F\u304B\u308B\u308F\u3088\u3001\u30AD\u30E3\u30C6\u30A3\uFF01"
+      - "Voc\xEA ver\xE1, Catty!"
+      - "\xA1Ya ver\xE1s, Catty!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse10_1
+      TermType: 0
+      Description: 
+      Languages:
+      - We!
+      - Wir!
+      - Wia!
+      - "\u041C\u044B!"
+      - Me!
+      - "\u3046\u307E\u304F\uFF01"
+      - CON-
+      - "\xA1Nosotros!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse10_2
+      TermType: 0
+      Description: 
+      Languages:
+      - DID!
+      - HABEN ES!
+      - HOMS!
+      - "\u0421\u0414\u0415\u041B\u0410\u041B\u0418!"
+      - TEIMME!
+      - "\u3084\u3063\u305F\uFF01"
+      - SE-
+      - "\xA1LO!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse10_3
+      TermType: 0
+      Description: 
+      Languages:
+      - IT!!
+      - GESCHAFFT!
+      - GSCHOFFT!
+      - "\u042D\u0422\u041E!"
+      - SEN!!
+      - "\u308F\uFF01"
+      - GUIMOS!
+      - "\xA1\xA1LOGRAMOS!!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse10_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Uh...
+      - "\xD6h..."
+      - Oida...
+      - "\u041E\u0439.."
+      - Voi ei...
+      - "\u3048\u30FC\u3068\u2026"
+      - Uh...
+      - "Eh\u2026"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse10_5
+      TermType: 0
+      Description: 
+      Languages:
+      - CATTY?!
+      - CATTY?!
+      - CATTY?!
+      - "\u041A\u042D\u0422\u0422\u0418?!"
+      - Katti?!
+      - "\u30AD\u30E3\u30C6\u30A3\uFF01\uFF1F"
+      - CATTY?!
+      - "\xA1\xBFCATTY?!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse11_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Greetings! My name is Hedgar!
+      - "Seid gegr\xFC\xDFt! Mein Name ist Hedgar!"
+      - Servus! Mein Name ist Hedgar!
+      - "\u041F\u0440\u0438\u0432\u0435\u0442! \u041C\u0435\u043D\u044F \u0437\u043E\u0432\u0443\u0442
+        \u0425\u0435\u0434\u0433\u0430\u0440!"
+      - "Terveisi\xE4! Nimeni on Siilinus!"
+      - "\u3084\u3042\u3084\u3042\uFF01 \u30DC\u30AF\u306F\u30D8\u30C3\u30B8\u30E3\u30FC\uFF01"
+      - "Sauda\xE7\xF5es! Meu nome \xE9 Hedgar."
+      - "\xA1Saludos! \xA1Mi nombre es Hedgar!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse11_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Hi Hedgar! What's up?
+      - Hallo Hedgar! Was gibt's?
+      - Griasdi Hedgar! Wos geht?
+      - "\u041F\u0440\u0438\u0432\u0435\u0442 \u0425\u0435\u0434\u0433\u0430\u0440!
+        \u041A\u0430\u043A \u0434\u0435\u043B\u0430?"
+      - Hei Siilinus! Miten menee?
+      - "\u30D8\u30C3\u30B8\u30E3\u30FC\uFF01 \u5143\u6C17\uFF1F"
+      - "Oi Hedgar, o que t\xE1 pegando?"
+      - "\xA1Hola Hedgar! \xBFQu\xE9 tal?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse11_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Can you place piles of leaves to open the gate?
+      - "K\xF6nnt ihr Bl\xE4tter aufh\xE4ufen, um das Tor zu \xF6ffnen?"
+      - "K\xF6nnt ihr Bl\xE4tter aufh\xE4ufen, um das Tor zu \xF6ffnen?"
+      - "\u0412\u044B \u043C\u043E\u0436\u0435\u0442\u0435 \u043F\u043E\u0441\u0442\u0430\u0432\u0438\u0442\u044C
+        \u0441\u0442\u043E\u0433 \u043B\u0438\u0441\u0442\u044C\u0435\u0432 \u0447\u0442\u043E\u0431\u044B
+        \u043E\u0442\u043A\u0440\u044B\u0442\u044C \u0432\u043E\u0440\u043E\u0442\u0430?"
+      - "Voitteko sijoittaa kasa lehti\xE4 portin avaamiseksi?"
+      - "\u306F\u3063\u3071\u306E\u5C71\u3092\u304A\u3044\u3066\u30B2\u30FC\u30C8\u3092\u3042\u3051\u3066\u304F\u308C\u306A\u3044\uFF1F"
+      - "Ser\xE1 que voc\xEAs poderiam colocar pilhas de folhas para abrir este port\xE3o?"
+      - "\xBFPodr\xEDan apilar las hojas para abrir la puerta?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse11_4
+      TermType: 0
+      Description: 
+      Languages:
+      - MAOW!
+      - Miauklar!
+      - MOMIOA!
+      - "\u041C\u0410\u0423!"
+      - MIAOU!
+      - "\u30CA\u30AA\uFF01"
+      - MIAU!
+      - "\xA1MIAU!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse11_5
+      TermType: 0
+      Description: 
+      Languages:
+      - Okay! Catty will place the leaf piles!
+      - "Alles klar! Catty wird die Bl\xE4tterhaufen platzieren!"
+      - "Basst, Catty wird de Bl\xE4tterhaufn auflegn!"
+      - "\u0425\u043E\u0440\u043E\u0448\u043E! \u041A\u044D\u0442\u0442\u0438 \u0431\u0443\u0434\u0435\u0442
+        \u0441\u0442\u0430\u0432\u0438\u0442\u044C \u0441\u0442\u043E\u0433\u0430
+        \u043B\u0438\u0441\u0442\u044C\u0435\u0432!"
+      - Okei! Katti sijoittaa lehtipaalut!
+      - "\u308F\u304B\u3063\u305F\uFF01 \u30AD\u30E3\u30C6\u30A3\u304C\u306F\u3063\u3071\u3092\u304A\u3044\u3066\u304F\u308C\u308B\u3063\u3066\uFF01"
+      - "Okay! A Catty consegue coloc\xE1-las."
+      - "\xA1De acuerdo! \xA1Catty va a apilar las hojas!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse11_6
+      TermType: 0
+      Description: 
+      Languages:
+      - Thank you, goodbye!
+      - Habt meinen Dank! Bis wir uns wiedersehen!
+      - "Dankesch\xF6n, auf Wiedersehen!"
+      - "\u0421\u043F\u0430\u0441\u0438\u0431\u043E, \u0434\u043E \u0441\u0432\u0438\u0434\u0430\u043D\u0438\u044F!"
+      - "Kiitoksi\xE4, n\xE4hd\xE4\xE4n!"
+      - "\u3042\u308A\u304C\u3068\u3046\uFF01 \u305D\u308C\u3058\u3083\uFF01"
+      - Obrigado, adeus!
+      - "\xA1Gracias, adi\xF3s!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse12_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Hedgar! You're following us?
+      - "Hedgar! L\xE4ufst du uns nach?"
+      - Hedgar! Lafst uns du noch?
+      - "\u0425\u0435\u0434\u0433\u0430\u0440! \u0422\u044B \u0445\u043E\u0434\u0438\u0448\u044C
+        \u0437\u0430 \u043D\u0430\u043C\u0438?"
+      - "Siilinus! Seuraatko meit\xE4?"
+      - "\u30D8\u30C3\u30B8\u30E3\u30FC\uFF01 \u3064\u3044\u3066\u304D\u3066\u308B\u306E\uFF1F"
+      - "Hedgar! Voc\xEA est\xE1 nos seguindo?"
+      - "\xA1Hedgar! \xBFNos est\xE1s siguiendo?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse12_2
+      TermType: 0
+      Description: 
+      Languages:
+      - I took a detour for the starsnow.
+      - Ich machte einen Umweg, um die Sternenflocken zu sehen.
+      - Ich machte einen Umweg, um die Sternenflocken zu sehen.
+      - "\u042F \u043F\u043E\u0448\u0435\u043B \u0432 \u043E\u0431\u0445\u043E\u0434
+        \u043A \u0437\u0432\u0435\u0437\u0434\u043E\u043F\u0430\u0434\u0443."
+      - "Otin kiertotiet\xE4 t\xE4htilumelle."
+      - "\u661F\u306E\u96EA\u3092\u898B\u306B\u304D\u305F\u306E\u3055\u3002"
+      - Eu peguei um desvio a caminho da neve estelar.
+      - "Tom\xE9 un desv\xEDo para ver la nevada estelar."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse12_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Starsnow?
+      - Sternenflocken?
+      - Sternflockn?
+      - "\u0417\u0432\u0435\u0437\u0434\u043E\u043F\u0430\u0434\u0443?"
+      - "T\xE4htilumi?"
+      - "\u661F\u306E\u96EA\uFF1F"
+      - Neve estelar?
+      - "\xBFNevada estelar?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse12_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Mawmeow?!
+      - Mamiau?!
+      - Mamiau?!
+      - "\u041C\u044F\u043E\u0443\u043C\u044F\u0434\u0443?"
+      - Maumaou?!
+      - "\u30DE\u30A2\u30AA\uFF1F"
+      - Maumiau?!
+      - "\xA1\xBFMaumiau?!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse12_5
+      TermType: 0
+      Description: 
+      Languages:
+      - The spirits are stargazing, let's pick them up!
+      - Die Geister sind in die Sternenschau vertieft. Lasst sie uns abholen!
+      - De Geister san gonz verwirrt, hol mas gschwind ab!
+      - "\u0417\u0432\u0451\u0437\u0434\u044B \u043F\u0430\u0434\u0430\u044E\u0442
+        \u0441 \u043D\u0435\u0431\u0430, \u0434\u0430\u0432\u0430\u0439\u0442\u0435
+        \u0441\u043E\u0431\u0435\u0440\u0451\u043C \u0438\u0445!"
+      - "Henget katsovat t\xE4hti\xE4, noutakaamme ne!"
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u304C\u661F\u3092\u898B\u3066\u308B\u3002
+        \u79C1\u305F\u3061\u304C\u307F\u3061\u3073\u304B\u306A\u3044\u3068\uFF01"
+      - "Os esp\xEDritos est\xE3o observando as estrelas, vamos peg\xE1-los!"
+      - "Los esp\xEDritus est\xE1n contemplando las estrellas, \xA1vamos a agarrarlos!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse13_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Thank the local deities!
+      - Den lokalen Gottheiten sei Dank!
+      - Den lokalen Gottheiten sei Dank!
+      - "\u0421\u043F\u0430\u0441\u0438\u0431\u043E \u043C\u0435\u0441\u0442\u043D\u044B\u043C
+        \u0431\u043E\u0436\u0435\u0441\u0442\u0432\u0430\u043C!"
+      - Kiitos paikallisille jumalille!
+      - "\u5730\u5143\u306E\u30AB\u30DF\u30B5\u30DE\u3001\u3042\u308A\u304C\u3068\u3046\uFF01"
+      - "Gra\xE7as \xE0s deidades locais!"
+      - "\xA1Gracias a las deidades locales!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse13_2
+      TermType: 0
+      Description: 
+      Languages:
+      - We found this anti-starsnow growth.
+      - Wir haben diese Anti-Sternflocken-Pflanze gefunden.
+      - Wir haben diese Anti-Sternflocken-Pflanze gefunden.
+      - "\u041C\u044B \u043D\u0430\u0448\u043B\u0438 \u0430\u043D\u0442\u0438-\u0437\u0432\u0435\u0437\u0434\u043E\u043F\u0430\u0434\u043D\u043E\u0435
+        \u0434\u0435\u0440\u0435\u0432\u043E."
+      - "L\xF6ysimme t\xE4m\xE4n t\xE4htien vastaisen lumen kasvun."
+      - "\u661F\u306E\u96EA\u3092\u3075\u305B\u3050\u6728\u3092\u898B\u3064\u3051\u3089\u308C\u305F\u3088\u3002"
+      - "N\xF3s achamos esta \xE1rvore anti-neve-estelar."
+      - "Encontramos este \xE1rbol anti-nevada-estelar."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse13_3
+      TermType: 0
+      Description: 
+      Languages:
+      - The starsnow stopped, let's go!
+      - "Die Sternflocken haben aufgeh\xF6rt zu fallen! Gehen wir!"
+      - Der Sternschnee hot aufgheat, gemmas on!
+      - "\u0417\u0432\u0435\u0437\u0434\u043E\u043F\u0430\u0434 \u0437\u0430\u043A\u043E\u043D\u0447\u0438\u043B\u0441\u044F,
+        \u043F\u043E\u0439\u0434\u0451\u043C!"
+      - "T\xE4htilumi pys\xE4htyi, menn\xE4\xE4n!"
+      - "\u661F\u306E\u96EA\u304C\u3068\u307E\u3063\u305F\uFF01 \u884C\u304D\u307E\u3057\u3087\uFF01"
+      - "A neve estelar parou, vamos l\xE1!"
+      - "La nevada estelar se detuvo, \xA1vamos!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse13_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Meaow!!
+      - Miauuu!!
+      - Miauuu!!
+      - "\u041C\u0438\u0430\u0443\u0443!"
+      - Meaou!!
+      - "\u30CB\u30E3\u30AA\uFF01"
+      - Miiau!!
+      - "\xA1\xA1Miau!!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse14_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Still following us, huh?
+      - Du folgst uns also noch immer, wie?
+      - Du foigst uns nu imma, ha?
+      - "\u0412\u0441\u0451 \u0435\u0449\u0451 \u0445\u043E\u0434\u0438\u0448\u044C
+        \u0437\u0430 \u043D\u0430\u043C\u0438, \u0430?"
+      - "Seuraatko edelleen meit\xE4?"
+      - "\u307E\u3060\u3064\u3044\u3066\u304D\u3066\u308B\u306E\uFF1F"
+      - "Ainda nos seguindo, n\xE9?"
+      - "Todav\xEDa nos est\xE1s siguiendo, \xBFeh?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse14_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Pure coincidence!
+      - "Nat\xFCrlich ein Zufall!"
+      - "Nat\xFCrlich ein Zufall!"
+      - "\u0427\u0438\u0441\u0442\u043E\u0435 \u0441\u043E\u0432\u043F\u0430\u0434\u0435\u043D\u0438\u0435!"
+      - Puhdas sattuma!
+      - "\u305F\u3093\u306A\u308B\u30B0\u30A6\u30BC\u30F3\u3055\uFF01"
+      - "Pura coincid\xEAncia!"
+      - "\xA1Pura coincidencia!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse14_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Pure coincidence!
+      - "Nat\xFCrlich ein Zufall!"
+      - "Nat\xFCrlich ein Zufall!"
+      - "\u0427\u0438\u0441\u0442\u043E\u0435 \u0441\u043E\u0432\u043F\u0430\u0434\u0435\u043D\u0438\u0435!"
+      - Puhdas sattuma!
+      - "\u305F\u3093\u306A\u308B\u30B0\u30A6\u30BC\u30F3\u3055\uFF01"
+      - "Pura coincid\xEAncia!"
+      - "\xA1Pura coincidencia!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse14_4
+      TermType: 0
+      Description: 
+      Languages:
+      - I'm Batty, this is Catty! It's nice to meet you.
+      - Ich bin Batty, das ist Catty. Nett, dich kennen zu lernen.
+      - I bin Batty, des is Catty. Gfreit uns, dass ma uns kennenlernen!
+      - "\u042F \u0411\u044D\u0442\u0442\u0438, \u044D\u0442\u043E \u041A\u044D\u0442\u0442\u0438!
+        \u041F\u0440\u0438\u044F\u0442\u043D\u043E \u043F\u043E\u0437\u043D\u0430\u043A\u043E\u043C\u0438\u0442\u0441\u044F."
+      - "Olen Lepsuli, t\xE4m\xE4 on Katti! Hauska tutustua."
+      - "\u79C1\u306F\u30D0\u30C3\u30C6\u30A3\u3001\u3053\u306E\u5B50\u306F\u30AD\u30E3\u30C6\u30A3\uFF01
+        \u3088\u308D\u3057\u304F\uFF01"
+      - "Eu sou Batty, esta \xE9 Catty! Prazer em conhec\xEA-lo."
+      - "\xA1Yo soy Batty, y este es Catty! Es un placer conocerte."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse14_5
+      TermType: 0
+      Description: 
+      Languages:
+      - My name is Hedgar, named after the-
+      - Man nennt mich Hedgar, nach dem-
+      - Man nennt mich Hedgar, nach dem-
+      - "\u041C\u0435\u043D\u044F \u0437\u043E\u0432\u0443\u0442 \u0425\u0435\u0434\u0433\u0430\u0440,
+        \u043D\u0430\u0437\u0432\u0430\u043D \u0432 \u0447\u0435\u0441\u0442\u044C-"
+      - Nimeni on Siilinus, nimetty-
+      - "\u30DC\u30AF\u306F\u30D8\u30C3\u30B8\u30E3\u30FC\u3001 \u3053\u306E\u540D\u524D\u306E\u3086\u3089\u3044\u306F-"
+      - "Meu nome \xE9 Hedgar, nomeado ap\xF3s o-"
+      - Mi nombre es Hedgar, nombrado como el-
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse14_6
+      TermType: 0
+      Description: 
+      Languages:
+      - Ohhh, what's this?! Let's check it out!
+      - Ooooh was ist denn das?! Lasst uns nachsehen!
+      - Oiiiiiiida, wos is denn des? Des schauma uns on!
+      - "\u041E\u0443\u0443, \u0430 \u0447\u0442\u043E \u044D\u0442\u043E \u0442\u0430\u043A\u043E\u0435?!
+        \u041F\u043E\u0439\u0434\u0451\u043C \u0443\u0437\u043D\u0430\u0435\u043C!"
+      - "Ohhh, mik\xE4 t\xE4m\xE4 on ?! Katsotaanpa se!"
+      - "\u3042\u3089\u3063 \u4F55\u3053\u308C\uFF01\uFF1F \u30C1\u30A7\u30C3\u30AF\u3057\u307E\u3057\u3087\uFF01"
+      - "Ahhh, o que \xE9 isto?! Vamos l\xE1 ver!"
+      - "\xA1\xBFOhh, qu\xE9 es esto?! \xA1Vamos a averiguarlo!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse15_1
+      TermType: 0
+      Description: 
+      Languages:
+      - ... named after the first leader of Leafstack Kingdom.
+      - "... nach dem ersten Regenten des Bl\xE4tterhaufenk\xF6nigreichs."
+      - "... nach dem ersten Regenten des Bl\xE4tterhaufenk\xF6nigreichs."
+      - "... \u043D\u0430\u0437\u0432\u0430\u043D \u0432 \u0447\u0435\u0441\u0442\u044C
+        \u043F\u0435\u0440\u0432\u043E\u0433\u043E \u043F\u0440\u0430\u0432\u0438\u0442\u0435\u043B\u044F
+        \u041B\u0438\u0441\u0442\u0432\u043E\u0441\u0442\u043E\u0433\u043D\u043E\u0433\u043E
+        \u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u0442\u0432\u0430."
+      - "... nimetty Lehtipinoiden Valtakunnan ensimm\xE4isen johtajan mukaan."
+      - "\u2026 \u30AA\u30C1\u30D0\u30E4\u30DE\u738B\u56FD\u306E\u3055\u3044\u3057\u3087\u306E\u30EA\u30FC\u30C0\u30FC\u304B\u3089\u304D\u3066\u3044\u308B\u306E\u3055\u3002"
+      - "... nomeado ap\xF3s o primeiro l\xEDder do reino Monte das Folhas."
+      - "\u2026nombrado como el primer l\xEDder del Reino Pilahojas."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse15_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Moah!
+      - Miauwow!
+      - Miauwow!
+      - "\u041C\u0430\u0443\u0430\u0443!"
+      - Moau!
+      - "\u30CA\u30FC\uFF01"
+      - Miuahh!
+      - "\xA1Moah!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse15_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Oh, the Leafstack Kingdom! That's far from here!
+      - "Oh, das Bl\xE4tterhaufenk\xF6nigreich? Das ist aber weit weg!"
+      - "Aha, des Bl\xE4tterhaufenk\xF6nigreich? Des is gonz sche weit weg!"
+      - "\u041E\u0443, \u041B\u0438\u0441\u0442\u0432\u043E\u0441\u0442\u043E\u0433\u043D\u043E\u0435
+        \u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u0442\u0432\u043E! \u042D\u0442\u043E
+        \u0436\u0435 \u0442\u0430\u043A \u0434\u0430\u043B\u0435\u043A\u043E \u043E\u0442\u0441\u044E\u0434\u0430!"
+      - "Voi, Lehtipinoiden Valtakunta! Se on kaukana t\xE4\xE4lt\xE4!"
+      - "\u30AA\u30C1\u30D0\u30E4\u30DE\u738B\u56FD\uFF01 \u3053\u3053\u304B\u3089\u3068\u304A\u3044\u3058\u3083\u306A\u3044\uFF01"
+      - "Ah, Monte das Folhas! Est\xE1 muito longe daqui!"
+      - "\xA1Oh, el Reino Pilahojas! \xA1Est\xE1 muy lejos de aqu\xED!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse15_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Yes, I'm on a quest to-
+      - Jawohl, ich bin auf einer Mission um-
+      - Jawohl, ich bin auf einer Mission um-
+      - "\u0414\u0430, \u044F \u043D\u0430 \u0437\u0430\u0434\u0430\u043D\u0438\u0438
+        \u043E\u0442-"
+      - "Kyll\xE4, olen etsim\xE4ss\xE4-"
+      - "\u3042\u3042\u3001 \u30DC\u30AF\u306F\u30BF\u30D3\u306B\u51FA\u3066\u3044\u3066-"
+      - "Sim, estou numa miss\xE3o ao-"
+      - "S\xED, estoy en una b\xFAsqueda para-"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse15_5
+      TermType: 0
+      Description: 
+      Languages:
+      - The spirits are anxious, we gotta go!!
+      - "Die Geister sind angespannt, wir m\xFCssen weiter!!"
+      - De Gpensta san unruhig, mia miassn weidagehn!
+      - "\u0414\u0443\u0445\u0438 \u0432\u0441\u0442\u0440\u0435\u0432\u043E\u0436\u0435\u043D\u044B,
+        \u043D\u0430\u043C \u043F\u043E\u0440\u0430!!"
+      - "Henget ovat ahdistuneita, meid\xE4n t\xE4ytyy menn\xE4!"
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u304C\u4E0D\u5B89\u304C\u3063\u3066\u308B\u3002
+        \u884C\u304B\u306A\u3044\u3068\uFF01"
+      - "Os esp\xEDritos est\xE3o ansiosos, precisamos ir!!"
+      - "\xA1\xA1Los esp\xEDritus est\xE1n ansiosos, tenemos que irnos!!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse16_1
+      TermType: 0
+      Description: 
+      Languages:
+      - We can't cross this river of souls.
+      - "Wir k\xF6nnen nicht einfach den Seelenfluss durchqueren!"
+      - Wia kenna net einfach duach den Seelenfluss geh.
+      - "\u041C\u044B \u043D\u0435 \u043C\u043E\u0436\u0435\u043C \u043F\u0435\u0440\u0435\u0441\u0435\u0447\u044C
+        \u044D\u0442\u0443 \u0440\u0435\u043A\u0443 \u0434\u0443\u0448."
+      - "Emme voi ylitt\xE4\xE4 t\xE4t\xE4 sielujokea."
+      - "\u30BF\u30DE\u30B7\u30A4\u306E\u5DDD\u306F\u308F\u305F\u308C\u306A\u3044\u308F\u3002"
+      - "N\xF3s n\xE3o conseguimos atravessar este rio de almas."
+      - "No podemos cruzar este r\xEDo de almas."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse16_2
+      TermType: 0
+      Description: 
+      Languages:
+      - The spirits would drown!
+      - "Die Geister w\xFCrden ertrinken!"
+      - "De Gspensta w\xFCrdn dasaufn!"
+      - "\u0414\u0443\u0445\u0438 \u043C\u043E\u0433\u0443\u0442 \u0443\u0442\u043E\u043D\u0443\u0442\u044C!"
+      - Henget hukkuvat!
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u304C\u304A\u307C\u308C\u3061\u3083\u3046\uFF01"
+      - "Os esp\xEDritos se afogariam!"
+      - "\xA1Los esp\xEDritus se podr\xEDan ahogar!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse16_3
+      TermType: 0
+      Description: 
+      Languages:
+      - No worries, there is a bridge further south-west.
+      - "Sorgt euch nicht, im S\xFCdwesten existiert eine Br\xFCcke."
+      - "Sorgt euch nicht, im S\xFCdwesten existiert eine Br\xFCcke."
+      - "\u041D\u0435 \u0432\u043E\u043B\u043D\u0443\u0439\u0442\u0435\u0441\u044C,
+        \u0442\u0443\u0442 \u0435\u0441\u0442\u044C \u043C\u043E\u0441\u0442 \u043A
+        \u044E\u0433\u043E-\u0437\u0430\u043F\u0430\u0434\u0443 \u043E\u0442\u0441\u044E\u0434\u0430."
+      - "Ei h\xE4t\xE4\xE4, lounaaseen on silta."
+      - "\u5927\u4E08\u592B\u3060\u3088\u3002 \u3053\u3053\u304B\u3089\u30CA\u30F3\u30BB\u30A4\u306B\u30CF\u30B7\u304C\u3042\u308B\u3002"
+      - "N\xE3o se preocupem, h\xE1 uma ponte mais ao sudoeste."
+      - "No se preocupen, hay un puente m\xE1s all\xE1 al suroeste."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse16_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Really? I didn't know that!
+      - Wirklich? Hab' ich nicht gewusst!
+      - Echt jetzt? Des is ma neich.
+      - "\u041F\u0440\u0430\u0432\u0434\u0430? \u042F \u043D\u0435 \u0437\u043D\u0430\u043B\u0430!"
+      - "Todella? En tiennyt sit\xE4!"
+      - "\u307B\u3093\u3068\uFF1F \u77E5\u3089\u306A\u304B\u3063\u305F\uFF01"
+      - "S\xE9rio? Eu n\xE3o sabia!"
+      - "\xBFEn serio? \xA1No lo sab\xEDa!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse16_5
+      TermType: 0
+      Description: 
+      Languages:
+      - Yes, it only grew recently whe-
+      - Jawohl, sie ist erst neulich gewachsen, als-
+      - Jawohl, sie ist erst neulich gewachsen, als-
+      - "\u0414\u0430, \u043E\u043D \u0432\u044B\u0440\u043E\u0441 \u0441\u043E\u0432\u0441\u0435\u043C
+        \u043D\u0435\u0434\u0430\u0432\u043D\u043E \u043A\u043E\u0433-"
+      - "Kyll\xE4, se kasvoi vasta \xE4skett\xE4in, ku-"
+      - "\u3042\u3042\u3001 \u3055\u3044\u304D\u3093\u306B\u306A\u3063\u3066-"
+      - "Sim, ela s\xF3 foi crescer assim q-"
+      - "S\xED, creci\xF3 recientemente cua-"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse16_6
+      TermType: 0
+      Description: 
+      Languages:
+      - Alright, let's keep going!
+      - Alles klar, lasst uns weitergehen!
+      - Passt, gemma weida!
+      - "\u0425\u043E\u0440\u043E\u0448\u043E, \u0442\u043E\u0433\u0434\u0430 \u0432\u043F\u0435\u0440\u0451\u0434!"
+      - "Selv\xE4, jatketaan!"
+      - "\u3055\u30FC\u3066\u3001 \u5148\u3078\u884C\u304D\u307E\u3057\u3087\uFF01"
+      - Certo, vamos seguir em frente!
+      - "\xA1De acuerdo, sigamos!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse17_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Oh no, Catty has fallen asleep!
+      - Oh nein, Catty ist einfach eingeschlafen!
+      - Oida, Catty is eifoch eingschlofn!
+      - "\u041E \u043D\u0435\u0442, \u041A\u044D\u0442\u0442\u0438 \u0437\u0430\u0441\u043D\u0443\u043B!"
+      - Voi ei, Katti on nukahtanut!
+      - "\u3042\u3063\u3001 \u30AD\u30E3\u30C6\u30A3\u304C\u306D\u3061\u3083\u3063\u305F\uFF01"
+      - "Ah n\xE3o, a Catty adormeceu!"
+      - "\xA1\xA1Oh no, Catty se ha quedado dormido!!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse17_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Hedgar, can you fly a box?
+      - Hedgar, kannst du Kisten fliegen?
+      - Hedgar, konnst du Schochtln fliagn?
+      - "\u0425\u0435\u0434\u0433\u0430\u0440, \u0442\u044B \u0443\u043C\u0435\u0435\u0448\u044C
+        \u043B\u0435\u0442\u0430\u0442\u044C \u0432 \u043A\u043E\u0440\u043E\u0431\u043A\u0435?"
+      - "Siilinus, pystytk\xF6 lent\xE4m\xE4\xE4n laatikkoa?"
+      - "\u30D8\u30C3\u30B8\u30E3\u30FC\u3001 \u7BB1\u3092\u3068\u3070\u305B\u308B\uFF1F"
+      - "Hedgar, voc\xEA consegue fazer uma caixa voar?"
+      - "Hedgar, \xBFpuedes pilotear una caja?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse17_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Well, I have never-
+      - Eine gute Frage, noch nie in meinem Leben-
+      - Eine gute Frage, noch nie in meinem Leben-
+      - "\u041D\u0443, \u044F \u0440\u0430\u043D\u044C\u0448\u0435 \u043D\u0438\u043A\u043E\u0433\u0434\u0430-"
+      - No, en ole koskaan -
+      - "\u3042\u30FC\u3001 \u305D\u3093\u306A\u3053\u3068\u306F\u3044\u3061\u3069\u3082-"
+      - Bem, eu nunc-
+      - Bueno, nunca he-
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse17_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Alright, let's go!
+      - In Ordnung, auf geht's!
+      - Passt, gemma!
+      - "\u041E\u0442\u043B\u0438\u0447\u043D\u043E, \u0432\u043F\u0435\u0440\u0451\u0434!"
+      - "Selv\xE4, menn\xE4\xE4n!"
+      - "\u3088\u3057\u3001\u884C\u304F\u308F\u3088\uFF01"
+      - "Certo, vamos l\xE1!"
+      - "\xA1De acuerdo, vamos!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse18_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Your feline friend seems to be awake.
+      - Dein Katzenfreund scheint aufgewacht zu sein.
+      - Dein Katzenfreund scheint aufgewacht zu sein.
+      - "\u0422\u0432\u043E\u0439 \u043A\u043E\u0448\u0430\u0447\u0438\u0439 \u0434\u0440\u0443\u0433
+        \u043A\u0430\u0436\u0435\u0442\u0441\u044F \u043F\u0440\u043E\u0441\u043D\u0443\u043B\u0441\u044F."
+      - "Kissan yst\xE4v\xE4si n\xE4ytt\xE4\xE4 olevan hereill\xE4."
+      - "\u30CD\u30B3\u306E\u304A\u3068\u3082\u3060\u3061\u304C\u8D77\u304D\u305F\u307F\u305F\u3044\u3060\u3002"
+      - Sua amiga felina parece ter acordado.
+      - Parece ser que tu amigo felino ha despertado.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse18_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Moarf!
+      - "Miaug\xE4hn!"
+      - "Miaug\xE4hn!"
+      - "\u041C\u044F\u0443\u0440\u0444!"
+      - Moaurf!
+      - "\u30CB\u30E3\u30FC\u30F3\uFF01"
+      - Miau!
+      - "\xA1Moarf!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse18_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Catty! How was your nap?
+      - Catty! Wir war dein Nickerchen?
+      - Catty! Wie woa dei Schlaferl?
+      - "\u041A\u044D\u0442\u0442\u0438! \u041A\u0430\u043A \u0441\u043F\u0430\u043B\u043E\u0441\u044C?"
+      - Katti! Kuinka nukut?
+      - "\u30AD\u30E3\u30C6\u30A3\uFF01 \u304A\u3072\u308B\u306D\u306F\u3069\u3046\u3060\u3063\u305F\uFF1F"
+      - Catty! Como estava a soneca?
+      - "\xA1Catty! \xBFQu\xE9 tal estuvo tu siesta?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse18_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Mow meowow moaw morr!
+      - Mau miauauau mau mrorrrrr!
+      - Mau miauauau mau mrorrrrr!
+      - "\u041C\u044F \u043C\u044F\u0443\u0430\u0443 \u0435\u043C\u044F\u0443 \u043C\u044F\u0443\u043C\u0435\u0443\u043E!"
+      - Mou meouou moau morr!
+      - "\u30CA\u30AA\u3001\u30CB\u30E3\u30A6\u30CB\u30E3\u3001\u30CA\u30FC\u3001\u30CB\u30E3\u30FC\uFF01"
+      - Mau miauau miau miauu!
+      - "\xA1Miau miawow muaw mrr!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse18_5
+      TermType: 0
+      Description: 
+      Languages:
+      - Perfect! Let's carry on!
+      - Sehr gut! Machen wir weiter!
+      - Basst, damma weida!
+      - "\u041F\u0440\u0435\u043A\u0440\u0430\u0441\u043D\u043E! \u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0430\u0435\u043C!"
+      - "T\xE4ydellinen! Jatketaan!"
+      - "\u30AB\u30F3\u30DA\u30AD\u306D\uFF01 \u5148\u3078\u884C\u304F\u308F\u3088\uFF01"
+      - Perfeito! Vamos continuar!
+      - "\xA1Perfecto! \xA1Continuemos!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse19_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Here we are!
+      - Endlich da!
+      - Jetzt warat ma do!
+      - "\u0412\u043E\u0442 \u043C\u044B \u0438 \u0437\u0434\u0435\u0441\u044C!"
+      - "T\xE4\xE4ll\xE4 me olemme!"
+      - "\u3064\u3044\u305F\u308F\uFF01"
+      - "Aqui estamos n\xF3s!"
+      - "\xA1Aqu\xED estamos!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse19_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Let's cross the heartvine bridge!
+      - "Lasst uns die Herzrankenbr\xFCcke queren!"
+      - "Schauma, dass ma \xFCba de Herzranknbruckn gengan!"
+      - "\u0414\u0430\u0432\u0430\u0439\u0442\u0435 \u043F\u0435\u0440\u0435\u0439\u0434\u0451\u043C
+        \u044D\u0442\u043E \u0441\u0435\u0440\u0434\u0446\u0435-\u043B\u043E\u0437\u043E\u0432\u044B\u0439
+        \u043C\u043E\u0441\u0442!"
+      - "Menn\xE4\xE4n yli syd\xE4nviinisillan!"
+      - "\u30CF\u30FC\u30C8\u306E\u30C4\u30BF\u306E\u30CF\u30B7\u3092\u308F\u305F\u308B\u308F\u3088\uFF01"
+      - "Vamos atravessar a ponte de vinha-de-cora\xE7\xE3o!"
+      - "\xA1Crucemos el puente hecho de lianas coraz\xF3n!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse19_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Certainly!
+      - Aber gewiss!
+      - Aber gewiss!
+      - "\u0411\u0435\u0437\u0443\u0441\u043B\u043E\u0432\u043D\u043E!"
+      - Varmasti!
+      - "\u3046\u3093\uFF01"
+      - Certamente!
+      - "\xA1Desde luego!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse19_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Mow moowowo?
+      - Miaupanik!
+      - Mau mauauauaii?
+      - "\u041C\u044F\u043E \u043C\u0435\u0443\u043E\u0443\u0430\u043C\u043E?"
+      - Mou moououo?
+      - "\u30CA\u30AA\u3001 \u30CA\u30FC\u30CA\u30FC\uFF1F"
+      - Mau mauauau?
+      - "\xBFMau muwuwuu?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse19_5
+      TermType: 0
+      Description: 
+      Languages:
+      - Don't worry, Catty, it's safe!
+      - Keine Angst, Catty, es ist komplett sicher!
+      - Dua da nix o, Catty, es is komplett harmlos!
+      - "\u041D\u0435 \u0432\u043E\u043B\u043D\u0443\u0439\u0441\u044F, \u041A\u044D\u0442\u0442\u0438,
+        \u044D\u0442\u043E \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E!"
+      - "\xC4l\xE4 huoli, Katti, se on turvallista!"
+      - "\u308F\u305F\u3063\u3066\u3082\u5B89\u5168\u3088\u3001\u30AD\u30E3\u30C6\u30A3\uFF01"
+      - "N\xE3o se preocupe, Catty. \xC9 seguro!"
+      - "\xA1No te preocupes, Catty, es seguro!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse20_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Wha- OW! I dropped all my boxes!
+      - Oh hoppla! Mir sind alle Kisten hinuntergefallen!
+      - Hoitas! Jetzt samma olle Schochtln obigfoin!
+      - "\u0427\u0442\u043E- \u041E\u0419! \u042F \u0443\u0440\u043E\u043D\u0438\u043B\u0430
+        \u0432\u0441\u0435 \u043C\u043E\u0438 \u043A\u043E\u0440\u043E\u0431\u043A\u0438!"
+      - Mit-AUH! Pudotin kaikki laatikkoni!
+      - "\u3046\u308F\u3063\u2026\u3042\u3063\uFF01 \u7BB1\u3092\u305C\u3093\u3076\u304A\u3068\u3057\u3061\u3083\u3063\u305F\uFF01"
+      - O qu..OPA! Eu derrubei todas as minhas caixas!
+      - "Qu- \xA1AY! \xA1Se me han ca\xEDdo todas las cajas!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse20_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Why's it so dark suddenly?
+      - "Wieso ist es jetzt pl\xF6tzlich dunkel?"
+      - Wieso is auf amoi so finsta?
+      - "\u041F\u043E\u0447\u0435\u043C\u0443 \u0432\u043D\u0435\u0437\u0430\u043F\u043D\u043E
+        \u0441\u0442\u0430\u043B\u043E \u0442\u0430\u043A \u0442\u0435\u043C\u043D\u043E?"
+      - "Miksi yht\xE4kki\xE4 on niin pime\xE4\xE4?"
+      - "\u306A\u3093\u3067\u6025\u306B\u304F\u3089\u304F\u306A\u3063\u305F\u306E\uFF1F"
+      - "Por que ficou t\xE3o escuro de repente?"
+      - "\xBFPor qu\xE9 est\xE1 tan oscuro de repente?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse20_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Across the river is another timezone.
+      - Am anderen Ufer des Flusses herrscht eine andere Zeitzone.
+      - Am anderen Ufer des Flusses herrscht eine andere Zeitzone.
+      - "\u041F\u043E \u0442\u0443 \u0441\u0442\u043E\u0440\u043E\u043D\u0443 \u0440\u0435\u043A\u0438
+        \u0434\u0440\u0443\u0433\u043E\u0439 \u0447\u0430\u0441\u043E\u0432\u043E\u0439
+        \u043F\u043E\u044F\u0441."
+      - "Joen toisella puolella on toinen aikavy\xF6hyke."
+      - "\u5DDD\u306E\u3080\u3053\u3046\u306F\u30BF\u30A4\u30E0\u30BE\u30FC\u30F3\u304C\u3061\u304C\u3046\u307F\u305F\u3044\u3002"
+      - "O outro lado do rio tem outro fuso hor\xE1rio."
+      - "Hay una zona horaria distinta al otro lado del r\xEDo."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse20_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Is it going to be like this forever?
+      - Wird es nun immer dunkel sein?
+      - "Bleibt des jetzt so finster f\xFCr imma?"
+      - "\u0422\u0435\u043F\u0435\u0440\u044C \u0432\u0441\u0435\u0433\u0434\u0430
+        \u0431\u0443\u0434\u0435\u0442 \u0442\u0430\u043A \u0442\u0435\u043C\u043D\u043E?"
+      - "Tulisiko se olemaan n\xE4in ikuisesti?"
+      - "\u305A\u3063\u3068\u3053\u3046\u306A\u308B\u306E\uFF01\uFF1F"
+      - "Ser\xE1 que ficaremos neste breu para sempre?"
+      - "\xBFSeguir\xE1 as\xED para siempre?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse20_5
+      TermType: 0
+      Description: 
+      Languages:
+      - Mowewa!?
+      - Miauimmer!?
+      - Miaumma!?
+      - "\u041C\u044F\u0443\u0430\u0443\u0430!?"
+      - Moueua!?
+      - "\u30CB\u30E3\u30EF\u30C3\uFF01\uFF1F"
+      - Mauiuau?
+      - "\xBF\xA1Miauwewa!?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse20_6
+      TermType: 0
+      Description: 
+      Languages:
+      - The spirits will guide us, it's fine.
+      - Kein Problem, die Geister werden uns leiten.
+      - Kein Problem, die Geister werden uns leiten.
+      - "\u041D\u0438\u0447\u0435\u0433\u043E \u0441\u0442\u0440\u0430\u0448\u043D\u043E\u0433\u043E,
+        \u0434\u0443\u0445\u0438 \u0443\u043A\u0430\u0436\u0443\u0442 \u043D\u0430\u043C
+        \u043F\u0443\u0442\u044C."
+      - "Henget ohjaavat meit\xE4, se on hieno."
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u304C\u307F\u3061\u3073\u3044\u3066\u304F\u308C\u308B\u3002
+        \u5927\u4E08\u592B\u3002"
+      - "T\xE1 tudo bem! Desta vez, os esp\xEDritos que nos guiar\xE3o."
+      - "Est\xE1 bien, los esp\xEDritus nos guiar\xE1n."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse21_1
+      TermType: 0
+      Description: 
+      Languages:
+      - ...
+      - ...
+      - ...
+      - ...
+      - ...
+      - ...
+      - ...
+      - "\u2026"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse21_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Wake up, Catty and Batty!
+      - Wacht auf, Catty und Batty!
+      - Wacht auf, Catty und Batty!
+      - "\u041F\u0440\u043E\u0441\u044B\u043F\u0430\u0439\u0442\u0435\u0441\u044C
+        \u041A\u044D\u0442\u0442\u0438 \u0438 \u0411\u044D\u0442\u0442\u0438!"
+      - "Her\xE4\xE4, Katti ja Lepsuli!"
+      - "\u30AD\u30E3\u30C6\u30A3\u3001\u30D0\u30C3\u30C6\u30A3\u3001\u8D77\u304D\u3066\uFF01"
+      - Catty e Batty, acordem!
+      - "\xA1Despierten, Catty y Batty!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse21_3
+      TermType: 0
+      Description: 
+      Languages:
+      - WOAH! What just happened?
+      - WOW! Was ist gerade passiert?
+      - OIDA!! Wos woa des?
+      - "\u0423\u0425 \u0422\u042B! \u0427\u0442\u043E \u043F\u0440\u043E\u0438\u0437\u043E\u0448\u043B\u043E?"
+      - "Vau! Mit\xE4 juuri tapahtui?"
+      - "\u3046\u308F\u3063\uFF01 \u3069\u3046\u3057\u305F\u306E\uFF1F"
+      - EITA! O que houve?
+      - "\xA1VAYA! \xBFQu\xE9 ha pasado?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse21_4
+      TermType: 0
+      Description: 
+      Languages:
+      - You were both taking a nap.
+      - Ihr habt beide ein Nickerchen gemacht.
+      - Ihr habt beide ein Nickerchen gemacht.
+      - "\u0412\u044B \u043E\u0431\u0430 \u0437\u0430\u0441\u043D\u0443\u043B\u0438."
+      - Olit molemmat nukkumassa.
+      - "\u304D\u307F\u305F\u3061\u306F\u3055\u3063\u304D\u307E\u3067\u306D\u3066\u305F\u3093\u3060\u3002"
+      - "Voc\xEAs dois estavam cochilando."
+      - Ambos estaban tomando una siesta.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse21_5
+      TermType: 0
+      Description: 
+      Languages:
+      - Mewooooow!
+      - "Miaug\xE4hn!"
+      - "Miaoooug\xE4hn."
+      - "\u041C\u044F\u0430\u0443\u0443\u0443\u0443\u0443!"
+      - Meuooooou!
+      - "\u30CB\u30E3\u30AA\u30AA\u30AA\u30F3\uFF01"
+      - Miaaaaau!
+      - Miauuuuu!
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse21_6
+      TermType: 0
+      Description: 
+      Languages:
+      - Hahaha, I guess it's been quite a day!
+      - "Haha, was f\xFCr ein Tag!"
+      - Haha, jo es woa scho a longa Tog!
+      - "\u0425\u0430\u0445\u0430, \u0434\u0430, \u0434\u0435\u043D\u0451\u043A \u0432\u044B\u0434\u0430\u043B\u0441\u044F
+        \u0434\u043E\u0432\u043E\u043B\u044C\u043D\u043E \u0437\u0430\u043D\u044F\u0442\u043E\u0439."
+      - "Hahaha, luulen, ett\xE4 se on ollut melko p\xE4iv\xE4!"
+      - "\u30CF\u30CF\u30CF\u30C3\uFF01 \u4ECA\u65E5\u306F\u305F\u3044\u3078\u3093\u306A\u4E00\u65E5\u306D\u3002"
+      - Hahaha, tem sido um baita dia!
+      - "\xA1Jajaja, supongo que ha sido un largo d\xEDa!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse21_7
+      TermType: 0
+      Description: 
+      Languages:
+      - Let's carry on, shall we?
+      - Weiter geht's!
+      - Auf geht's! Damma wos.
+      - "\u0414\u0430\u0432\u0430\u0439\u0442\u0435 \u0434\u0432\u0438\u0433\u0430\u0442\u044C\u0441\u044F
+        \u0434\u0430\u043B\u044C\u0448\u0435, \u0445\u043E\u0440\u043E\u0448\u043E?"
+      - "Jatketaan, vai mit\xE4?"
+      - "\u305D\u308C\u3058\u3083\u3001\u305D\u308D\u305D\u308D\u884C\u304D\u307E\u3057\u3087\uFF1F"
+      - Vamos continuar, certo?
+      - "Continuemos, \xBFde acuerdo?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse22_01
+      TermType: 0
+      Description: 
+      Languages:
+      - These crystomalities are really annoying.
+      - "Diese Kristabnormalit\xE4ten sind wirklich \xE4rgerlich."
+      - "Diese Kristoidinga san wirklich l\xE4stig."
+      - "\u042D\u0442\u0438 \u043A\u0440\u0438\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u043C\u0430\u043B\u0438\u0438
+        \u0431\u044B\u043B\u0438 \u043E\u0447\u0435\u043D\u044C \u043D\u0430\u0434\u043E\u0435\u0434\u043B\u0438\u0432\u044B\u043C\u0438."
+      - "N\xE4m\xE4 kiteet ovat todella \xE4rsytt\xE4vi\xE4."
+      - "\u3053\u306E\u30AF\u30EA\u30B9\u30C8\u30DE\u30EA\u30C6\u30A3\u3001 \u3051\u3063\u3053\u3046\u3081\u3093\u3069\u304F\u3055\u3044\u308F\u3002"
+      - "Estas cristanomalias s\xE3o muito irritantes."
+      - "Estas cristanomal\xEDas son realmente molestas."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse22_02
+      TermType: 0
+      Description: 
+      Languages:
+      - Hoomoowwrrr...
+      - Miaus!
+      - Miaus!
+      - "\u041C\u043E\u0443\u0443\u043C\u0443\u0440\u0440\u0440\u0440..."
+      - Hoomoowwrrr...
+      - "\u30D5\u30CB\u30E3\u30FC\u2026"
+      - Rrrmaaaaaauurrrr...
+      - Hoomoowwrrr...
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse22_03
+      TermType: 0
+      Description: 
+      Languages:
+      - They're a common occurrence in this region.
+      - "Sie kommen hierzulande h\xE4ufig vor."
+      - "Sie kommen hierzulande h\xE4ufig vor."
+      - "\u041E\u043D\u0438 \u043E\u0431\u044B\u0447\u043D\u043E\u0435 \u0434\u0435\u043B\u043E
+        \u0432 \u044D\u0442\u043E\u043C \u0440\u0435\u0433\u0438\u043E\u043D\u0435."
+      - "Ne ovat yleinen esiintyminen t\xE4ll\xE4 alueella."
+      - "\u3053\u306E\u3042\u305F\u308A\u3060\u3068\u3088\u304F\u51FA\u3066\u304F\u308B\u3093\u3060\u3002"
+      - "Elas s\xE3o bem comuns por aqui."
+      - "Son un fen\xF3meno com\xFAn en esta regi\xF3n."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse22_04
+      TermType: 0
+      Description: 
+      Languages:
+      - Are you here to get rid of them?
+      - Bist du hier, um gegen sie Abhilfe zu schaffen?
+      - Bist du leicht do, um de zu beseitign?
+      - "\u0422\u044B \u0437\u0434\u0435\u0441\u044C \u0447\u0442\u043E\u0431\u044B
+        \u0438\u0437\u0431\u0430\u0432\u0438\u0442\u0441\u044F \u043E\u0442 \u043D\u0438\u0445?"
+      - "Oletko t\xE4\xE4ll\xE4 p\xE4\xE4st\xE4 eroon niist\xE4?"
+      - "\u30A2\u30EC\u3092\u4F55\u3068\u304B\u3057\u306B\u304D\u305F\u306E\uFF1F"
+      - "...e voc\xEA est\xE1 aqui para se livrar delas?!"
+      - "\xBFEst\xE1s aqu\xED para deshacerte de ellas?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse22_05
+      TermType: 0
+      Description: 
+      Languages:
+      - I'm here to find the king's glasses.
+      - "Ich bin hier, um die Augengl\xE4ser des K\xF6nigs zu finden."
+      - "Ich bin hier, um die Augengl\xE4ser des K\xF6nigs zu finden."
+      - "\u042F \u0437\u0434\u0435\u0441\u044C \u0447\u0442\u043E\u0431\u044B \u043D\u0430\u0439\u0442\u0438
+        \u043E\u0447\u043A\u0438 \u043A\u043E\u0440\u043E\u043B\u044F."
+      - "Olen t\xE4\xE4ll\xE4 etsim\xE4ss\xE4 kuninkaan lasit."
+      - "\u738B\u306E\u30E1\u30AC\u30CD\u3092\u3055\u304C\u3057\u306B\u304D\u305F\u3002"
+      - "N\xE3o, estou aqui para procurar os \xF3culos do rei."
+      - "Estoy aqu\xED para encontrar los lentes del rey."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse22_06
+      TermType: 0
+      Description: 
+      Languages:
+      - They're not on your nose, are they?
+      - Du meinst aber nicht die auf deiner Nase, oder?
+      - De san oba net auf deina Nosn, oda?
+      - "\u041E\u043D\u0438 \u0436\u0435 \u043D\u0435 \u0443 \u0442\u0435\u0431\u044F
+        \u043D\u0430 \u043D\u043E\u0441\u0443, \u043D\u0435\u0442?"
+      - "Eiv\xE4tk\xF6 ne ole nen\xE4ll\xE4si?"
+      - "\u3042\u306A\u305F\u306E\u30CF\u30CA\u306E\u4E0A\u306B\u306F\u306A\u3044\u3088\u306D\uFF1F"
+      - "Eles n\xE3o est\xE3o no teu nariz, est\xE3o?"
+      - "No est\xE1n sobre tu nariz, \xBFo s\xED?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse22_07
+      TermType: 0
+      Description: 
+      Languages:
+      - He lost them somewhere around here on his trav-
+      - "Seine Majest\xE4t hat sie hiererorts w\xE4hrend einer Reise-"
+      - "Seine Majest\xE4t hat sie hiererorts w\xE4hrend einer Reise-"
+      - "\u041E\u043D \u043F\u043E\u0442\u0435\u0440\u044F\u043B \u0438\u0445 \u0433\u0434\u0435-\u0442\u043E
+        \u0437\u0434\u0435\u0441\u044C \u043A\u043E\u0433\u0434\u0430 \u043F\u0443\u0442\u0435\u0448-"
+      - "H\xE4n menetti heid\xE4t jonnekin t\xE4\xE4ll\xE4 matkoil-"
+      - "\u738B\u306F\u30BF\u30D3\u306E\u3068\u3061\u3085\u3046\u3001\u3053\u306E\u3078\u3093\u3067\u304A\u3068\u3057\u305F\u3068\u304B\u2026"
+      - Ele os perdeu em algum lugar por aqui, durante a sua viag-
+      - "\xC9l los perdi\xF3 por aqu\xED en su viaj-"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse22_08
+      TermType: 0
+      Description: 
+      Languages:
+      - We'll keep an eye out!
+      - Wir werden die Augen offen halten!
+      - Mia werdn schaun, ob mas findn!
+      - "\u041C\u044B \u043F\u043E\u0438\u0449\u0435\u043C!"
+      - "Pid\xE4mme silm\xE4ll\xE4!"
+      - "\u76EE\u3092\u5149\u3089\u305B\u3066\u304A\u304F\u308F\u3002"
+      - Vamos ficar de olho!
+      - "\xA1Estaremos atentos!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse22_09
+      TermType: 0
+      Description: 
+      Languages:
+      - Mo!
+      - Miaugen!
+      - Mau!
+      - "\u041C\u044F!"
+      - Mo!
+      - "\u30CA\uFF01"
+      - Miah!
+      - "\xA1Miau!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse22_10
+      TermType: 0
+      Description: 
+      Languages:
+      - Thank you, that's very kind of y-
+      - Habt meinen Dank, das ist wirklich-
+      - Habt meinen Dank, das ist wirklich-
+      - "\u0421\u043F\u0430\u0441\u0438\u0431\u043E, \u043E\u0447\u0435\u043D\u044C
+        \u043C\u0438\u043B\u043E \u0441 \u0432\u0430\u0448-"
+      - Kiitos, se on hyvin kiltti sin-
+      - "\u3042\u308A\u304C\u3068\u3046\u3002 \u3068\u3066\u3082\u3057\u3093\u305B-"
+      - "Obrigado, \xE9 muito gentil da su-"
+      - Gracias, es muy amable de tu p-
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse22_11
+      TermType: 0
+      Description: 
+      Languages:
+      - Spirits, let's march to the beatbox!
+      - Geister, lasst uns zum Klang der Beatbox marschieren!
+      - Gspensta, marschier ma zum Rhythmus von da Beatbox!
+      - "\u0414\u0443\u0445\u0438, \u0438\u0434\u0435\u043C \u0441\u043A\u043E\u0440\u0435\u0435
+        \u043A \u0431\u0438\u0442\u0431\u043E\u043A\u0441\u0443!"
+      - Henget, marssimme beatlaatikkoon!
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u305F\u3061\u3001\u30D3\u30FC\u30C8\u30DC\u30C3\u30AF\u30B9\u306B\u3042\u308F\u305B\u3066\u3059\u3059\u3093\u3067\uFF01"
+      - "Esp\xEDritos, vamos marchar no ritmo da batida!"
+      - "\xA1Esp\xEDritus, marchemos al ritmo del beatbox!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse23_01
+      TermType: 0
+      Description: 
+      Languages:
+      - Lots of heartvines again.
+      - Und wieder massenhaft Herzranken.
+      - "Scho wieda so v\xFC Herzrankn."
+      - "\u0421\u043D\u043E\u0432\u0430 \u043A\u0443\u0447\u0430 \u0441\u0435\u0440\u0434\u0446\u0435-\u043B\u043E\u0437\u044B."
+      - "Paljon syd\xE4nk\xF6ynn\xF6ksi\xE4 taas."
+      - "\u307E\u305F\u30CF\u30FC\u30C8\u306E\u30C4\u30BF\u304C\u3044\u3063\u3071\u3044\u3042\u308B\u3002"
+      - Um monte de vinhas, de novo.
+      - "Un mont\xF3n de lianas coraz\xF3n otra vez."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse23_02
+      TermType: 0
+      Description: 
+      Languages:
+      - Ah, spirits can remove them.
+      - "Ah, Geister k\xF6nnen sie entfernen!"
+      - "Ah, Geister k\xF6nnen sie entfernen!"
+      - "\u0410, \u0434\u0443\u0445\u0438 \u043C\u043E\u0433\u0443\u0442 \u0443\u0431\u0440\u0430\u0442\u044C
+        \u0435\u0451."
+      - Ah, henget voivat poistaa ne.
+      - "\u3042\u3042\u3001\u30B9\u30D4\u30EA\u30C3\u30C8\u306A\u3089\u30C4\u30BF\u3092\u3069\u304B\u305B\u308B\u3002"
+      - "Ah, esp\xEDritos podem remov\xEA-las."
+      - "Ah, los esp\xEDritus pueden quitarlas."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse23_03
+      TermType: 0
+      Description: 
+      Languages:
+      - What? How?
+      - Was? Wie?
+      - Wos? Wie?
+      - "\u0427\u0442\u043E? \u041A\u0430\u043A?"
+      - "Mit\xE4? Miten?"
+      - "\u3048\u3063\uFF1F \u3069\u3046\u3084\u3063\u3066\uFF1F"
+      - "O qu\xEA? Como?"
+      - "\xBFQu\xE9? \xBFC\xF3mo?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse23_04
+      TermType: 0
+      Description: 
+      Languages:
+      - They can circle the cranks.
+      - "Sie k\xF6nnen die Kurbeln bet\xE4tigen."
+      - "Sie k\xF6nnen die Kurbeln bet\xE4tigen."
+      - "\u041E\u043D\u0438 \u043C\u043E\u0433\u0443\u0442 \u043A\u0440\u0443\u0442\u0438\u0442\u044C
+        \u0440\u044B\u0447\u0430\u0433\u0438."
+      - "He voivat kiert\xE4\xE4 kampia."
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u306F\u30AF\u30E9\u30F3\u30AF\u3092\u56DE\u305B\u308B\u3002"
+      - Eles podem girar as manivelas.
+      - Pueden girar las manivelas.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse23_05
+      TermType: 0
+      Description: 
+      Languages:
+      - That shou-
+      - Das sollt-
+      - Das sollt-
+      - "\u042D\u0442\u043E \u0434\u043E\u043B\u0436\u043D-"
+      - "Sen pit\xE4i-"
+      - "\u305D\u3046\u3059-"
+      - Isso deveri-
+      - Eso deber-
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse23_06
+      TermType: 0
+      Description: 
+      Languages:
+      - Spirits circle around cranks, OH-KAY!
+      - "Geister bet\xE4tigen die Kurbeln, AUF GEHT'S!"
+      - Gspensta kurbln de Kurbl, passt, GEMMA!
+      - "\u0414\u0443\u0445\u0438 \u043A\u0440\u0443\u0442\u044F\u0442\u0441\u044F
+        \u0432\u043E\u043A\u0440\u0443\u0433 \u0440\u044B\u0447\u0430\u0433\u043E\u0432,
+        \u041E-\u041A\u0415\u0419!"
+      - "Henget kiert\xE4v\xE4t kampien ymp\xE4ri, O-KEI!"
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u306B\u30AF\u30E9\u30F3\u30AF\u3092\u56DE\u3055\u305B\u308B\u3001\u306D\u3002
+        \u30AA\u30C3\u30B1\u30FC\uFF01"
+      - "AH, T\xC1! Os esp\xEDritos giram EM VOLTA das manivelas."
+      - "\xA1O-K! Los esp\xEDritus pueden girar las manivelas."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse23_07
+      TermType: 0
+      Description: 
+      Languages:
+      - Mao!!
+      - Miauf!
+      - Miauf!
+      - "\u041C\u0430\u0443!"
+      - Mao!!
+      - "\u30CB\u30E3\u30AA\uFF01"
+      - Mauu!
+      - "\xA1Miauu!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse24_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Wait a minute...
+      - Warte einen Augenblick...
+      - Oida...
+      - "\u041F\u043E\u0433\u043E\u0434\u0438\u0442\u0435-\u043A\u0430..."
+      - Odota hetki...
+      - "\u3061\u3087\u3063\u3068\u307E\u3063\u3066\u3002"
+      - Espera um pouco...
+      - "Espera un minuto\u2026"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse24_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Why are there so many gates?
+      - Warum sind hier so viele Tore?
+      - "Warum san do so v\xFC Tore?"
+      - "\u041F\u043E\u0447\u0435\u043C\u0443 \u0432\u043E\u043A\u0440\u0443\u0433
+        \u0442\u0430\u043A \u043C\u043D\u043E\u0433\u043E \u0432\u043E\u0440\u043E\u0442?"
+      - Miksi portteja on niin paljon?
+      - "\u306A\u3093\u3067\u3053\u3093\u306A\u306B\u30B2\u30FC\u30C8\u304C\u3042\u308B\u306E\uFF1F"
+      - "Por que h\xE1 tantos port\xF5es?"
+      - "\xBFPor qu\xE9 hay tantas puertas?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse24_3
+      TermType: 0
+      Description: 
+      Languages:
+      - We might have to split up.
+      - "Vielleicht m\xFCssen wir uns aufteilen."
+      - "Vielleicht m\xFCssen wir uns aufteilen."
+      - "\u041D\u0430\u043C \u043D\u0430\u0432\u0435\u0440\u043D\u043E \u0441\u0442\u043E\u0438\u0442
+        \u0440\u0430\u0437\u0434\u0435\u043B\u0438\u0442\u044C\u0441\u044F."
+      - "Meid\xE4n on ehk\xE4 jaettava."
+      - "\u4E8C\u624B\u306B\u308F\u304B\u308C\u308B\u3053\u3068\u306B\u306A\u308A\u305D\u3046\u3002"
+      - Talvez precisemos nos separar.
+      - Vamos a tener que separarnos.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse24_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Meowwo!
+      - Miaufteilen!
+      - Miauo!
+      - "\u041C\u044F\u0443\u0432\u0443\u0443!"
+      - Meouuo!
+      - "\u30CB\u30E3\u30AA\u30A6\uFF01"
+      - Miaaau!
+      - "\xA1Miaaaaau!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse24_5
+      TermType: 0
+      Description: 
+      Languages:
+      - See you on the other side!
+      - "Wir sehen uns dr\xFCben!"
+      - Treffma uns auf da andan Seitn!
+      - "\u0423\u0432\u0438\u0434\u0438\u043C\u0441\u044F \u043D\u0430 \u0434\u0440\u0443\u0433\u043E\u0439
+        \u0441\u0442\u043E\u0440\u043E\u043D\u0435!"
+      - "N\xE4hd\xE4\xE4n toisella puolella!"
+      - "\u3042\u3063\u3061\u3067\u307E\u305F\u4F1A\u3044\u307E\u3057\u3087\uFF01"
+      - Te vejo do outro lado!
+      - "\xA1Nos vemos del otro lado!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse25_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Alright, Catty!
+      - Aufpassen, Catty!
+      - Hoach zua, Catty!
+      - "\u0425\u043E\u0440\u043E\u0448\u043E, \u041A\u044D\u0442\u0442\u0438!"
+      - "Selv\xE4, Katti!"
+      - "\u3044\u3044\u304B\u3057\u3089\u3001\u30AD\u30E3\u30C6\u30A3\uFF01"
+      - Certo, Catty!
+      - "\xA1De acuerdo, Catty!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse25_2
+      TermType: 0
+      Description: 
+      Languages:
+      - You lead the ones to the left!
+      - Du nimmst die auf der linken Seite!
+      - Du nimmst de auf da linkn Seitn!
+      - "\u0422\u044B \u0432\u0435\u0434\u0438 \u0442\u0435\u0445, \u0447\u0442\u043E
+        \u0441\u043B\u0435\u0432\u0430!"
+      - "Sin\xE4 johdat vasemmalle!"
+      - "\u5DE6\u306E\u307B\u3046\u306F\u307E\u304B\u305B\u305F\u308F\uFF01"
+      - "Voc\xEA guiar\xE1 os da esquerda!"
+      - "\xA1Tu dir\xEDgete a las de la izquierda!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse25_3
+      TermType: 0
+      Description: 
+      Languages:
+      - And I'll take the ones to the right!
+      - Und ich nehme die auf der rechten Seite!
+      - Und i schnapp ma de auf da rechtn Seitn!
+      - "\u0410 \u044F \u043F\u043E\u0432\u0435\u0434\u0443 \u0442\u0435\u0445, \u0447\u0442\u043E
+        \u0441\u043F\u0440\u0430\u0432\u0430!"
+      - Ja otan ne oikealle!
+      - "\u79C1\u304C\u53F3\u306E\u307B\u3046\u3092\u3084\u308B\u304B\u3089\uFF01"
+      - E eu guiarei os da direita!
+      - "\xA1Y yo tomar\xE9 las de la derecha!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse25_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Mao!!
+      - Miausgemacht!
+      - Maui!
+      - "\u041C\u044F\u0443\u043C\u044F\u043C\u043E!!"
+      - Mao!!
+      - "\u30CB\u30E3\uFF01"
+      - Mauu!
+      - "\xA1\xA1Mauu!!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse25_5
+      TermType: 0
+      Description: 
+      Languages:
+      - A sound plan!
+      - Ein guter Plan!
+      - Ein guter Plan!
+      - "\u0425\u043E\u0440\u043E\u0448\u0438\u0439 \u043F\u043B\u0430\u043D!"
+      - "Hyv\xE4 suunnitelma!"
+      - "\u3044\u3044\u30D7\u30E9\u30F3\u3060\uFF01"
+      - "\xD3timo plano!"
+      - "\xA1Buen plan!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse26_1
+      TermType: 0
+      Description: 
+      Languages:
+      - Another maze?
+      - Noch ein Irrgarten?
+      - Scho wieda a Irrgoatn?
+      - "\u0415\u0449\u0451 \u043E\u0434\u0438\u043D \u043B\u0430\u0431\u0438\u0440\u0438\u043D\u0442?"
+      - Toinen sokkelo?
+      - "\u307E\u305F\u30E1\u30A4\u30ED\uFF1F"
+      - Outro labirinto?
+      - "\xBFOtro laberinto?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse26_2
+      TermType: 0
+      Description: 
+      Languages:
+      - Mayhap you can use these waywiser stones.
+      - Vielleicht erweisen sich diese wegweisenden Steine als hilfreich.
+      - Vielleicht erweisen sich diese wegweisenden Steine als hilfreich.
+      - "\u041C\u043E\u0436\u0435\u0442 \u0431\u044B\u0442\u044C, \u0442\u044B \u0441\u043C\u043E\u0436\u0435\u0448\u044C
+        \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C
+        \u044D\u0442\u0438 \u043F\u0443\u0442\u0435\u0432\u043E\u0434\u043D\u044B\u0435
+        \u043A\u0430\u043C\u043D\u0438."
+      - "Ehk\xE4 voit k\xE4ytt\xE4\xE4 n\xE4it\xE4  tieviisaskivi\xE4."
+      - "\u307F\u3061\u3073\u304D\u306E\u77F3\u3092\u4F7F\u3046\u3068\u3044\u3044\u304B\u3082\u3002"
+      - "Voc\xEA pode usar as pedras-s\xE1bias."
+      - "Tal vez puedas usar estas piedras gu\xEDa."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse26_3
+      TermType: 0
+      Description: 
+      Languages:
+      - Oh! And spirits will follow them?
+      - Oh, die Geister folgen den Anweisungen?
+      - Aso? De Gspensta folgn den Anweisungen?
+      - "\u041E\u0443! \u0418 \u0434\u0443\u0445\u0438 \u0431\u0443\u0434\u0443\u0442
+        \u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u044C \u0437\u0430 \u043D\u0438\u043C\u0438?"
+      - "Vai niin! Ja henget seuraavat heit\xE4?"
+      - "\u3042\u3089\uFF01 \u30B9\u30D4\u30EA\u30C3\u30C8\u304C\u305D\u308C\u306B\u3057\u305F\u304C\u3046\u306E\u306D\uFF1F"
+      - "Ah! E os esp\xEDritos as seguir\xE3o?"
+      - "\xA1Oh! \xBFY los esp\xEDritus las seguir\xE1n?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse26_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Yes, in the set directio-
+      - "Jawohl, w\xE4hle die Richtun-"
+      - "Jawohl, w\xE4hle die Richtun-"
+      - "\u0414\u0430, \u0432 \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043D\u043E\u043C
+        \u043D\u0430\u043F\u0440\u0430\u0432-"
+      - "Kyll\xE4, asetettuun suunta-"
+      - "\u3042\u3042\u3001 \u77F3\u306E\u3057\u3081\u3059\u307B\u3046\u3078-"
+      - "Sim, na dire\xE7\xE3o definid-"
+      - "Si, en la direcci\xF3n indica-"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse26_5
+      TermType: 0
+      Description: 
+      Languages:
+      - Let's do this, Catty!
+      - Auf geht's, Catty!
+      - Passt! Catty, gemma!
+      - "\u0414\u0430\u0432\u0430\u0439 \u0441\u0434\u0435\u043B\u0430\u0435\u043C
+        \u044D\u0442\u043E, \u041A\u044D\u0442\u0442\u0438!"
+      - "Tehd\xE4\xE4n t\xE4m\xE4, Katti!"
+      - "\u3084\u308B\u308F\u3088\u3001\u30AD\u30E3\u30C6\u30A3\uFF01"
+      - Vamos nessa, Catty!
+      - "\xA1Hag\xE1moslo, Catty!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse26_6
+      TermType: 0
+      Description: 
+      Languages:
+      - MAOW!
+      - Miauf!
+      - Miauf!
+      - "\u041C\u042F\u0410\u0423!"
+      - MAOU!
+      - "\u30CB\u30E3\u30C3\uFF01"
+      - MIAU!
+      - "\xA1MIAU!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse27_1
+      TermType: 0
+      Description: 
+      Languages:
+      - I see something, a reflection in the grass.
+      - Ich kann eine Spiegelung im Gras erkennen!
+      - Ich kann eine Spiegelung im Gras erkennen!
+      - "\u042F \u0432\u0438\u0436\u0443 \u0447\u0442\u043E-\u0442\u043E, \u0431\u043B\u0435\u0441\u043A
+        \u0432 \u0442\u0440\u0430\u0432\u0435."
+      - "N\xE4en jotain, heijastus ruohossa."
+      - "\u4F55\u304B\u3001\u304F\u3055\u3080\u3089\u306E\u4E2D\u3067\u5149\u3063\u3066\u308B\u3002"
+      - "Eu t\xF4 vendo algo, um reflexo na grama."
+      - Veo algo, un reflejo en el pasto.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse27_2
+      TermType: 0
+      Description: 
+      Languages:
+      - I see it too!
+      - Ich sehe sie auch!
+      - I siags a!
+      - "\u042F \u0442\u043E\u0436\u0435 \u0435\u0433\u043E \u0432\u0438\u0436\u0443!"
+      - "Min\xE4 n\xE4en sen my\xF6s!"
+      - "\u79C1\u3082\u898B\u3048\u308B\uFF01"
+      - "Eu tamb\xE9m t\xF4 vendo!"
+      - "\xA1Yo tambi\xE9n lo veo!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse27_3
+      TermType: 0
+      Description: 
+      Languages:
+      - It's stuck in the heartvines though...
+      - "Die Augengl\xE4ser haben sich in den Herzranken verfangen..."
+      - "Die Augengl\xE4ser haben sich in den Herzranken verfangen..."
+      - "\u0422\u043E\u043B\u044C\u043A\u043E \u043E\u043D\u0438 \u0437\u0430\u0441\u0442\u0440\u044F\u043B\u0438
+        \u0432 \u0441\u0435\u0440\u0434\u0446\u0435-\u043B\u043E\u0437\u0435..."
+      - "Se on kuitenkin jumissa syd\xE4nk\xF6ynn\xF6ksi\xE4..."
+      - "\u30CF\u30FC\u30C8\u306E\u30C4\u30BF\u306B\u3072\u3063\u304B\u304B\u3063\u3066\u308B\u3051\u3069\u3002"
+      - "T\xE1 preso nas vinhas..."
+      - "Sin embargo, est\xE1 atascado en las lianas."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse27_4
+      TermType: 0
+      Description: 
+      Languages:
+      - Maoooo...
+      - Miausgerechnet...
+      - Mauuuuuuu...
+      - "\u041C\u0430\u043E\u0443\u0443\u0443..."
+      - Maoooo...
+      - "\u30CA\u30AA\u30AA\u30AA\u2026"
+      - Miaau...
+      - "Mauuuu\u2026"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse27_5
+      TermType: 0
+      Description: 
+      Languages:
+      - Maybe the spirits can get it out!
+      - "Vielleicht k\xF6nnen die Geister helfen!"
+      - "Vielleicht kennan de Gspensta h\xF6fn!"
+      - "\u041C\u043E\u0436\u0435\u0442 \u0431\u044B\u0442\u044C \u0434\u0443\u0445\u0438
+        \u0441\u043C\u043E\u0433\u0443\u0442 \u0438\u0445 \u0434\u043E\u0441\u0442\u0430\u0442\u044C!"
+      - "Ehk\xE4 henget voivat saada sen ulos!"
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u306A\u3089\u53D6\u308A\u51FA\u305B\u305D\u3046\uFF01"
+      - "Talvez os esp\xEDritos possam tirar de l\xE1!"
+      - "\xA1Quiz\xE1s los esp\xEDritus puedan sacarlo!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse27_6
+      TermType: 0
+      Description: 
+      Languages:
+      - Yes, let's give it a try!
+      - Ja, lass es uns versuchen!
+      - Ja, lass es uns versuchen!
+      - "\u0414\u0430, \u0434\u0430\u0432\u0430\u0439\u0442\u0435 \u043F\u043E\u043F\u0440\u043E\u0431\u0443\u0435\u043C!"
+      - "Kyll\xE4, kokeillaan sit\xE4!"
+      - "\u3046\u3093\u3001\u3082\u306E\u306F\u305F\u3081\u3057\u3060\uFF01"
+      - "Sim, n\xE3o custa tentar!"
+      - "S\xED, \xA1intent\xE9moslo!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse28_01
+      TermType: 0
+      Description: 
+      Languages:
+      - Thank you so much!
+      - Vielen, vielen Dank!
+      - Vielen, vielen Dank!
+      - "\u0421\u043F\u0430\u0441\u0438\u0431\u043E \u0432\u0430\u043C \u0431\u043E\u043B\u044C\u0448\u043E\u0435!"
+      - Kiitos paljon!
+      - "\u3042\u308A\u304C\u3068\u3046\uFF01"
+      - Muito obrigado!
+      - "\xA1Muchas gracias!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse28_02
+      TermType: 0
+      Description: 
+      Languages:
+      - Mo!
+      - Miau!
+      - Miau!
+      - "\u041C\u044F!"
+      - Mo!
+      - "\u30CA\uFF01"
+      - Maah!
+      - "\xA1Mo!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse28_03
+      TermType: 0
+      Description: 
+      Languages:
+      - You're welcome!
+      - Gern geschehen!
+      - Bitte, gerngschehn!
+      - "\u0412\u0441\u0435\u0433\u0434\u0430 \u043F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430!"
+      - "Ole hyv\xE4!"
+      - "\u3069\u3046\u3082\uFF01"
+      - De nada!
+      - "\xA1De nada!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse28_04
+      TermType: 0
+      Description: 
+      Languages:
+      - You're not going to leave us now, right?
+      - "Du l\xE4sst uns jetzt aber nicht alleine, ja?"
+      - Du valosst uns jetzt oba net, oda?
+      - "\u0422\u044B \u0436\u0435 \u043D\u0435 \u043F\u043E\u043A\u0438\u043D\u0435\u0448\u044C
+        \u043D\u0430\u0441 \u0442\u0435\u043F\u0435\u0440\u044C, \u0434\u0430?"
+      - "Et aio j\xE4tt\xE4\xE4 meit\xE4 nyt, eik\xF6?"
+      - "\u79C1\u305F\u3061\u304B\u3089\u306F\u306A\u308C\u305F\u308A\u3057\u306A\u3044\u3088\u306D\uFF1F"
+      - "Voc\xEA n\xE3o vai nos deixar agora, n\xE9?"
+      - "No nos abandonar\xE1s ahora, \xBFverdad?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse28_05
+      TermType: 0
+      Description: 
+      Languages:
+      - I will stay with you until the spirits are safe.
+      - Ich werde euch begleiten, bis die Geister sicher sind.
+      - Ich werde euch begleiten, bis die Geister sicher sind.
+      - "\u042F \u043E\u0441\u0442\u0430\u043D\u0443\u0441\u044C \u0441 \u0432\u0430\u043C\u0438,
+        \u043F\u043E\u043A\u0430 \u0434\u0443\u0445\u0438 \u043D\u0435 \u0431\u0443\u0434\u0443\u0442
+        \u0432 \u043F\u043E\u0440\u044F\u0434\u043A\u0435."
+      - Pysyn kanssasi, kunnes henket ovat turvassa.
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u304C\u3076\u3058\u306B\u304B\u3048\u308B\u307E\u3067\u306F\u3044\u3063\u3057\u3087\u3055\u3002"
+      - "Ficaremos juntos at\xE9 que os esp\xEDritos estejam salvos."
+      - "Estar\xE9 con ustedes hasta que los esp\xEDritus est\xE9n a salvo."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse28_06
+      TermType: 0
+      Description: 
+      Languages:
+      - Yay!
+      - Juhu!
+      - Jawoi!
+      - "\u0423\u0440\u0430!"
+      - Jee!
+      - "\u3084\u3063\u305F\uFF01"
+      - Oba!
+      - "\xA1Hurra!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse28_07
+      TermType: 0
+      Description: Batty
+      Languages:
+      - I think we're getting closer now...
+      - Ich glaube wir sind schon fast da...
+      - I glaub, mir san scho fost do...
+      - "\u041C\u043D\u0435 \u043A\u0430\u0436\u0435\u0442\u0441\u044F \u043C\u044B
+        \u043F\u0440\u0438\u0431\u043B\u0438\u0436\u0430\u0435\u043C\u0441\u044F..."
+      - "Luulen, ett\xE4 l\xE4hestymme nyt ..."
+      - "\u3060\u3044\u3076\u8FD1\u304F\u306A\u3063\u3066\u304D\u305F\u3002"
+      - Eu acho que agora estamos chegando perto...
+      - "Creo que nos estamos acercando\u2026"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse28_08
+      TermType: 0
+      Description: Hedgar
+      Languages:
+      - There is a marked path here.
+      - Hier wurde ein Weg markiert.
+      - Hier wurde ein Weg markiert.
+      - "\u0422\u0443\u0442 \u0435\u0441\u0442\u044C \u043E\u0442\u043C\u0435\u0442\u043A\u0438
+        \u043D\u0430 \u043F\u0443\u0442\u0438."
+      - "T\xE4\xE4ll\xE4 on merkitty polku."
+      - "\u3057\u308B\u3057\u306E\u3064\u3044\u305F\u9053\u304C\u3042\u308B\u3002"
+      - Tem um caminho marcado aqui.
+      - "Hay un camino marcado aqu\xED."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse28_09
+      TermType: 0
+      Description: 
+      Languages:
+      - Moaw meowa mow mowaaa mew!
+      - Miou miaua mau miaaaa mau!
+      - Miou miaua mau miaaaa mau!
+      - "\u041C\u044F\u0443 \u043C\u0435\u043E\u043C\u044F \u043C\u043E\u0443  \u043C\u044F\u0443\u0430
+        \u043C\u044F!"
+      - Moau maoua mou mouaaa maou!
+      - "\u30CA\u30AA\u3001\u30CB\u30E3\u3001\u30CA\u30FC\u3001\u30CB\u30E3\u30A6\u30A6\u3001\u30CB\u30E3\uFF01"
+      - Miau muaua mau miauu miaaau!
+      - "\xA1Miau miauwa mauu mauwaaa miau!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse28_10
+      TermType: 0
+      Description: 
+      Languages:
+      - You're right, Catty!
+      - Du hast Recht, Catty!
+      - Du host Recht, Catty!
+      - "\u0422\u044B \u043F\u0440\u0430\u0432, \u041A\u044D\u0442\u0442\u0438!"
+      - Olet oikeassa, Katti!
+      - "\u305D\u3046\u306D\u3001\u30AD\u30E3\u30C6\u30A3\uFF01"
+      - "Voc\xEA t\xE1 certa, Catty!"
+      - "\xA1Tienes raz\xF3n, Catty!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse28_11
+      TermType: 0
+      Description: 
+      Languages:
+      - Let's follow the markings.
+      - Lass uns den Markierungen folgen!
+      - Gemma de Markierungen noch!
+      - "\u0414\u0430\u0432\u0430\u0439 \u0431\u0443\u0434\u0435\u043C \u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u044C
+        \u043E\u0442\u043C\u0435\u0442\u043A\u0430\u043C."
+      - "Seurataan merkint\xF6j\xE4."
+      - "\u3057\u308B\u3057\u3092\u8FFD\u3044\u307E\u3057\u3087\u3046\u3002"
+      - "Vamos seguir as marca\xE7\xF5es."
+      - Sigamos las marcas.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse29_01
+      TermType: 0
+      Description: Batty
+      Languages:
+      - Are we in a spirit area?
+      - Sind wir in der Geisterwelt?
+      - Samma in der Gspenstawelt?
+      - "\u041C\u044B \u0432 \u043E\u0431\u043B\u0430\u0441\u0442\u0438 \u0434\u0443\u0445\u043E\u0432?"
+      - Olemmeko henkialueella?
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u306E\u3053\u304D\u3087\u3046\u306B\u3064\u3044\u305F\uFF1F"
+      - "Ser\xE1 que estamos numa \xE1rea de esp\xEDritos?"
+      - "\xBFEstamos en un \xE1rea de esp\xEDritus?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse29_02
+      TermType: 0
+      Description: Hedgar
+      Languages:
+      - It is pretty crowded.
+      - Hier ist ziemlich viel los.
+      - Hier ist ziemlich viel los.
+      - "\u0422\u0443\u0442 \u0434\u043E\u0432\u043E\u043B\u044C\u043D\u043E \u0442\u0435\u0441\u043D\u043E."
+      - "Se on melko t\xE4ynn\xE4."
+      - "\u3059\u3054\u3044\u3080\u308C\u3060\u306A\u3002"
+      - "T\xE1 muito cheio por aqui."
+      - "Est\xE1 bastante concurrida."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse29_03
+      TermType: 0
+      Description: 
+      Languages:
+      - Mow meowow mweo?
+      - Miau mauiau mwau?
+      - Miau mauiau mwau?
+      - "\u041C\u044F\u0443 \u0443\u043C\u044F\u0443\u043C?"
+      - Mou meouou mueo?
+      - "\u30CA\u30FC\u3001\u30CB\u30E3\u30A6\u30CB\u30E3\u30A6\u3001\u30CB\u30E3\uFF1F"
+      - Mau miauau miau?
+      - "\xBFMou, miauwuw miwu?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse29_04
+      TermType: 0
+      Description: 
+      Languages:
+      - No, we're not dead, Catty!
+      - "Nat\xFCrlich sind wir noch am Leben, Catty!"
+      - Na, mia san net tot, Catty!
+      - "\u041D\u0435\u0442, \u043C\u044B \u043D\u0435 \u0443\u043C\u0435\u0440\u043B\u0438,
+        \u041A\u044D\u0442\u0442\u0438!"
+      - Ei, emme ole kuolleet, Katti!
+      - "\u3046\u3046\u3093\u3001\u79C1\u305F\u3061\u306F\u6B7B\u3093\u3067\u306A\u3044\u308F\u3002"
+      - "N\xE3o, n\xE3o estamos mortos, Catty!"
+      - "\xA1No, no estamos muertos, Catty!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse29_05
+      TermType: 0
+      Description: 
+      Languages:
+      - Mew!!
+      - Mauh!!
+      - Mauh!!
+      - "\u0423\u043C\u044F!"
+      - Meu!!
+      - "\u30CB\u30E3\u30A6\uFF01"
+      - Miah!
+      - "\xA1Miah!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse29_06
+      TermType: 0
+      Description: Hedgar
+      Languages:
+      - We need a path through the crowd.
+      - "Wir m\xFCssen uns einen Weg durch die Geister schaffen!"
+      - "Wir m\xFCssen uns einen Weg durch die Geister schaffen!"
+      - "\u041D\u0430\u043C \u043D\u0443\u0436\u0435\u043D \u043F\u0443\u0442\u044C
+        \u0447\u0435\u0440\u0435\u0437 \u044D\u0442\u0443 \u0442\u043E\u043B\u043F\u0443!"
+      - "Tarvitsemme polun v\xE4kijoukon l\xE4pi."
+      - "\u3080\u308C\u306E\u4E2D\u3092\u3059\u3059\u3080\u9053\u3092\u898B\u3064\u3051\u306A\u3044\u3068\u3002"
+      - "Precisamos de um atalho atrav\xE9s da multid\xE3o."
+      - Necesitamos cruzar por la multitud.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse29_07
+      TermType: 0
+      Description: Batty
+      Languages:
+      - Won't they mind all the boxes?
+      - "Werden die Kisten sie nicht st\xF6ren?"
+      - "St\xF6rn de Schochtln net?"
+      - "\u0418\u043C \u043D\u0435 \u043F\u043E\u043C\u0435\u0448\u0430\u044E\u0442
+        \u0432\u0441\u0435 \u044D\u0442\u0438 \u043A\u043E\u0440\u043E\u0431\u043A\u0438?"
+      - "Eiv\xE4tk\xF6 he v\xE4lit\xE4 kaikista laatikoista?"
+      - "\u7BB1\u304C\u3042\u3063\u3066\u3082\u6C17\u306B\u3057\u306A\u3044\u306E\u304B\u3057\u3089\uFF1F"
+      - "Ser\xE1 que eles n\xE3o se incomodam com todas estas caixas?"
+      - "\xBFNo les molestar\xE1n todas las cajas?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse29_08
+      TermType: 0
+      Description: Hedgar
+      Languages:
+      - We'll clear them later, it's fine.
+      - "Wir werden sie einfach sp\xE4ter wegr\xE4umen."
+      - "Wir werden sie einfach sp\xE4ter wegr\xE4umen."
+      - "\u041D\u0438\u0447\u0435\u0433\u043E \u0441\u0442\u0440\u0430\u0448\u043D\u043E\u0433\u043E,
+        \u043C\u044B \u0438\u0445 \u043F\u043E\u0442\u043E\u043C \u0443\u0431\u0435\u0440\u0451\u043C."
+      - "Selvit\xE4mme ne my\xF6hemmin, se on hieno."
+      - "\u3042\u3068\u3067\u304B\u305F\u3065\u3051\u308B\u304B\u3089\u5927\u4E08\u592B\u3002"
+      - "Vamos remov\xEA-las mais tarde, t\xE1 tudo bem."
+      - "Las limpiaremos despu\xE9s, no te preocupes."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse29_09
+      TermType: 0
+      Description: Batty
+      Languages:
+      - Fair enough!
+      - Na dann!
+      - Aso, na daun!
+      - "\u041D\u0443 \u043B\u0430\u0434\u043D\u043E!"
+      - "Ihan hyv\xE4!"
+      - "\u305D\u3063\u304B\uFF01"
+      - Justo!
+      - "\xA1Me parece bien!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse30_01
+      TermType: 0
+      Description: 
+      Languages:
+      - Spirits!! We made it!
+      - Geister!! Wir haben es geschafft!
+      - Gspensta! Wir homs gschofft!
+      - "\u0414\u0443\u0445\u0438! \u041C\u044B \u0441\u0434\u0435\u043B\u0430\u043B\u0438
+        \u044D\u0442\u043E!"
+      - Henget!! Me teimme sen!
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u305F\u3061\uFF01 \u3084\u3063\u305F\u308F\u3088\uFF01"
+      - "Esp\xEDritos!! N\xF3s conseguimos!"
+      - "\xA1\xA1Esp\xEDritus!! \xA1Lo conseguimos!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse30_02
+      TermType: 0
+      Description: 
+      Languages:
+      - Maoooo o mewow maoooo!
+      - Miaoo o miao miauuu!
+      - Miaoo o miao miauuu!
+      - "\u041C\u044F \u043C\u044F\u0443\u0443 \u043C\u0443\u0430\u0443\u0443\u0443!"
+      - Maoooo o meuou maoooo!
+      - "\u30CB\u30E3\u30AA\u30FC\u30F3\u3001\u30CB\u30E3\u30A6\u3001\u30CB\u30E3\u30FC\uFF01"
+      - Maaau au miauau miaaaau!
+      - "\xA1Maaau au maiuau miauuu!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse30_03
+      TermType: 0
+      Description: 
+      Languages:
+      - I'll miss them too, Catty!
+      - Ich werde sie auch vermissen, Catty!
+      - I werd's a vermissn, Catty!
+      - "\u042F \u0442\u043E\u0436\u0435 \u0431\u0443\u0434\u0443 \u043F\u043E \u043D\u0438\u043C
+        \u0441\u043A\u0443\u0447\u0430\u0442\u044C, \u041A\u044D\u0442\u0442\u0438."
+      - "Kaipaan heit\xE4 my\xF6s, Katti!"
+      - "\u79C1\u3060\u3063\u3066\u3061\u3087\u3063\u3068\u3055\u3073\u3057\u304F\u306A\u308B\u308F\u3002"
+      - "Eu tamb\xE9m sentirei falta deles, Catty!"
+      - "\xA1Yo tambi\xE9n los extra\xF1ar\xE9, Catty!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse30_04
+      TermType: 0
+      Description: 
+      Languages:
+      - The spirits seem pretty excited.
+      - Die Geister wirken ziemlich aufgeregt.
+      - Die Geister wirken ziemlich aufgeregt.
+      - "\u0414\u0443\u0445\u0438 \u0432\u044B\u0433\u043B\u044F\u0434\u044F\u0442
+        \u0434\u043E\u0432\u043E\u043B\u044C\u043D\u043E \u0432\u0437\u0432\u043E\u043B\u043D\u043E\u0432\u0430\u043D\u043E!"
+      - "Henget n\xE4ytt\xE4v\xE4t melko innoissaan."
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u305F\u3061\u3001\u304B\u306A\u308A\u3053\u3046\u3075\u3093\u3057\u3066\u308B\u3002"
+      - "Os esp\xEDritos parecem estar muito animados!"
+      - "Los esp\xEDritus parecen muy emocionados."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse30_05
+      TermType: 0
+      Description: 
+      Languages:
+      - Is this some kind of waiting area?
+      - Ist das sowas wie ein Wartezimmer?
+      - Is des sowos wia a Woatezimma?
+      - "\u042D\u0442\u043E \u0447\u0442\u043E-\u0442\u043E \u0432\u0440\u043E\u0434\u0435
+        \u0437\u043E\u043D\u044B \u043E\u0436\u0438\u0434\u0430\u043D\u0438\u044F?"
+      - "Onko t\xE4m\xE4 jonkinlainen odotusalue?"
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u306E\u307E\u3061\u3042\u3044\u3058\u3087\u3001\u304B\u306A\uFF1F"
+      - "Isso \xE9 algum tipo de sala de espera?"
+      - "\xBFEs esto una especie de sala de espera?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse30_06
+      TermType: 0
+      Description: 
+      Languages:
+      - It does seem like it.
+      - Scheint durchaus so zu sein.
+      - Scheint durchaus so zu sein.
+      - "\u041F\u043E\u0445\u043E\u0436\u0435 \u043D\u0430 \u0442\u043E."
+      - "Se n\xE4ytt\xE4\xE4 silt\xE4."
+      - "\u305D\u3046\u3063\u307D\u3044\u3002"
+      - Parece que sim.
+      - Parece serlo.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse30_07
+      TermType: 0
+      Description: 
+      Languages:
+      - Take care spirits!
+      - Macht's gut, Geister!
+      - Passt's auf eich auf, Gspensta!
+      - "\u0411\u0435\u0440\u0435\u0433\u0438\u0442\u0435 \u0441\u0435\u0431\u044F,
+        \u0434\u0443\u0445\u0438!"
+      - "Huolehdi hengist\xE4!"
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u306E\u307F\u3093\u306A\u3001\u6C17\u3092\u3064\u3051\u3066\u306D\uFF01"
+      - "Se cuidem, esp\xEDritos!"
+      - "\xA1Cu\xEDdense esp\xEDritus!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse30_08
+      TermType: 0
+      Description: 
+      Languages:
+      - Mo!!
+      - Mau!!
+      - Mau!!
+      - "\u041C\u044F\u0443!"
+      - Mo!!
+      - "\u30CB\u30E3\uFF01"
+      - Miau!
+      - "\xA1Miau!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse30_09
+      TermType: 0
+      Description: 
+      Languages:
+      - Good luck, wherever your journey may lead!
+      - "Viel Gl\xFCck, wohin auch immer eure Reise euch f\xFChren wird!"
+      - "Viel Gl\xFCck, wo auch immer euch eure Reise f\xFChren wird!"
+      - "\u0423\u0434\u0430\u0447\u0438, \u043A\u0443\u0434\u0430 \u0431\u044B \u043D\u0435
+        \u0437\u0430\u0432\u0435\u043B\u043E \u0432\u0430\u0441 \u043F\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u0435!"
+      - Onnea mihin tahansa matkalle voi johtaa!
+      - "\u304D\u307F\u305F\u3061\u306E\u30BF\u30D3\u3082\u3046\u307E\u304F\u3044\u304D\u307E\u3059\u3088\u3046\u306B\uFF01"
+      - 'Boa sorte, aonde quer que sua jornada os leve! '
+      - "\xA1Buena suerte, a donde sea que los lleve su viaje!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse30_10
+      TermType: 0
+      Description: 
+      Languages:
+      - Okay, let's do this!
+      - Na gut, dann lasst uns mal loslegen!
+      - Basst, donn gemmas on!
+      - "\u041B\u0430\u0434\u043D\u043E, \u0441\u0434\u0435\u043B\u0430\u0435\u043C
+        \u044D\u0442\u043E!"
+      - "Okei, tehd\xE4\xE4n t\xE4m\xE4!"
+      - "\u3055\u3066\u3001\u3084\u308B\u308F\u3088\uFF01"
+      - "Ok, vamos l\xE1!"
+      - "\xA1De acuerdo, hag\xE1moslo!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse31_01
+      TermType: 0
+      Description: 
+      Languages:
+      - That was quite an adventure!
+      - "Was f\xFCr ein Abenteuer!"
+      - Des woa a gscheids Obnteuer, ha?
+      - "\u042D\u0442\u043E \u0431\u044B\u043B\u043E \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435
+        \u043F\u0440\u0438\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0435!"
+      - Se oli aika seikkailu!
+      - "\u304B\u306A\u308A\u306E\u5927\u307C\u3046\u3051\u3093\u3060\u3063\u305F\u308F\u306D\uFF01"
+      - Foi uma bela aventura.
+      - "\xA1Fue toda una aventura!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse31_02
+      TermType: 0
+      Description: 
+      Languages:
+      - Mo!!
+      - Mau!
+      - Mau!
+      - "\u041C\u044F!"
+      - Mo!!
+      - "\u30CB\u30E3\uFF01"
+      - Miaau!!
+      - "\xA1\xA1Mo!!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse31_03
+      TermType: 0
+      Description: 
+      Languages:
+      - I shall return the glasses to their owner.
+      - Ich werde die Brille an ihren Besitzer retournieren.
+      - Ich werde die Brille an ihren Besitzer retournieren.
+      - "\u042F \u0434\u043E\u043B\u0436\u0435\u043D \u0432\u0435\u0440\u043D\u0443\u0442\u044C
+        \u043E\u0447\u043A\u0438 \u0438\u0445 \u0445\u043E\u0437\u044F\u0438\u043D\u0443."
+      - Palautan lasit omistajalle.
+      - "\u30E1\u30AC\u30CD\u3092\u738B\u306E\u3082\u3068\u306B\u304B\u3048\u3055\u306A\u304D\u3083\u3002"
+      - "Agora posso devolver estes \xF3culos ao dono."
+      - "Devolver\xE9 los lentes a su due\xF1o."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse31_04
+      TermType: 0
+      Description: 
+      Languages:
+      - Thank you for helping me out!
+      - Vielen Dank, dass ihr mir geholfen habt!
+      - Vielen Dank, dass ihr mir geholfen habt!
+      - "\u0421\u043F\u0430\u0441\u0438\u0431\u043E , \u0447\u0442\u043E \u043F\u043E\u043C\u043E\u0433\u043B\u0438
+        \u043C\u043D\u0435!"
+      - "Kiitos, ett\xE4 autat minua!"
+      - "\u624B\u4F1D\u3063\u3066\u304F\u308C\u3066\u307B\u3093\u3068\u3046\u306B\u305F\u3059\u304B\u3063\u305F\u3088\uFF01"
+      - Obrigado por me ajudar!
+      - "\xA1Gracias por ayudarme!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse31_05
+      TermType: 0
+      Description: 
+      Languages:
+      - You're very welcome, Hedgar.
+      - Bitte, sehr gern geschehen!
+      - Oba bitte, nix zum Daunga!
+      - "\u0412\u0441\u0435\u0433\u0434\u0430 \u043F\u043E\u0436\u0430\u043B\u0443\u0439\u0441\u0442\u0430,
+        \u0425\u0435\u0434\u0433\u0430\u0440!"
+      - "Olet eritt\xE4in tervetullut, Siilinus."
+      - "\u3053\u3061\u3089\u3053\u305D\u3042\u308A\u304C\u3068\u306D\u3001\u30D8\u30C3\u30B8\u30E3\u30FC\u3002"
+      - "Muit\xEDssimo de nada, Hedgar."
+      - De nada, Hedgar.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse31_05b
+      TermType: 0
+      Description: 
+      Languages:
+      - Greetings to the king!
+      - "Liebe Gr\xFC\xDFe an den K\xF6nig!"
+      - "Schen Grua\xDF andn Kenig!"
+      - "\u041F\u0435\u0440\u0435\u0434\u0430\u0432\u0430\u0439 \u043F\u0440\u0438\u0432\u0435\u0442
+        \u043A\u043E\u0440\u043E\u043B\u044E!"
+      - "Terveisi\xE4 kuninkaalle!"
+      - "\u738B\u3055\u307E\u306B\u3082\u3088\u308D\u3057\u304F\uFF01"
+      - "Mande lembran\xE7as ao rei!"
+      - "\xA1Saludos al rey!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse31_06
+      TermType: 0
+      Description: 
+      Languages:
+      - Mow meow! Moew mew!
+      - Mao miao! Miau mau!
+      - Mao miao! Miau mau!
+      - "\u041C\u043E\u0443 \u043C\u044F\u0443! \u041C\u0435\u044F\u0443 \u043C\u044F\u0443!"
+      - Mou miau! Mau miu!
+      - "\u30CA\u30A6\u30CB\u30E3\uFF01 \u30CA\u30A6\u30CB\u30E3\uFF01"
+      - Mau miau! Miau miau!
+      - "\xA1Mou miau! \xA1Moeu miau!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse31_07
+      TermType: 0
+      Description: 
+      Languages:
+      - Let's go home, Catty!
+      - Lass uns nach Hause gehen, Catty!
+      - Kimm, gemma ham, Catty!
+      - "\u041F\u043E\u0439\u0434\u0451\u043C \u0434\u043E\u043C\u043E\u0439, \u041A\u044D\u0442\u0442\u0438!"
+      - "Menn\xE4\xE4n kotiin, Catty!"
+      - "\u3055\u3066\u304B\u3048\u308A\u307E\u3057\u3087\u3001\u30AD\u30E3\u30C6\u30A3\uFF01"
+      - Vamos pra casa, Catty!
+      - "\xA1V\xE1monos a casa, Catty!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse31_08
+      TermType: 0
+      Description: 
+      Languages:
+      - MEW'S MO!
+      - Miau mo!
+      - Miau mo!
+      - "\u041C\u042F\u0423\u041C\u0401\u041C!"
+      - MIU'S MO!
+      - "\u30CB\u30E3\u30F3\u30CB\u30E3\u30FC\uFF01"
+      - Miaumos!
+      - "\xA1MI\xC1UMONOS!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: cse31_09
+      TermType: 0
+      Description: 
+      Languages:
+      - Farewell!
+      - Lebt wohl!
+      - D'Ehre!
+      - "\u041F\u0440\u043E\u0449\u0430\u0439\u0442\u0435!"
+      - "J\xE4\xE4hyv\xE4iset!"
+      - "\u3058\u3083\u3042\u306D\uFF01"
+      - "At\xE9 logo!"
+      - "\xA1Adi\xF3s!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelcomplete
+      TermType: 0
+      Description: 
+      Languages:
+      - Level complete!
+      - Level geschafft!
+      - Level gschofft!
+      - "\u0423\u0440\u043E\u0432\u0435\u043D\u044C \u043F\u0440\u043E\u0439\u0434\u0435\u043D!"
+      - Taso valmis!
+      - "\u30EC\u30D9\u30EB\u30AF\u30EA\u30A2\uFF01"
+      - "N\xEDvel conclu\xEDdo!"
+      - "\xA1Nivel completado!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname1
+      TermType: 0
+      Description: 
+      Languages:
+      - Adventure Time
+      - "Zeit f\xFCr Abenteuer"
+      - Zeit fia Obnteuer
+      - "\u0412\u0440\u0435\u043C\u044F \u043F\u0440\u0438\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0439"
+      - Seikkailuaika
+      - "\u30A2\u30C9\u30D9\u30F3\u30C1\u30E3\u30FC\u30BF\u30A4\u30E0"
+      - Hora de Aventura
+      - Hora de Aventura
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname10
+      TermType: 0
+      Description: 
+      Languages:
+      - Cornered
+      - Eingeengt
+      - Eingeengt
+      - "\u0412 \u0423\u0433\u043B\u0443"
+      - Kulmassa
+      - "\u3059\u307F\u3063\u3053"
+      - Encurralada
+      - Acorralados
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname11
+      TermType: 0
+      Description: 
+      Languages:
+      - Leaves
+      - "Bl\xE4tter"
+      - Blattl
+      - "\u041B\u0438\u0441\u0442\u044C\u044F"
+      - Lehdet
+      - "\u3053\u306E\u306F"
+      - Folhas
+      - Hojas
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname12
+      TermType: 0
+      Description: 
+      Languages:
+      - Starsnow
+      - Sternenschnee
+      - Sternenschnee
+      - "\u0417\u0432\u0435\u0437\u0434\u043E\u043F\u0430\u0434"
+      - "T\xE4htilumi"
+      - "\u661F\u306E\u96EA"
+      - Neve estelar
+      - Nevada Estelar
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname13
+      TermType: 0
+      Description: 
+      Languages:
+      - Button Glutton
+      - Knopfhaufen
+      - Lauta Knepf
+      - "\u0416\u0430\u0434\u043D\u044B\u0435 \u041A\u043D\u043E\u043F\u043A\u0438"
+      - Nappi ahmatti
+      - "\u304F\u3044\u3057\u3093\u30DC\u30BF\u30F3"
+      - "Bot\xE3o-glut\xE3o"
+      - "Bot\xF3n Glot\xF3n"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname14
+      TermType: 0
+      Description: 
+      Languages:
+      - Supercharger
+      - Superlader
+      - Superlader
+      - "\u0421\u0443\u043F\u0435\u0440\u0437\u0430\u0440\u044F\u0434\u043D\u0438\u043A"
+      - Ahdin
+      - "\u30B9\u30FC\u30D1\u30FC\u30C1\u30E3\u30FC\u30B8"
+      - Supercarga
+      - Supercargador
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname15
+      TermType: 0
+      Description: 
+      Languages:
+      - Cattypillars
+      - Katzenraupe
+      - Katzenraupe
+      - "\u0413\u0443\u0441\u0435\u043D\u0438\u0446\u044B"
+      - Kissan-Toukat
+      - "\u30AD\u30E3\u30C3\u30BF\u30D4\u30E9\u30FC"
+      - La-gatas
+      - Orugatas
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname16
+      TermType: 0
+      Description: 
+      Languages:
+      - Wind Chimes
+      - Windspiele
+      - Windspiele
+      - "\u041C\u0443\u0437\u044B\u043A\u0430 \u0412\u0435\u0442\u0440\u0430"
+      - Tuulikello
+      - "\u98A8\u306E\u3075\u304F\u9053"
+      - "Espanta-esp\xEDritos"
+      - Campanas de Viento
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname17
+      TermType: 0
+      Description: 
+      Languages:
+      - Hedgar Time
+      - "Zeit f\xFCr Hedgar"
+      - Zeit fian Hedgar
+      - "\u0412\u0440\u0435\u043C\u044F \u0425\u0435\u0434\u0433\u0430\u0440\u0430"
+      - Siilinus-aika
+      - "\u30D8\u30C3\u30B8\u30E3\u30FC\u30BF\u30A4\u30E0"
+      - Hora do Hedgar
+      - Hora de Hedgar
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname18
+      TermType: 0
+      Description: 
+      Languages:
+      - Sequence
+      - Sequenz
+      - Sequenz
+      - "\u041F\u043E\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
+      - "J\xE4rjestys"
+      - "\u30B7\u30FC\u30B1\u30F3\u30B9"
+      - "Sequ\xEAncia"
+      - Secuencia
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname19
+      TermType: 0
+      Description: 
+      Languages:
+      - Toll
+      - Zoll
+      - Zoll
+      - "\u0414\u0430\u043D\u044C"
+      - Maksut
+      - "\u305B\u304D\u3057\u3087"
+      - "Ped\xE1gio"
+      - Peaje
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname2
+      TermType: 0
+      Description: 
+      Languages:
+      - Shromp
+      - Stampfilz
+      - Stampfilz
+      - "\u0413\u0440\u0438\u0431\u043E\u0447\u0435\u043A"
+      - Shromp
+      - "\u304F\u308A\u304B\u3048\u3057"
+      - Cogu
+      - "Camor\xF3n"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname20
+      TermType: 0
+      Description: 
+      Languages:
+      - Dark Maze
+      - Dunkles Labyrinth
+      - Finstere Gruft
+      - "\u0422\u0451\u043C\u043D\u044B\u0439 \u041B\u0430\u0431\u0438\u0440\u0438\u043D\u0442"
+      - Tumma sokkelo
+      - "\u30E4\u30DF\u306E\u30E1\u30A4\u30ED"
+      - La-breu-rinto
+      - Laberinto Oscuro
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname21
+      TermType: 0
+      Description: 
+      Languages:
+      - Crystomalities
+      - Kristallnomalie
+      - Kristallnomalie
+      - "\u041A\u0440\u0438\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u043C\u0430\u043B\u0438\u0438"
+      - Crystomalities
+      - "\u30AF\u30EA\u30B9\u30C8\u30DE\u30EA\u30C6\u30A3"
+      - Cristanomalias
+      - "Cristanomal\xEDas"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname22
+      TermType: 0
+      Description: 
+      Languages:
+      - Beatbox
+      - Beatbox
+      - Beatbox
+      - "\u0411\u0438\u0442\u0431\u043E\u043A\u0441"
+      - Bealaatikko
+      - "\u30D3\u30FC\u30C8\u30DC\u30C3\u30AF\u30B9"
+      - Beatbox
+      - Beatbox
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname23
+      TermType: 0
+      Description: 
+      Languages:
+      - Heartcrank
+      - Herzkurbel
+      - Herzkurbl
+      - "\u0421\u0435\u0440\u0434\u0446\u0435-\u0440\u044B\u0447\u0430\u0433"
+      - "Syd\xE4nkuori"
+      - "\u30CF\u30FC\u30C8\u30AF\u30E9\u30F3\u30AF"
+      - "Manivela de cora\xE7\xE3o"
+      - "Manivela Coraz\xF3n"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname24
+      TermType: 0
+      Description: 
+      Languages:
+      - Door Galore
+      - "T\xFCren \xDCberfluss"
+      - "Zv\xFC T\xFCrn"
+      - "\u0414\u0432\u0435\u0440\u043D\u043E\u0435 \u0418\u0437\u043E\u0431\u0438\u043B\u0438\u0435"
+      - Ovi yllin kyllin
+      - "\u30C9\u30A2\u3060\u3089\u3051"
+      - Portas e portas
+      - "Puertas a mont\xF3n"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname25
+      TermType: 0
+      Description: 
+      Languages:
+      - Crankmaster
+      - Kurbelmeister
+      - Kurblmeista
+      - "\u041F\u043E\u0432\u0435\u043B\u0438\u0442\u0435\u043B\u044C \u0420\u044B\u0447\u0430\u0433\u043E\u0432"
+      - Kampimestari
+      - "\u30AF\u30E9\u30F3\u30AF\u30DE\u30B9\u30BF\u30FC"
+      - Mestre das manivelas
+      - Manivelador
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname26
+      TermType: 0
+      Description: 
+      Languages:
+      - Waywiser
+      - Wegweiser
+      - Wegweiser
+      - "\u041F\u0443\u0442\u0435\u0443\u043A\u0430\u0437\u0430\u0442\u0435\u043B\u044C"
+      - Tieviisas
+      - "\u307F\u3061\u3073\u304D\u306E\u77F3"
+      - "Sapi\xEAncia"
+      - "Piedras Gu\xEDa"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname27
+      TermType: 0
+      Description: 
+      Languages:
+      - King's Glasses
+      - "Brille des K\xF6nigs"
+      - "In K\xF6nig sei Br\xFCn"
+      - "\u041E\u0447\u043A\u0438 \u041A\u043E\u0440\u043E\u043B\u044F"
+      - Kuninkaan lasit
+      - "\u738B\u306E\u30E1\u30AC\u30CD"
+      - "\xD3culos do rei"
+      - Anteojos del Rey
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname28
+      TermType: 0
+      Description: 
+      Languages:
+      - Hidden Path
+      - Versteckter Pfad
+      - Unsichtbora Weg
+      - "\u0421\u043A\u0440\u044B\u0442\u044B\u0439 \u041F\u0443\u0442\u044C"
+      - Piilotettu polku
+      - "\u304B\u304F\u3055\u308C\u305F\u9053"
+      - Passagem secreta
+      - Camino Oculto
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname29
+      TermType: 0
+      Description: 
+      Languages:
+      - Spirit Crowd
+      - Geistermenge
+      - Gspensta Auflauf
+      - "\u0422\u043E\u043B\u043F\u0430 \u0414\u0443\u0445\u043E\u0432"
+      - Henkijoukko
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u306E\u3080\u308C"
+      - "Multid\xE3o de esp\xEDritos"
+      - "Multitud de Esp\xEDritus"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname3
+      TermType: 0
+      Description: 
+      Languages:
+      - Portals
+      - Portale
+      - Portale
+      - "\u041F\u043E\u0440\u0442\u0430\u043B\u044B"
+      - Portaalit
+      - "\u30DD\u30FC\u30BF\u30EB"
+      - Portais
+      - Portales
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname30
+      TermType: 0
+      Description: 
+      Languages:
+      - Spirit's Call
+      - Ruf der Geister
+      - Ruf der Gspensta
+      - "\u0417\u043E\u0432 \u0414\u0443\u0445\u043E\u0432"
+      - Hengen kutsu
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u306E\u3088\u3073\u3054\u3048"
+      - "Chamado dos Esp\xEDritos"
+      - Llamada Espiritual
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname31
+      TermType: 0
+      Description: 
+      Languages:
+      - Farewell
+      - Lebwohl
+      - D'Ehre
+      - "\u041F\u0440\u043E\u0449\u0430\u043D\u0438\u0435"
+      - "J\xE4\xE4hyv\xE4iset"
+      - "\u304A\u308F\u304B\u308C\u306E\u6642"
+      - "At\xE9 logo"
+      - Despedida
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname4
+      TermType: 0
+      Description: 
+      Languages:
+      - Out of Boxes
+      - Schachtel Engpass
+      - Aus mit Schochtln
+      - "\u0412\u043D\u0435 \u041A\u043E\u0440\u043E\u0431\u043E\u043A"
+      - Laatikot on loppu
+      - "\u308F\u305A\u304B\u306A\u7BB1"
+      - Sem caixas
+      - Sin cajas
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname5
+      TermType: 0
+      Description: 
+      Languages:
+      - Heartvine
+      - Herzliane
+      - Herzliane
+      - "\u0421\u0435\u0440\u0434\u0446\u0435-\u041B\u043E\u0437\u0430"
+      - "Syd\xE4nk\xF6ynn\xF6s"
+      - "\u30CF\u30FC\u30C8\u306E\u30C4\u30BF"
+      - "Vinha-de-cora\xE7\xE3o"
+      - "Lianas Coraz\xF3n"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname6
+      TermType: 0
+      Description: 
+      Languages:
+      - Eyeflower
+      - Augenblume
+      - Augnbliaml
+      - "\u0413\u043B\u0430\u0437\u043E\u0446\u0432\u0435\u0442"
+      - "Silm\xE4kukka"
+      - "\u76EE\u7389\u306E\u82B1"
+      - Flor-observadora
+      - Flor-ojo
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname7
+      TermType: 0
+      Description: 
+      Languages:
+      - Buttons
+      - "Kn\xF6pfe"
+      - Knopferl
+      - "\u041A\u043D\u043E\u043F\u043A\u0438"
+      - Napit
+      - "\u30DC\u30BF\u30F3"
+      - "Bot\xF5es"
+      - Botones
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname8
+      TermType: 0
+      Description: 
+      Languages:
+      - Boxfox
+      - Schachtelfuchs
+      - Schochtlfuchs
+      - "\u041A\u043E\u0440\u043E\u0431\u043E\u0447\u043D\u0430\u044F \u041B\u0438\u0441\u0430"
+      - Laatikkokettu
+      - "\u30CF\u30B3\u30AD\u30C4\u30CD"
+      - Raposa-das-caixas
+      - Zorro-caja
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: levelname9
+      TermType: 0
+      Description: 
+      Languages:
+      - Heartbeans
+      - Herzbohnen
+      - Herzbohnen
+      - "\u0411\u0443\u0442\u043E\u043D\u044B \u0421\u0435\u0440\u0434\u0435\u0446"
+      - "Syd\xE4npavut"
+      - "\u30CF\u30FC\u30C8\u30DE\u30E1"
+      - "Feij\xF5es-cora\xE7\xE3o"
+      - "Frijoles coraz\xF3n"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: localizedtime
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Time:'
+      - 'Zeit:'
+      - 'Zeit:'
+      - "\u0412\u0440\u0435\u043C\u044F:"
+      - 'Aika:'
+      - "\u30BF\u30A4\u30E0:"
+      - 'Tempo:'
+      - 'Tiempo:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_audio
+      TermType: 0
+      Description: 
+      Languages:
+      - Audio
+      - Audio
+      - Audio
+      - "\u0417\u0432\u0443\u043A"
+      - "\xC4\xE4ni"
+      - "\u30AA\u30FC\u30C7\u30A3\u30AA"
+      - "\xC1udio"
+      - Audio
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_controller
+      TermType: 0
+      Description: 
+      Languages:
+      - Controller
+      - Controller
+      - Controller
+      - "\u0413\u0435\u0439\u043C\u043F\u0430\u0434"
+      - Ohjain
+      - "\u30B3\u30F3\u30C8\u30ED\u30FC\u30E9"
+      - Controle
+      - Control
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_controls
+      TermType: 0
+      Description: 
+      Languages:
+      - Controls
+      - Steuerung
+      - Steuerung
+      - "\u0423\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435"
+      - Ohjaimet
+      - "\u305D\u3046\u3055"
+      - Controles
+      - Controles
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_effects
+      TermType: 0
+      Description: 
+      Languages:
+      - Effects
+      - Effekte
+      - Effekte
+      - "\u042D\u0444\u0444\u0435\u043A\u0442\u044B"
+      - Vaikutukset
+      - "\u30A8\u30D5\u30A7\u30AF\u30C8"
+      - Efeitos
+      - Efectos
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_fullscreen
+      TermType: 0
+      Description: 
+      Languages:
+      - Fullscreen
+      - Vollbild
+      - Vollbild
+      - "\u041F\u043E\u043B\u043D\u044B\u0439 \u042D\u043A\u0440\u0430\u043D"
+      - "Koko n\xE4ytt\xF6"
+      - "\u30D5\u30EB\u30B9\u30AF\u30EA\u30FC\u30F3"
+      - Tela Cheia
+      - Pantalla Completa
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_general
+      TermType: 0
+      Description: 
+      Languages:
+      - General
+      - Allgemein
+      - Allgemein
+      - "\u041E\u0431\u0449\u0438\u0435"
+      - Yleinen
+      - "\u3044\u3063\u3071\u3093"
+      - Geral
+      - General
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_keyboard
+      TermType: 0
+      Description: 
+      Languages:
+      - Keyboard
+      - Tastatur
+      - Tastatur
+      - "\u041A\u043B\u0430\u0432\u0438\u0430\u0442\u0443\u0440\u0430"
+      - "N\xE4pp\xE4imist\xF6"
+      - "\u30AD\u30FC\u30DC\u30FC\u30C9"
+      - Teclado
+      - Teclado
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_language
+      TermType: 0
+      Description: 
+      Languages:
+      - Language
+      - Sprache
+      - Sprache
+      - "\u042F\u0437\u044B\u043A"
+      - Kieli
+      - "\u8A00\u8A9E"
+      - Idioma
+      - Idioma
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_mode
+      TermType: 0
+      Description: 
+      Languages:
+      - Mode
+      - Modus
+      - Modus
+      - "\u0420\u0435\u0436\u0438\u043C"
+      - Moodi
+      - "\u30E2\u30FC\u30C9"
+      - Modo
+      - Modo
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_mouse
+      TermType: 0
+      Description: 
+      Languages:
+      - Mouse
+      - Maus
+      - Maus
+      - "\u041C\u044B\u0448\u044C"
+      - Hiiri
+      - "\u30DE\u30A6\u30B9"
+      - Mouse
+      - "Rat\xF3n"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_music
+      TermType: 0
+      Description: 
+      Languages:
+      - Music
+      - Musik
+      - Musik
+      - "\u041C\u0443\u0437\u044B\u043A\u0430"
+      - Musiikki
+      - "\u304A\u3093\u304C\u304F"
+      - "M\xFAsica"
+      - "M\xFAsica"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_numpad
+      TermType: 0
+      Description: 
+      Languages:
+      - NumPad
+      - NumBlock
+      - NumBlock
+      - "\u0426\u0438\u0444\u0440\u043E\u0432\u043E\u0439 \u0411\u043B\u043E\u043A"
+      - NumPad
+      - "\u30C6\u30F3\u30AD\u30FC"
+      - NumPad
+      - "Teclado N\xFAmerico"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_okay
+      TermType: 0
+      Description: 
+      Languages:
+      - Okay
+      - Okay
+      - Passt
+      - "\u041E\u041A"
+      - Okei
+      - OK
+      - OK!
+      - "\xA1OK!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_resolution
+      TermType: 0
+      Description: 
+      Languages:
+      - Resolution
+      - "Aufl\xF6sung"
+      - "Aufl\xF6sung"
+      - "\u0420\u0430\u0437\u0440\u0435\u0448\u0435\u043D\u0438\u0435"
+      - Resoluutio
+      - "\u304B\u3044\u305E\u3046\u3069"
+      - "Resolu\xE7\xE3o"
+      - "Resoluci\xF3n"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_return
+      TermType: 0
+      Description: 
+      Languages:
+      - Return
+      - "Zur\xFCck"
+      - Zruck
+      - "\u041D\u0430\u0437\u0430\u0434"
+      - Takaisin
+      - "\u3082\u3069\u308B"
+      - Voltar
+      - Volver
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_video
+      TermType: 0
+      Description: 
+      Languages:
+      - Video
+      - Video
+      - Video
+      - "\u0412\u0438\u0434\u0435\u043E"
+      - Kuva
+      - "\u30D3\u30C7\u30AA"
+      - "V\xEDdeo"
+      - Video
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: options_volume
+      TermType: 0
+      Description: 
+      Languages:
+      - Volume
+      - "Lautst\xE4rke"
+      - "Lautst\xE4rke"
+      - "\u0413\u0440\u043E\u043C\u043A\u043E\u0441\u0442\u044C"
+      - "\xC4\xE4nenvoimakkuus"
+      - "\u30DC\u30EA\u30E5\u30FC\u30E0"
+      - Volume
+      - "Vol\xFAmen"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: pause_continue
+      TermType: 0
+      Description: 
+      Languages:
+      - Continue
+      - Weiter
+      - Weida geht's
+      - "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C"
+      - Jatkaa
+      - "\u3064\u3065\u3051\u308B"
+      - Continuar
+      - Continuar
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: pause_options
+      TermType: 0
+      Description: 
+      Languages:
+      - Options
+      - Optionen
+      - Optionen
+      - "\u041E\u043F\u0446\u0438\u0438"
+      - Vaihtoehdot
+      - "\u30AA\u30D7\u30B7\u30E7\u30F3"
+      - "Op\xE7\xF5es"
+      - Opciones
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: pause_quit
+      TermType: 0
+      Description: 
+      Languages:
+      - Quit
+      - Beenden
+      - Beenden
+      - "\u0412\u044B\u0445\u043E\u0434"
+      - Lopettaa
+      - "\u3084\u3081\u308B"
+      - Sair
+      - Salir
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: pause_restart
+      TermType: 0
+      Description: 
+      Languages:
+      - Restart
+      - Neustarten
+      - Neich startn
+      - "\u041F\u0435\u0440\u0435\u0437\u0430\u043F\u0443\u0441\u043A"
+      - "Uudelleenk\xE4ynnist\xE4\xE4"
+      - "\u30EA\u30B9\u30BF\u30FC\u30C8"
+      - Reiniciar
+      - Reiniciar
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: pause_return
+      TermType: 0
+      Description: 
+      Languages:
+      - Return to map
+      - "Zur\xFCck zur Karte"
+      - Zruck zua Koatn
+      - "\u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F \u043D\u0430 \u043A\u0430\u0440\u0442\u0443"
+      - Palaa karttaan
+      - "\u30DE\u30C3\u30D7\u3078\u3082\u3069\u308B"
+      - Voltar ao mapa
+      - Volver al mapa
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: German
+      TermType: 0
+      Description: 
+      Languages:
+      - German
+      - Deutsch
+      - Deutsch
+      - "\u041D\u0435\u043C\u0435\u0446\u043A\u0438\u0439"
+      - Saksa
+      - German
+      - "Alem\xE3o"
+      - "Alem\xE1n"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: English
+      TermType: 0
+      Description: 
+      Languages:
+      - English
+      - Englisch
+      - Englisch
+      - "\u0410\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439"
+      - Englanti
+      - English
+      - "Ingl\xEAs"
+      - "Ingl\xE9s"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Austrian
+      TermType: 0
+      Description: 
+      Languages:
+      - Austrian
+      - "\xD6sterreich"
+      - "\xD6sterreich"
+      - "\u0410\u0432\u0441\u0442\u0440\u0438\u0439\u0441\u043A\u0438\u0439"
+      - "It\xE4valtala"
+      - Austrian
+      - "Austr\xEDaco"
+      - "Austr\xEDaco"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Russian
+      TermType: 0
+      Description: 
+      Languages:
+      - Russian
+      - Russisch
+      - Russisch
+      - "\u0420\u0443\u0441\u0441\u043A\u0438\u0439"
+      - "Ven\xE4j\xE4"
+      - Russian
+      - Russo
+      - Ruso
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Japanese
+      TermType: 0
+      Description: 
+      Languages:
+      - Japanese
+      - Japanisch
+      - Japanisch
+      - "\u042F\u043F\u043E\u043D\u0441\u043A\u0438\u0439"
+      - Japanese
+      - Japanese
+      - "Japon\xEAs"
+      - "Japon\xE9s"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Finnish
+      TermType: 0
+      Description: 
+      Languages:
+      - Finnish
+      - Finnish
+      - Finnish
+      - "\u0424\u0438\u043D\u0441\u043A\u0438\u0439"
+      - Finnish
+      - Finnish
+      - "Finland\xEAs"
+      - "Finland\xE9s"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: hedgar_joins_the_party
+      TermType: 0
+      Description: 
+      Languages:
+      - Hedgar joins the party!
+      - "Hedgar schlie\xDFt sich der Gruppe an!"
+      - "Hedgar schlia\xDFt si der Gruppn on!"
+      - "\u0425\u0435\u0434\u0433\u0430\u0440 \u043F\u0440\u0438\u0441\u043E\u0435\u0434\u0438\u043D\u0438\u043B\u0441\u044F
+        \u043A \u0433\u0440\u0443\u043F\u043F\u0435!"
+      - "Siilinus liittyy ryhm\xE4\xE4n!"
+      - "\u30D8\u30C3\u30B8\u30E3\u30FC\u304C\u306A\u304B\u307E\u306B\u306A\u3063\u305F\uFF01"
+      - "Hedgar uniu-se \xE0 dupla!"
+      - "\xA1Hedgar se ha unido al equipo!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Light
+      TermType: 0
+      Description: 
+      Languages:
+      - Light
+      - Hell
+      - Hell
+      - "\u0421\u0432\u0435\u0442\u043B\u044B\u0439"
+      - Kevyt
+      - "\u30E9\u30A4\u30C8"
+      - Claro
+      - Claro
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Gray
+      TermType: 0
+      Description: 
+      Languages:
+      - Gray
+      - Grau
+      - Grau
+      - "\u0421\u0435\u0440\u044B\u0439"
+      - Harmaa
+      - "\u30B0\u30EC\u30A4"
+      - Cinza
+      - Gris
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Sepia
+      TermType: 0
+      Description: 
+      Languages:
+      - Sepia
+      - Sepia
+      - Sepia
+      - "\u0421\u0435\u043F\u0438\u044F"
+      - Seepia
+      - "\u30BB\u30D4\u30A2"
+      - "S\xE9pia"
+      - Sepia
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Dark
+      TermType: 0
+      Description: 
+      Languages:
+      - Dark
+      - Finster
+      - Finster
+      - "\u0422\u0451\u043C\u043D\u044B\u0439"
+      - Tumma
+      - "\u30C0\u30FC\u30AF"
+      - Escuro
+      - Oscuro
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Inverted
+      TermType: 0
+      Description: 
+      Languages:
+      - Inverted
+      - Invertiert
+      - Invertiert
+      - "\u0418\u043D\u0432\u0435\u0440\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u0439"
+      - "K\xE4\xE4nteinen"
+      - "\u306F\u3093\u3066\u3093"
+      - Negativo
+      - Invertido
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: GameBoy
+      TermType: 0
+      Description: 
+      Languages:
+      - GameBoy
+      - GameBoy
+      - GameBoy
+      - "\u0413\u0435\u0439\u043C\u0411\u043E\u0439"
+      - GameBoy
+      - "GB\u98A8"
+      - GameBoy
+      - GameBoy
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: controls_build
+      TermType: 0
+      Description: 
+      Languages:
+      - Build / Confirm
+      - "Bauen / Best\xE4tigen"
+      - "Bauen / Best\xE4tigen"
+      - "\u0421\u0442\u0440\u043E\u0438\u0442\u044C / \u041F\u043E\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u044C"
+      - Rakenna / Vahvista
+      - "\u7BB1\u3092\u304A\u304F / \u3051\u3063\u3066\u3044"
+      - Construir / Confirmar
+      - Construir / Confirmar
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: controls_remove
+      TermType: 0
+      Description: 
+      Languages:
+      - Remove / Cancel
+      - Entfernen / Abbrechen
+      - Entfernen / Abbrechen
+      - "\u0423\u0431\u0440\u0430\u0442\u044C / \u041E\u0442\u043C\u0435\u043D\u0430"
+      - Poista / Peruuta
+      - "\u7BB1\u3092\u3068\u308B / \u30AD\u30E3\u30F3\u30BB\u30EB"
+      - Remover / Cancelar
+      - Quitar / Cancelar
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: controls_start
+      TermType: 0
+      Description: 
+      Languages:
+      - Start spirits
+      - Geister losschicken
+      - Geister losschicken
+      - "\u0417\u0430\u043F\u0443\u0441\u043A \u0434\u0443\u0445\u043E\u0432"
+      - Aloita henget
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u3092\u3046\u3054\u304B\u3059"
+      - "Iniciar esp\xEDritos."
+      - "Comenzar esp\xEDritus"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: controls_preview
+      TermType: 0
+      Description: 
+      Languages:
+      - Preview spirit path
+      - Geister Vorschau
+      - Geister Vorschau
+      - "\u041F\u0440\u0435\u0434\u043F\u0440\u043E\u0441\u043C\u043E\u0442\u0440
+        \u043F\u0443\u0442\u0438"
+      - Esikatsele henkipolku
+      - "\u30B9\u30D4\u30EA\u30C3\u30C8\u306E\u30EB\u30FC\u30C8\u3092\u30D7\u30EC\u30D3\u30E5\u30FC"
+      - "Visualizar o caminho dos esp\xEDritos"
+      - Vista previa del camino espiritual
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: controls_characters
+      TermType: 0
+      Description: 
+      Languages:
+      - Switch characters
+      - Charaktere wechseln
+      - Charaktere wechseln
+      - "\u0421\u043C\u0435\u043D\u0430 \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u0436\u0435\u0439"
+      - Vaihda hahmoja
+      - "\u30AD\u30E3\u30E9\u3092\u3078\u3093\u3053\u3046"
+      - Trocar personagens
+      - Cambiar personajes
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: controls_cursor
+      TermType: 0
+      Description: 
+      Languages:
+      - Switch cursor style
+      - Cursor wechseln
+      - Cursor wechseln
+      - "\u0421\u043C\u0435\u043D\u0430 \u043A\u0443\u0440\u0441\u043E\u0440\u0430"
+      - Vaihda kohdistimen tyyli
+      - "\u30AB\u30FC\u30BD\u30EB\u30B9\u30BF\u30A4\u30EB\u3092\u3078\u3093\u3053\u3046"
+      - Trocar estilo do cursor
+      - Cambiar estilo del cursor
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: controls_move
+      TermType: 0
+      Description: 
+      Languages:
+      - Move
+      - Bewegen
+      - Bewegen
+      - "\u0414\u0432\u0438\u0436\u0435\u043D\u0438\u0435"
+      - "Siirr\xE4"
+      - "\u3044\u3069\u3046"
+      - Mover
+      - Mover
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: controls_keyboard
+      TermType: 0
+      Description: Use \n between the words
+      Languages:
+      - Build / Confirm\nRemove / Cancel\nStart spirits\nPreview spirit path\nSwitch
+        characters\nSwitch cursor style\nMove
+      - "Bauen / Best\xE4tigen\\nEntfernen / Abbrechen\\nGeister losschicken\\nGeister
+        Vorschau\\nCharaktere wechseln\\nCursor wechseln\\nBewegen"
+      - "Bauen / Best\xE4tigen\\nEntfernen / Abbrechen\\nGeister losschicken\\nGeister
+        Vorschau\\nCharaktere wechseln\\nCursor wechseln\\nBewegen"
+      - "\u0421\u0442\u0440\u043E\u0438\u0442\u044C / \u041F\u043E\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u044C\\n\u0423\u0431\u0440\u0430\u0442\u044C
+        / \u041E\u0442\u043C\u0435\u043D\u0430\\n\u0417\u0430\u043F\u0443\u0441\u043A
+        \u0434\u0443\u0445\u043E\u0432\\n\u041F\u0440\u0435\u0434\u043F\u0440\u043E\u0441\u043C\u043E\u0442\u0440
+        \u043F\u0443\u0442\u0438\\n\u0421\u043C\u0435\u043D\u0430 \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u0436\u0435\u0439\\n\u0421\u043C\u0435\u043D\u0430
+        \u043A\u0443\u0440\u0441\u043E\u0440\u0430\\n\u0414\u0432\u0438\u0436\u0435\u043D\u0438\u0435"
+      - "Rakenna / Vahvista\\nPoista / Peruuta\\nK\xE4ynnist\xE4 henget\\nEsikatsele
+        henkipolku\\nVaihda hahmoja\\nVaihda kohdistimen tyyli\\nSiirr\xE4"
+      - "\u7BB1\u3092\u304A\u304F / \u3051\u3063\u3066\u3044\\n\u7BB1\u3092\u3068\u308B
+        / \u30AD\u30E3\u30F3\u30BB\u30EB\\n\u30B9\u30D4\u30EA\u30C3\u30C8\u3092\u3046\u3054\u304B\u3059\\n\u30B9\u30D4\u30EA\u30C3\u30C8\u306E\u30EB\u30FC\u30C8\u3092\u30D7\u30EC\u30D3\u30E5\u30FC\\n\u30AD\u30E3\u30E9\u3092\u3078\u3093\u3053\u3046\\n\u30AB\u30FC\u30BD\u30EB\u30B9\u30BF\u30A4\u30EB\u3092\u3078\u3093\u3053\u3046\\n\u3044\u3069\u3046"
+      - "Construir / Confirmar\\nRemover / Cancelar\\nIniciar esp\xEDritos\\nVisualizar
+        o caminho dos esp\xEDritos \\nTrocar personagens\\nTrocar estilo do cursor\\nMover"
+      - "Construir / Confirmar\\nQuitar / Cancelar\\nComenzar esp\xEDritus\\nVista
+        previa del camino espiritual\\nCambiar personajes\\nCambiar estilo de cursor\\nMover"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: controls_mouse
+      TermType: 0
+      Description: Use \n between the words
+      Languages:
+      - Build / Confirm\nRemove / Cancel\nStart spirits\nSwitch characters\nSwitch
+        cursor style
+      - "Bauen / Best\xE4tigen\\nEntfernen / Abbrechen\\nGeister losschicken\\nCharaktere
+        wechseln\\nCursor wechseln"
+      - "Bauen / Best\xE4tigen\\nEntfernen / Abbrechen\\nGeister losschicken\\nCharaktere
+        wechseln\\nCursor wechseln"
+      - "\u0421\u0442\u0440\u043E\u0438\u0442\u044C / \u041F\u043E\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u044C\\n\u0423\u0431\u0440\u0430\u0442\u044C
+        / \u041E\u0442\u043C\u0435\u043D\u0430\\n\u0417\u0430\u043F\u0443\u0441\u043A
+        \u0434\u0443\u0445\u043E\u0432\\n\u0421\u043C\u0435\u043D\u0430 \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u0436\u0435\u0439\\n\u0421\u043C\u0435\u043D\u0430
+        \u043A\u0443\u0440\u0441\u043E\u0440\u0430"
+      - "Rakenna / Vahvista\\nPoista / Peruuta\\nK\xE4ynnist\xE4 henget\\nVaihda
+        hahmoja\\nVaihda kohdistintyyli\xE4"
+      - "\u7BB1\u3092\u304A\u304F / \u3051\u3063\u3066\u3044\\n\u7BB1\u3092\u3068\u308B
+        / \u30AD\u30E3\u30F3\u30BB\u30EB\\n\u30B9\u30D4\u30EA\u30C3\u30C8\u3092\u3046\u3054\u304B\u3059\\n\u30AD\u30E3\u30E9\u3092\u3078\u3093\u3053\u3046\\n\u30AB\u30FC\u30BD\u30EB\u30B9\u30BF\u30A4\u30EB\u3092\u3078\u3093\u3053\u3046"
+      - "Construir / Confirmar\\nRemover / Cancelar\\nIniciar esp\xEDritos\\nTrocar
+        personagens\\nTrocar estilo do cursor"
+      - "Construir / Confirmar\\nQuitar / Cancelar\\nComenzar esp\xEDritus\\nCambiar
+        personajes\\nCambiar estilo de cursor"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: controls_controller
+      TermType: 0
+      Description: Use \n between the words
+      Languages:
+      - Build / Confirm\nRemove / Cancel\nStart spirits\nPreview spirit path\nSwitch
+        characters\nSwitch cursor style
+      - "Bauen / Best\xE4tigen\\nEntfernen / Abbrechen\\nGeister losschicken\\nGeister
+        Vorschau\\nCharaktere wechseln\\nCursor wechseln"
+      - "Bauen / Best\xE4tigen\\nEntfernen / Abbrechen\\nGeister losschicken\\nGeister
+        Vorschau\\nCharaktere wechseln\\nCursor wechseln"
+      - "\u0421\u0442\u0440\u043E\u0438\u0442\u044C / \u041F\u043E\u0434\u0442\u0432\u0435\u0440\u0434\u0438\u0442\u044C\\n\u0423\u0431\u0440\u0430\u0442\u044C
+        / \u041E\u0442\u043C\u0435\u043D\u0430\\n\u0417\u0430\u043F\u0443\u0441\u043A
+        \u0434\u0443\u0445\u043E\u0432\\n\u041F\u0440\u0435\u0434\u043F\u0440\u043E\u0441\u043C\u043E\u0442\u0440
+        \u043F\u0443\u0442\u0438\\n\u0421\u043C\u0435\u043D\u0430 \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u0436\u0435\u0439\\n\u0421\u043C\u0435\u043D\u0430
+        \u043A\u0443\u0440\u0441\u043E\u0440\u0430"
+      - "Rakenna / vahvista\\nPoista / Peruuta\\nK\xE4ynnist\xE4 henget\\nEsikatselu
+        henkipolussa\\nVaihda hahmoja\\nVaihda kohdistintyyli\xE4"
+      - "\u7BB1\u3092\u304A\u304F / \u3051\u3063\u3066\u3044\\n\u7BB1\u3092\u3068\u308B
+        / \u30AD\u30E3\u30F3\u30BB\u30EB\\n\u30B9\u30D4\u30EA\u30C3\u30C8\u3092\u3046\u3054\u304B\u3059\\n\u30B9\u30D4\u30EA\u30C3\u30C8\u306E\u30EB\u30FC\u30C8\u3092\u30D7\u30EC\u30D3\u30E5\u30FC\\n\u30AD\u30E3\u30E9\u3092\u3078\u3093\u3053\u3046\\n\u30AB\u30FC\u30BD\u30EB\u30B9\u30BF\u30A4\u30EB\u3092\u3078\u3093\u3053\u3046"
+      - "Construir / Confirmar\\nRemover / Cancelar\\nIniciar esp\xEDritos\\nVisualizar
+        o caminho dos esp\xEDritos\\nTrocar personagens\\nTrocar estilo do cursor"
+      - "Construir / Confirmar\\nQuitar / Cancelar\\nComenzar esp\xEDritus\\nVista
+        previa del camino espiritual\\nCambiar personajes\\nCambiar estilo de cursor"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: controls_label_mouse
+      TermType: 0
+      Description: Use \n between the words
+      Languages:
+      - 'Left:\nRight:\nMiddle:\nDown:\nUp:'
+      - 'Links:\nRechts:\nMitte:\nRad Unten:\nRad Oben:'
+      - 'Links:\nRechts:\nMitte:\nRad Unten:\nRad Oben:'
+      - "\u0412\u043B\u0435\u0432\u043E:\\n\u0412\u043F\u0440\u0430\u0432\u043E:\\n\u0426\u0435\u043D\u0442\u0440:\\n\u0412\u043D\u0438\u0437:\\n\u0412\u0432\u0435\u0440\u0445:"
+      - "Vasen:\\nOikea:\\nKeski:\\nAlas:\\nYl\xF6s:"
+      - "\u5DE6:\\n\u53F3:\\n\u4E2D:\\n\u4E0B:\\n\u4E0A:"
+      - 'Esquerda:\nDireita:\nMeio:\nBaixo:\nCima:'
+      - 'Izquierda:\nDerecha:\nMedio:\nAbajo:\nArriba:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: empty
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: German (Germany)
+      Code: de-DE
+      Flags: 0
+    - Name: German (Austria)
+      Code: de-AT
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: Finnish
+      Code: fi
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    - Name: Brazilian Portuguese
+      Code: 
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets:
+    - {fileID: 11400000, guid: 292eff720029e0f4ba6c0b53328ceffe, type: 2}
+    - {fileID: 11400000, guid: 8caa91c6d3f71ba42be5434d8e71d541, type: 2}
+    Spreadsheet_LocalFileName: "C:/Users/muddasheep/Desktop/Catty & Batty_ The Translation
+      \U0001F408\U0001F987 - Words and Sentences.tsv"
+    Spreadsheet_LocalCSVSeparator: "\t"
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1

@@ -1,0 +1,305 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroLoading.unity
+    guid: d99c9b93fd91c0746958dc63e85b1661
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 8014e988322150d4fa7f1ae36854e625
+  - enabled: 1
+    path: Assets/Scenes/Overworld.unity
+    guid: 0c4be086c8c9e3f49aa2a3bac9425e02
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: c0ca885fc1eaea04d90fce6d8e98140a
+  - enabled: 1
+    path: Assets/Scenes/Cutscene1.unity
+    guid: 6d760dbcc23873a44bdac7f3b008b528
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Cutscene2.unity
+    guid: ef3d0641073711f488bcd7cc70e92d42
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide2.unity
+    guid: 3e9fcb97b6b7e6f4281728c4206b2168
+  - enabled: 1
+    path: Assets/Scenes/Cutscene3.unity
+    guid: 91dc1394bfd8d534e89d141868c40870
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide3.unity
+    guid: 39d7b19f454e29b4f960ff079dfe1071
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide3_hard.unity
+    guid: dbf4660f19b64554a85ea356a5c2f500
+  - enabled: 1
+    path: Assets/Scenes/Cutscene4.unity
+    guid: 3644599959107364aa07cdcfbad93b8f
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide4.unity
+    guid: 64850fb47db0d4e44aeaa44c01fff2bc
+  - enabled: 1
+    path: Assets/Scenes/Cutscene5.unity
+    guid: 674d4961eca28d84789dc24e8d9874e8
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide5.unity
+    guid: fc354725d25d6ac4cb3ee78a09b2601e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene6.unity
+    guid: fc2893fe6931e574eb731c0f64416acc
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide6.unity
+    guid: 438521d2a6c975543b7799722099e67c
+  - enabled: 1
+    path: Assets/Scenes/Cutscene7.unity
+    guid: 45923e726b8c6a84eaafa95d047373d6
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide7.unity
+    guid: f408ad07fae6d7c4c9cca0b2afd0805e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene8.unity
+    guid: 82903ec2eaa12e44ab110236060d2eaf
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide8.unity
+    guid: 4cbcd5db59cebaf4cb20e5bb145346bb
+  - enabled: 1
+    path: Assets/Scenes/Cutscene9.unity
+    guid: e387565b821af8048a361e0f52287bd5
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide9.unity
+    guid: 7ac76818244ba89468be718af39d5bb1
+  - enabled: 1
+    path: Assets/Scenes/Cutscene10.unity
+    guid: 848c4722207784d4798bbdb62677e585
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide10.unity
+    guid: f7104c71baed15e4e9e25d06da4db515
+  - enabled: 1
+    path: Assets/Scenes/Cutscene11.unity
+    guid: b641afcb47c499e45a37fa5622adf546
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide11.unity
+    guid: ab33f4e264748464ca78d58e4ed62561
+  - enabled: 1
+    path: Assets/Scenes/Cutscene12.unity
+    guid: 06b30a3b42950a34cadee4ece1458a8e
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide12.unity
+    guid: 92a0902923f547f4c87c2eaa5285a053
+  - enabled: 1
+    path: Assets/Scenes/Cutscene13.unity
+    guid: 1c4c4e6792e2afb4da9fe8a99b91a585
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide13.unity
+    guid: 75764bcabfaf75449a9184b58efc2c73
+  - enabled: 1
+    path: Assets/Scenes/Cutscene14.unity
+    guid: f2a00b7588ff5dc4eb0eb6277adda1ab
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide14.unity
+    guid: 26bf3cf11a760b645b2c53e1bd8fb90a
+  - enabled: 1
+    path: Assets/Scenes/Cutscene16.unity
+    guid: 51806a3e307648445a75118a41901b8a
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide15.unity
+    guid: 011f9e2765c665c46b3fbe7d3f0d46de
+  - enabled: 1
+    path: Assets/Scenes/Cutscene15.unity
+    guid: cf6d29b9e8b4f3c4390cc3e45c1736be
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide16.unity
+    guid: 27961d13e721cbf44a0393fcecf91b31
+  - enabled: 1
+    path: Assets/Scenes/Cutscene17.unity
+    guid: 8636b0a183ccce44d81bff40df75ff08
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide17.unity
+    guid: 9d98dd86fbd96894c8d11991f021dfaf
+  - enabled: 1
+    path: Assets/Scenes/Cutscene18.unity
+    guid: 3eef38f81274b394aa296580859c52ea
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide18.unity
+    guid: 3273b7504a338c64eb10be9ef1a70277
+  - enabled: 1
+    path: Assets/Scenes/Cutscene19.unity
+    guid: 949d9c8ac857a854da02dcd094fc3236
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide19.unity
+    guid: 642a6104190071b498bc00a11e8b1673
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide19_easy.unity
+    guid: ebcf878387cae2d408509228c4008947
+  - enabled: 1
+    path: Assets/Scenes/Cutscene20.unity
+    guid: 4c31116f3bfe6814499d6010d8a8d7b4
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide20.unity
+    guid: 4d9c7f0f48e5933489539e55df690043
+  - enabled: 1
+    path: Assets/Scenes/Cutscene21.unity
+    guid: 8164261f7c77f8b498b5258d48da1c11
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide21.unity
+    guid: 811966d636bb4cd49af2aa2bb3d3f969
+  - enabled: 1
+    path: Assets/Scenes/Cutscene22.unity
+    guid: 8abe1fe7ac9939443a45abbf0619a318
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide22.unity
+    guid: de5e5a008b5d2a14c8172b2dae1b2a0e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene23.unity
+    guid: 2827b06e99f850b4d8ef511f01b6995b
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide23.unity
+    guid: dc66d37e17d18974885bd69068977560
+  - enabled: 1
+    path: Assets/Scenes/Cutscene24.unity
+    guid: c54549707f13eee4fa4552d5b4315435
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide24.unity
+    guid: cf6c170dd341e50438b69dc684a899ca
+  - enabled: 1
+    path: Assets/Scenes/Cutscene25.unity
+    guid: 9a5ccac5db39d124e9008cfe40a7ccb5
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide25.unity
+    guid: 9e932590ec821b24b810f2dd021c2a51
+  - enabled: 1
+    path: Assets/Scenes/Cutscene26.unity
+    guid: 2a8d952c60acce244a90cc5f69e28d01
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide26.unity
+    guid: c49116e0ae0845a4793da8e4abd5e45e
+  - enabled: 1
+    path: Assets/Scenes/Cutscene27.unity
+    guid: 121952e13f7dd804fa8fa9ff98f14515
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide27.unity
+    guid: 04c47b298fb1bb84f810d524e7214795
+  - enabled: 1
+    path: Assets/Scenes/Cutscene28.unity
+    guid: 4a1a295bba17421458b9bd8ad2d3a7d1
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide28.unity
+    guid: 0362de74cd5e26c4b95925cd5a61b148
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide28_hard.unity
+    guid: df3c34a0affb15a4084a8300d0f16d60
+  - enabled: 1
+    path: Assets/Scenes/Cutscene29.unity
+    guid: 5324d031bb2c8c248987125e631f8eb2
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide29.unity
+    guid: 63a001653ded94242aa67a009dd9b4a7
+  - enabled: 1
+    path: Assets/Scenes/Cutscene30.unity
+    guid: 480773183fa47d848a51981e1c520bff
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide30.unity
+    guid: dcaf24d2765f2bc4a9e351e3ffe31590
+  - enabled: 1
+    path: Assets/Scenes/Cutscene31.unity
+    guid: db7a246014696b54a9a055c2a12a6887
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide31.unity
+    guid: 04621130b91ef5a4ca98982b2603c3a5
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide1_hard.unity
+    guid: 3e8718c5099536145a878d57abf01ce5
+  - enabled: 1
+    path: Assets/Scenes/Overworld_hard.unity
+    guid: b0d905c9deb44d94abf8d4e953a818d1
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide2_hard.unity
+    guid: 791cca975cc5a7f44b3e7fa2893ae597
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide4_hard.unity
+    guid: 803d914e7a3814e49913dc0739a4d3c8
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide5_hard.unity
+    guid: bc86551e1dcaba74086e9f8fe25e3709
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide6_hard.unity
+    guid: cda80a21c5011824795b74cf7a044c50
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide7_hard.unity
+    guid: 5d4b6a777a73b9d4ea55a4bd22b9f18b
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide8_hard.unity
+    guid: 3a5ba3624ae30df409e117181a5a60fa
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide9_hard.unity
+    guid: 1a4798ff277c35542918fbe4e1dd0d5a
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide10_hard.unity
+    guid: 8ba6ba3808fbda141a1181b45983b023
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide11_hard.unity
+    guid: 38b32abb1a7830e4099fd82a7eaa912f
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide12_hard.unity
+    guid: 79399098b946dcd47afb7dd96a8cf813
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide13_hard.unity
+    guid: 8672ae2319d2d8649987ca622ea77d4b
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide14_hard.unity
+    guid: 08f2d46d938e9c44fb5a5ef485961de5
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide15_hard.unity
+    guid: ff04eab8857f74440a4e266a01f73984
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide16_hard.unity
+    guid: 72157309d3063704690c640d1ae73898
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide17_hard.unity
+    guid: b0a791f809d7ddb48ac082807d2e9374
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide18_hard.unity
+    guid: e042a17cdcec7c74cb36b78d96f7cb42
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide19_hard.unity
+    guid: 129b74b7c8f830b4888f38db27b57eb8
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide20_hard.unity
+    guid: b1353859128957744b1b2e83876036ba
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide21_hard.unity
+    guid: d059ef6c9c7f8794eb513b07d2c0d288
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide22_hard.unity
+    guid: 1f56dc6cd0bfa464da9b50fa548a9bb8
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide23_hard.unity
+    guid: 48b369f8085c6cc459db6f60484eb392
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide24_hard.unity
+    guid: 61eb9ccbe65834447b42a15549ef538b
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide25_hard.unity
+    guid: 53f5a24c050028543919ce6d7d2e0e5b
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide26_hard.unity
+    guid: a954e6ead130f50479fd31b8c4f65ae5
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide27_hard.unity
+    guid: 871685ec59fab534da30bb4b23fb83fc
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide29_hard.unity
+    guid: 8b7cf2edd7816bd42bd5581b5c2223ab
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide30_hard.unity
+    guid: 83c41bc6598367748af4035f3e50dab1
+  - enabled: 1
+    path: Assets/Scenes/SpiritGuide31_hard.unity
+    guid: aba50782bff8a424cb6edfe634903fe9
+  m_configObjects: {}

@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3202481615303357525
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3202481615303357526}
+  - component: {fileID: 3202481615303357527}
+  m_Layer: 0
+  m_Name: spirit_letter_background
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3202481615303357526
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3202481615303357525}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3202481615489990871}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &3202481615303357527
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3202481615303357525}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 39
+  m_Sprite: {fileID: 21300000, guid: e0e6222d0ecaf444b89d88b1c23330ee, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.5, y: 0.5}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &3202481615489990870
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3202481615489990871}
+  - component: {fileID: 3994959372769883047}
+  - component: {fileID: 2659405022159294584}
+  m_Layer: 0
+  m_Name: spirit_letter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3202481615489990871
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3202481615489990870}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.28, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3202481615303357526}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3994959372769883047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3202481615489990870}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69d512d2e7760a544997ffaa80a0f67c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  letters:
+  - {fileID: 21300000, guid: 68d6e404ee72e934e93ce36644704823, type: 3}
+  - {fileID: 21300000, guid: b72ed4fb2d4daca408e17fca7aa8cdc2, type: 3}
+  - {fileID: 21300000, guid: 52576d46297803240b44f31fd6de653c, type: 3}
+  - {fileID: 21300000, guid: d2038a23970410445b11101d7052676b, type: 3}
+  - {fileID: 21300000, guid: 3fed6041dc67cb643841ab2549a8bb10, type: 3}
+  - {fileID: 21300000, guid: a9158523f29a73f4fbcd03d3a9fdd9c7, type: 3}
+  - {fileID: 21300000, guid: b60d9929368bd9047a847d2b0ba7ef86, type: 3}
+  - {fileID: 21300000, guid: b7c6fab797d124e4baf8d972d1abe803, type: 3}
+  - {fileID: 21300000, guid: 4329cf95299173446b8f49baadbc5997, type: 3}
+  - {fileID: 21300000, guid: e2b0c796e0addb943be0cf132955a739, type: 3}
+  - {fileID: 21300000, guid: 800eb05462fd42e42a188529ba49de13, type: 3}
+  - {fileID: 21300000, guid: d35168cad636b3247813d2710733fcd9, type: 3}
+  - {fileID: 21300000, guid: ced93267dd9bc644b8ac6e727e0545f5, type: 3}
+  - {fileID: 21300000, guid: d0d9395ffa107094cbee3671946fe986, type: 3}
+  - {fileID: 21300000, guid: ca32b426e2e02e84db881f1d8edf30f9, type: 3}
+  - {fileID: 21300000, guid: 1349c8a7b68b6aa4596e15c3337f3ec9, type: 3}
+  - {fileID: 21300000, guid: 652c996b8b892e741a0cd30ec6121c74, type: 3}
+  - {fileID: 21300000, guid: 8433551156e4462469be67a69397624b, type: 3}
+  - {fileID: 21300000, guid: 1f7b29e25775cb5499443f2cb0f32d44, type: 3}
+  - {fileID: 21300000, guid: e3cceaf58cef82142881c1ced3a59074, type: 3}
+  - {fileID: 21300000, guid: 50dcc64b5febd6a458a336da2110d4fa, type: 3}
+  - {fileID: 21300000, guid: 101b7a6270f24834cbc756f9a648a29f, type: 3}
+  - {fileID: 21300000, guid: 9b413edbad03f29469c1ed0e889498ed, type: 3}
+  - {fileID: 21300000, guid: 2c9597c115ffe214ca930b26d6eb1bf3, type: 3}
+  - {fileID: 21300000, guid: 99ed12ed20948004b989e9dfbbbdf784, type: 3}
+  - {fileID: 21300000, guid: 2ac026e53f352694fbd8457e0571d7ec, type: 3}
+  sr: {fileID: 3202481615303357527}
+  ar: {fileID: 2659405022159294584}
+  letter: 0
+--- !u!95 &2659405022159294584
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3202481615489990870}
+  m_Enabled: 0
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 815563c60e90fcd4089e5bab3e956952, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
