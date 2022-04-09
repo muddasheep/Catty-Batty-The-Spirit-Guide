@@ -35,13 +35,13 @@ You can use scripts, sounds, music, and sprites in your games.
 Just make sure to credit me and send me an email, I'd like to play it: muddasheep@gmail.com
 
 Links:
-Join our Discord: https://discord.gg/TYRyHgk
-Itch.io: https://muddasheep.itch.io
-Twitter: https://twitter.com/muddasheep
-SoundCloud: https://soundcloud.com/muddasheep
-Bandcamp: https://muddasheep.bandcamp.com/
-Spotify: https://open.spotify.com/artist/27Ei3klGLTOg7Y7EAvfzTG
-Patreon: https://www.patreon.com/muddasheep
+* Join our Discord: https://discord.gg/TYRyHgk
+* Itch.io: https://muddasheep.itch.io
+* Twitter: https://twitter.com/muddasheep
+* SoundCloud: https://soundcloud.com/muddasheep
+* Bandcamp: https://muddasheep.bandcamp.com/
+* Spotify: https://open.spotify.com/artist/27Ei3klGLTOg7Y7EAvfzTG
+* Patreon: https://www.patreon.com/muddasheep
 
 Thanks for reading! Have fun~
 
